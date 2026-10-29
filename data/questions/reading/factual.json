@@ -7,7 +7,11 @@
     "difficulty": 2,
     "explanation": "The passage states explicitly in the second sentence: 'cold, dense, salty water sinks in the polar regions and flows along the ocean floor toward the equator.' This is a direct factual statement describing the mechanism of thermohaline circulation.",
     "source": "seed",
-    "tags": ["ocean", "climate", "explicit"],
+    "tags": [
+      "ocean",
+      "climate",
+      "explicit"
+    ],
     "passage_id": "passage_climate_change",
     "question": "According to the passage, what drives thermohaline circulation?",
     "choices": [
@@ -26,7 +30,11 @@
     "difficulty": 2,
     "explanation": "The passage explicitly states: 'By 2007, for the first time in history, more than half of the world's population lived in urban areas.' This is a directly stated demographic threshold.",
     "source": "seed",
-    "tags": ["urbanization", "explicit", "statistics"],
+    "tags": [
+      "urbanization",
+      "explicit",
+      "statistics"
+    ],
     "passage_id": "passage_urban_growth",
     "question": "According to the passage, what happened for the first time in 2007?",
     "choices": [
@@ -45,7 +53,11 @@
     "difficulty": 3,
     "explanation": "The passage explicitly identifies three types of cognitive load: intrinsic (complexity of material), extraneous (poor instructional design), and germane (effort devoted to schema construction). Each is clearly named and defined.",
     "source": "seed",
-    "tags": ["education", "cognitive", "explicit"],
+    "tags": [
+      "education",
+      "cognitive",
+      "explicit"
+    ],
     "passage_id": "passage_cognitive_load",
     "question": "According to the passage, which of the following is an example of extraneous cognitive load?",
     "choices": [
@@ -64,7 +76,11 @@
     "difficulty": 2,
     "explanation": "The passage states: 'Resistance arises through natural selection — when a population of bacteria is exposed to an antibiotic, susceptible organisms die while rare mutants with resistance-conferring genes survive and reproduce.'",
     "source": "seed",
-    "tags": ["biology", "antibiotics", "explicit"],
+    "tags": [
+      "biology",
+      "antibiotics",
+      "explicit"
+    ],
     "passage_id": "passage_antibiotics",
     "question": "According to the passage, how does antibiotic resistance develop?",
     "choices": [
@@ -83,7 +99,11 @@
     "difficulty": 3,
     "explanation": "The passage states Gutenberg's innovation 'reduced the cost of book production by roughly 80 percent and increased output by orders of magnitude.' Both figures are explicitly stated.",
     "source": "seed",
-    "tags": ["history", "printing", "explicit"],
+    "tags": [
+      "history",
+      "printing",
+      "explicit"
+    ],
     "passage_id": "passage_printing_press",
     "question": "According to the passage, what was one immediate effect of Gutenberg's printing press on book production?",
     "choices": [
@@ -102,7 +122,11 @@
     "difficulty": 4,
     "explanation": "The passage states the WHO 'warns that, without intervention, this figure could climb to 10 million by 2050, surpassing cancer as a cause of mortality.' This projects antibiotic-resistant deaths exceeding cancer deaths.",
     "source": "seed",
-    "tags": ["health", "antibiotics", "statistics"],
+    "tags": [
+      "health",
+      "antibiotics",
+      "statistics"
+    ],
     "passage_id": "passage_antibiotics",
     "question": "According to the passage, the World Health Organization projects that by 2050, antibiotic-resistant infections could",
     "choices": [
@@ -112,5 +136,181 @@
       "Become treatable through bacteriophage therapy"
     ],
     "correct": "Surpass cancer as a cause of mortality"
+  },
+  {
+    "id": "factual_101",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 2,
+    "explanation": "Paragraph 1 explains why cities are warmer than rural areas, and paragraph 2 presents mitigation strategies, so the passage covers both causes and solutions.",
+    "source": "adapted",
+    "tags": [
+      "urban",
+      "main-idea"
+    ],
+    "passage_id": "passage_urban_heat",
+    "question": "What is the main topic of this passage?",
+    "choices": [
+      "How to design energy-efficient buildings",
+      "The causes and solutions for higher temperatures in cities",
+      "A comparison of urban and rural lifestyles",
+      "The effects of climate change on agriculture"
+    ],
+    "correct": "The causes and solutions for higher temperatures in cities"
+  },
+  {
+    "id": "factual_102",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 2,
+    "explanation": "The passage says the temperature difference 'can reach up to 5 degrees Celsius.' The 30-degree figure refers to green roofs versus conventional roofs.",
+    "source": "adapted",
+    "tags": [
+      "urban",
+      "detail"
+    ],
+    "passage_id": "passage_urban_heat",
+    "question": "According to the passage, how much warmer can urban areas be compared to rural areas?",
+    "choices": [
+      "Up to 2 degrees Celsius",
+      "Up to 5 degrees Celsius",
+      "Up to 10 degrees Celsius",
+      "Up to 30 degrees Celsius"
+    ],
+    "correct": "Up to 5 degrees Celsius"
+  },
+  {
+    "id": "factual_103",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 2,
+    "explanation": "The passage states green roofs can reduce surface temperatures by up to 30 degrees Celsius compared to conventional roofs. The other benefits are not mentioned.",
+    "source": "adapted",
+    "tags": [
+      "urban",
+      "detail"
+    ],
+    "passage_id": "passage_urban_heat",
+    "question": "What benefit of green roofs is mentioned?",
+    "choices": [
+      "They produce food for residents",
+      "They can reduce surface temperatures significantly",
+      "They increase property values",
+      "They filter air pollution"
+    ],
+    "correct": "They can reduce surface temperatures significantly"
+  },
+  {
+    "id": "factual_104",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 2,
+    "explanation": "The final sentence says experts emphasize that a comprehensive approach combining multiple strategies yields the most significant results.",
+    "source": "adapted",
+    "tags": [
+      "urban",
+      "detail"
+    ],
+    "passage_id": "passage_urban_heat",
+    "question": "What do experts recommend for the best results?",
+    "choices": [
+      "Focusing only on green roofs",
+      "Planting more trees than anything else",
+      "Using a combination of multiple strategies",
+      "Reducing the number of vehicles"
+    ],
+    "correct": "Using a combination of multiple strategies"
+  },
+  {
+    "id": "factual_105",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "explanation": "The passage says certain neurons fired both when a monkey performed an action and when it observed another individual performing the same action.",
+    "source": "adapted",
+    "tags": [
+      "neuroscience",
+      "detail"
+    ],
+    "passage_id": "passage_mirror_neurons",
+    "question": "What was unusual about the neurons Rizzolatti's team discovered?",
+    "choices": [
+      "They only fired during sleep",
+      "They responded to both performing and observing an action",
+      "They were found in an unexpected brain region",
+      "They only existed in primates"
+    ],
+    "correct": "They responded to both performing and observing an action"
+  },
+  {
+    "id": "factual_106",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "explanation": "Paragraph 3 says the evidence remains indirect 'as single-neuron recordings in healthy humans are rare.'",
+    "source": "adapted",
+    "tags": [
+      "neuroscience",
+      "detail"
+    ],
+    "passage_id": "passage_mirror_neurons",
+    "question": "Why is direct evidence for human mirror neurons limited?",
+    "choices": [
+      "The technology doesn't exist yet",
+      "Mirror neurons only exist in monkeys",
+      "Single-neuron recordings in healthy humans are rarely conducted",
+      "The brain regions are too small to study"
+    ],
+    "correct": "Single-neuron recordings in healthy humans are rarely conducted"
+  },
+  {
+    "id": "factual_107",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "explanation": "The critics caution against attributing complex social abilities to a single mechanism, noting that social cognition likely involves distributed networks.",
+    "source": "adapted",
+    "tags": [
+      "neuroscience",
+      "rhetorical-purpose"
+    ],
+    "passage_id": "passage_mirror_neurons",
+    "question": "What is the main argument of the critics mentioned in paragraph 3?",
+    "choices": [
+      "Mirror neurons don't exist at all",
+      "Complex social abilities probably involve multiple brain systems, not just one",
+      "The original monkey studies were flawed",
+      "Empathy cannot be studied scientifically"
+    ],
+    "correct": "Complex social abilities probably involve multiple brain systems, not just one"
+  },
+  {
+    "id": "factual_108",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "explanation": "Paragraph 1 describes the discovery in monkeys, paragraph 2 extends it to humans, and paragraph 3 presents criticism of the hypothesis.",
+    "source": "adapted",
+    "tags": [
+      "neuroscience",
+      "organization"
+    ],
+    "passage_id": "passage_mirror_neurons",
+    "question": "How is the passage organized?",
+    "choices": [
+      "Problem, solution, evaluation",
+      "Discovery, expansion, criticism",
+      "Chronological history of neuroscience",
+      "Comparison of two competing theories"
+    ],
+    "correct": "Discovery, expansion, criticism"
   }
 ]

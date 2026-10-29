@@ -7,7 +7,11 @@
     "difficulty": 2,
     "explanation": "The professor explicitly frames the lecture around the Columbian Exchange and defines it in the opening: 'the massive transfer of plants, animals, people, diseases, and ideas between the Americas and the Old World.' The lecture then covers biological and ecological dimensions of that transfer.",
     "source": "seed",
-    "tags": ["history", "lecture", "main_idea"],
+    "tags": [
+      "history",
+      "lecture",
+      "main_idea"
+    ],
     "script_id": "listening_script_001",
     "question": "What is the main topic of the lecture?",
     "choices": [
@@ -26,7 +30,11 @@
     "difficulty": 3,
     "explanation": "The professor states: 'Potatoes produce more calories per acre than wheat, grow in poor soils, and can be stored underground to avoid theft during wartime.' Three specific advantages are mentioned in sequence.",
     "source": "seed",
-    "tags": ["history", "lecture", "detail"],
+    "tags": [
+      "history",
+      "lecture",
+      "detail"
+    ],
     "script_id": "listening_script_001",
     "question": "According to the professor, which of the following was an advantage of the potato over traditional grain crops in Europe?",
     "choices": [
@@ -45,7 +53,11 @@
     "difficulty": 4,
     "explanation": "The professor notes that 50–90% of indigenous Americans died from disease and calls this 'the single most important factor that made European colonization possible.' You can infer that disease, not military conquest, was the primary mechanism facilitating European colonization.",
     "source": "seed",
-    "tags": ["history", "lecture", "inference"],
+    "tags": [
+      "history",
+      "lecture",
+      "inference"
+    ],
     "script_id": "listening_script_001",
     "question": "What can be inferred from the professor's discussion of disease in the Americas?",
     "choices": [
@@ -64,7 +76,11 @@
     "difficulty": 4,
     "explanation": "The professor uses phrases like 'darker side,' 'deeply unequal,' 'enormous human costs,' and 'profoundly destructive consequences' when discussing the slave trade and ecological displacement. This signals a critical attitude toward framing the Columbian Exchange purely as a neutral biological exchange.",
     "source": "seed",
-    "tags": ["history", "lecture", "attitude"],
+    "tags": [
+      "history",
+      "lecture",
+      "attitude"
+    ],
     "script_id": "listening_script_001",
     "question": "What is the professor's attitude toward the concept of the 'Columbian Exchange'?",
     "choices": [
@@ -83,7 +99,11 @@
     "difficulty": 2,
     "explanation": "The student comes with a too-broad topic (water scarcity) and the conversation guides narrowing it to a specific comparative argument with a clear thesis. The main purpose is helping the student focus and develop an arguable research question.",
     "source": "seed",
-    "tags": ["conversation", "office_hours", "main_idea"],
+    "tags": [
+      "conversation",
+      "office_hours",
+      "main_idea"
+    ],
     "script_id": "listening_script_002",
     "question": "Why does the student visit the professor?",
     "choices": [
@@ -102,7 +122,11 @@
     "difficulty": 3,
     "explanation": "The professor says 'That's actually a really common issue with broad topics like water scarcity. The problem is usually that students pick a topic but not a question.' This functions to normalize the student's difficulty and redirect toward identifying a specific research question — it's pedagogical reassurance combined with practical guidance.",
     "source": "seed",
-    "tags": ["conversation", "office_hours", "function"],
+    "tags": [
+      "conversation",
+      "office_hours",
+      "function"
+    ],
     "script_id": "listening_script_002",
     "question": "Why does the professor say 'That's actually a really common issue'?",
     "choices": [
@@ -121,7 +145,11 @@
     "difficulty": 2,
     "explanation": "The professor explicitly contrasts Singapore's approach (desalination and wastewater recycling into 'NEWater') with Las Vegas's approach (demand management, outdoor water restrictions, and paying residents to remove lawns).",
     "source": "seed",
-    "tags": ["conversation", "office_hours", "detail"],
+    "tags": [
+      "conversation",
+      "office_hours",
+      "detail"
+    ],
     "script_id": "listening_script_002",
     "question": "According to the professor, how does Las Vegas primarily address water scarcity?",
     "choices": [
@@ -140,7 +168,11 @@
     "difficulty": 2,
     "explanation": "The lecture explains how coral reefs thrive in nutrient-poor waters through symbiosis with zooxanthellae, and how rising ocean temperatures disrupt this symbiosis to cause coral bleaching and potential recovery.",
     "source": "seed",
-    "tags": ["biology", "lecture", "main_idea"],
+    "tags": [
+      "biology",
+      "lecture",
+      "main_idea"
+    ],
     "script_id": "listening_script_003",
     "question": "What is the main purpose of the lecture?",
     "choices": [
@@ -159,7 +191,11 @@
     "difficulty": 3,
     "explanation": "The professor states that when ocean temperatures rise 1–2°C above normal summer maximums, the zooxanthellae's photosynthetic machinery breaks down and begins producing toxic reactive oxygen species (free radicals) that damage coral cells, prompting the coral to expel them.",
     "source": "seed",
-    "tags": ["biology", "lecture", "detail"],
+    "tags": [
+      "biology",
+      "lecture",
+      "detail"
+    ],
     "script_id": "listening_script_003",
     "question": "According to the professor, why does a coral polyp expel its zooxanthellae during periods of high water temperature?",
     "choices": [
@@ -178,7 +214,11 @@
     "difficulty": 3,
     "explanation": "The professor calls tropical waters 'essentially marine deserts' to highlight the paradox of Darwin's coral reef problem: how an extraordinarily productive, biodiverse ecosystem can flourish in water with almost no dissolved nutrients.",
     "source": "seed",
-    "tags": ["biology", "lecture", "function"],
+    "tags": [
+      "biology",
+      "lecture",
+      "function"
+    ],
     "script_id": "listening_script_003",
     "question": "Why does the professor refer to tropical waters as 'essentially marine deserts'?",
     "choices": [
@@ -197,7 +237,11 @@
     "difficulty": 3,
     "explanation": "When discussing the 'adaptive bleaching hypothesis,' the professor says 'Even more fascinating, marine biologists have recently discovered...' and explains how corals can acquire more heat-tolerant strains of algae. This expresses scientific interest and cautious optimism about coral resilience.",
     "source": "seed",
-    "tags": ["biology", "lecture", "attitude"],
+    "tags": [
+      "biology",
+      "lecture",
+      "attitude"
+    ],
     "script_id": "listening_script_003",
     "question": "What is the professor's attitude toward the 'adaptive bleaching hypothesis'?",
     "choices": [
@@ -216,7 +260,11 @@
     "difficulty": 4,
     "explanation": "Since zooxanthellae rely on photosynthesis using sunlight to produce 90% of the coral's organic carbon, we can infer that reef-building corals that depend on zooxanthellae must live in shallow, sunlit waters where light can penetrate.",
     "source": "seed",
-    "tags": ["biology", "lecture", "inference"],
+    "tags": [
+      "biology",
+      "lecture",
+      "inference"
+    ],
     "script_id": "listening_script_003",
     "question": "What can be inferred from the lecture about where reef-building corals with zooxanthellae can grow?",
     "choices": [
@@ -226,5 +274,335 @@
       "They do not require sunlight because the coral polyp feeds exclusively on passing jellyfish"
     ],
     "correct": "They are restricted to relatively shallow, clear waters where sufficient sunlight can penetrate for photosynthesis"
+  },
+  {
+    "id": "listening_101",
+    "section": "listening",
+    "qtype": "listening_main_idea",
+    "topic": "listening",
+    "difficulty": 2,
+    "explanation": "The student says he wants to ask about the paper due Friday and explains he needs more time to find credible sources.",
+    "source": "adapted",
+    "tags": [
+      "conversation",
+      "purpose"
+    ],
+    "script_id": "listening_script_004",
+    "question": "Why does the student visit the professor?",
+    "choices": [
+      "To submit his paper early",
+      "To request more time for an assignment",
+      "To ask about the grading rubric",
+      "To discuss his thesis topic"
+    ],
+    "correct": "To request more time for an assignment"
+  },
+  {
+    "id": "listening_102",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "listening",
+    "difficulty": 2,
+    "explanation": "He states that the library's database was down for two days last week.",
+    "source": "adapted",
+    "tags": [
+      "conversation",
+      "detail"
+    ],
+    "script_id": "listening_script_004",
+    "question": "What reason does the student give for needing more time?",
+    "choices": [
+      "He was sick last week",
+      "He had too many other assignments",
+      "The library database was unavailable",
+      "He changed his topic"
+    ],
+    "correct": "The library database was unavailable"
+  },
+  {
+    "id": "listening_103",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "listening",
+    "difficulty": 2,
+    "explanation": "She offers until Monday and says she will waive the five-percent late penalty because of the database issue.",
+    "source": "adapted",
+    "tags": [
+      "conversation",
+      "detail"
+    ],
+    "script_id": "listening_script_004",
+    "question": "What does the professor offer?",
+    "choices": [
+      "A new topic",
+      "An extension until Monday without penalty",
+      "Extra credit",
+      "Help finding sources"
+    ],
+    "correct": "An extension until Monday without penalty"
+  },
+  {
+    "id": "listening_104",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "listening",
+    "difficulty": 2,
+    "explanation": "The professor asks whether he has tried interlibrary loan, which lets him request articles from other universities.",
+    "source": "adapted",
+    "tags": [
+      "conversation",
+      "suggestion"
+    ],
+    "script_id": "listening_script_004",
+    "question": "What does the professor suggest the student try?",
+    "choices": [
+      "A different database",
+      "The interlibrary loan system",
+      "Google Scholar",
+      "Emailing other professors"
+    ],
+    "correct": "The interlibrary loan system"
+  },
+  {
+    "id": "listening_105",
+    "section": "listening",
+    "qtype": "listening_main_idea",
+    "topic": "listening",
+    "difficulty": 3,
+    "explanation": "She was approved for a single room in Greenfield but the system shows a triple room in Morrison Hall.",
+    "source": "adapted",
+    "tags": [
+      "conversation",
+      "problem"
+    ],
+    "script_id": "listening_script_005",
+    "question": "What is the student's problem?",
+    "choices": [
+      "She was assigned to the wrong building and room type",
+      "Her housing application was rejected",
+      "She wants to change roommates",
+      "Her room has maintenance issues"
+    ],
+    "correct": "She was assigned to the wrong building and room type"
+  },
+  {
+    "id": "listening_106",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "listening",
+    "difficulty": 3,
+    "explanation": "The advisor explains that when the system migrated to new software in April, several assignments were shuffled.",
+    "source": "adapted",
+    "tags": [
+      "conversation",
+      "cause"
+    ],
+    "script_id": "listening_script_005",
+    "question": "What caused the assignment error?",
+    "choices": [
+      "The student submitted the wrong form",
+      "A software migration shuffled assignments",
+      "The room was already taken",
+      "Budget cuts reduced available rooms"
+    ],
+    "correct": "A software migration shuffled assignments"
+  },
+  {
+    "id": "listening_107",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "listening",
+    "difficulty": 3,
+    "explanation": "The student says she chose a single because she is a graduate student who needs quiet for her research.",
+    "source": "adapted",
+    "tags": [
+      "conversation",
+      "detail"
+    ],
+    "script_id": "listening_script_005",
+    "question": "Why does the student need a single room?",
+    "choices": [
+      "She has a medical condition",
+      "She is a resident advisor",
+      "She needs quiet for graduate research",
+      "She doesn't get along with roommates"
+    ],
+    "correct": "She needs quiet for graduate research"
+  },
+  {
+    "id": "listening_108",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "listening",
+    "difficulty": 3,
+    "explanation": "The advisor files a correction request and recommends the student also email Doctor Patterson in graduate housing.",
+    "source": "adapted",
+    "tags": [
+      "conversation",
+      "suggestion"
+    ],
+    "script_id": "listening_script_005",
+    "question": "Which steps does the advisor take or recommend?",
+    "choices": [
+      "Filing a correction request and emailing Dr. Patterson",
+      "Applying to a different building",
+      "Waiting until next semester",
+      "Speaking to the dean"
+    ],
+    "correct": "Filing a correction request and emailing Dr. Patterson"
+  },
+  {
+    "id": "listening_109",
+    "section": "listening",
+    "qtype": "listening_main_idea",
+    "topic": "listening",
+    "difficulty": 2,
+    "explanation": "The announcer opens with a reminder that the online lab safety training is mandatory before the first lab session.",
+    "source": "adapted",
+    "tags": [
+      "announcement",
+      "purpose"
+    ],
+    "script_id": "listening_script_006",
+    "question": "What is the purpose of this announcement?",
+    "choices": [
+      "To announce a new lab course",
+      "To remind students about mandatory safety training",
+      "To introduce a new safety officer",
+      "To describe lab equipment"
+    ],
+    "correct": "To remind students about mandatory safety training"
+  },
+  {
+    "id": "listening_110",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "listening",
+    "difficulty": 2,
+    "explanation": "Students who have not completed the training by September fifth are temporarily dropped from their lab section.",
+    "source": "adapted",
+    "tags": [
+      "announcement",
+      "consequence"
+    ],
+    "script_id": "listening_script_006",
+    "question": "What happens if a student misses the deadline?",
+    "choices": [
+      "They receive a warning",
+      "They must pay a fee",
+      "They are dropped from their lab section",
+      "They fail the course"
+    ],
+    "correct": "They are dropped from their lab section"
+  },
+  {
+    "id": "listening_111",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "listening",
+    "difficulty": 2,
+    "explanation": "The announcement says the training takes approximately forty-five minutes.",
+    "source": "adapted",
+    "tags": [
+      "announcement",
+      "detail"
+    ],
+    "script_id": "listening_script_006",
+    "question": "How long does the training take?",
+    "choices": [
+      "Thirty minutes",
+      "Forty-five minutes",
+      "One hour",
+      "Two hours"
+    ],
+    "correct": "Forty-five minutes"
+  },
+  {
+    "id": "listening_112",
+    "section": "listening",
+    "qtype": "listening_main_idea",
+    "topic": "listening",
+    "difficulty": 3,
+    "explanation": "The professor introduces neuroplasticity to complicate the critical period hypothesis and shows adults can still develop native-like pathways.",
+    "source": "adapted",
+    "tags": [
+      "lecture",
+      "main-idea"
+    ],
+    "script_id": "listening_script_007",
+    "question": "What is the main topic of this lecture?",
+    "choices": [
+      "Why children learn languages better than adults",
+      "How neuroplasticity challenges traditional views on language learning age limits",
+      "The history of neuroscience research",
+      "Methods for teaching grammar to adults"
+    ],
+    "correct": "How neuroplasticity challenges traditional views on language learning age limits"
+  },
+  {
+    "id": "listening_113",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "listening",
+    "difficulty": 3,
+    "explanation": "The professor says the 2022 study found the period ends around seventeen or eighteen, with a gradual decline.",
+    "source": "adapted",
+    "tags": [
+      "lecture",
+      "detail"
+    ],
+    "script_id": "listening_script_007",
+    "question": "According to the study mentioned, when does the critical period for native-level grammar end?",
+    "choices": [
+      "Around age ten",
+      "At puberty",
+      "Around seventeen or eighteen",
+      "It never ends"
+    ],
+    "correct": "Around seventeen or eighteen"
+  },
+  {
+    "id": "listening_114",
+    "section": "listening",
+    "qtype": "listening_inference",
+    "topic": "listening",
+    "difficulty": 3,
+    "explanation": "He states that the key factor isn't age per se but the quantity and quality of input.",
+    "source": "adapted",
+    "tags": [
+      "lecture",
+      "key-factor"
+    ],
+    "script_id": "listening_script_007",
+    "question": "What factor does the professor identify as most important for adult language acquisition?",
+    "choices": [
+      "Starting age",
+      "Natural talent",
+      "Quantity and quality of input",
+      "Grammar instruction"
+    ],
+    "correct": "Quantity and quality of input"
+  },
+  {
+    "id": "listening_115",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "listening",
+    "difficulty": 2,
+    "explanation": "The professor ends by saying the next class will look at case studies of successful late language acquisition.",
+    "source": "adapted",
+    "tags": [
+      "lecture",
+      "next-class"
+    ],
+    "script_id": "listening_script_007",
+    "question": "What will the next class cover?",
+    "choices": [
+      "More neuroimaging studies",
+      "Case studies of successful late language acquisition",
+      "A review of the critical period hypothesis",
+      "An exam on neuroplasticity"
+    ],
+    "correct": "Case studies of successful late language acquisition"
   }
 ]

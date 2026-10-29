@@ -6,7 +6,11 @@
     "topic": "writing_discussion",
     "difficulty": 3,
     "source": "seed",
-    "tags": ["writing", "discussion", "technology"],
+    "tags": [
+      "writing",
+      "discussion",
+      "technology"
+    ],
     "explanation": "Self-assessed against rubric. No automated grading.",
     "professor_prompt": "This week we have been discussing the role of technology in modern education. Some researchers argue that the widespread adoption of artificial intelligence tutoring systems will improve learning outcomes for all students, while others warn it will deepen inequality. In your post, I'd like you to share your perspective on whether AI tutoring systems are ultimately beneficial or harmful for educational equity.",
     "student_a": {
@@ -34,7 +38,11 @@
     "topic": "writing_discussion",
     "difficulty": 3,
     "source": "seed",
-    "tags": ["writing", "discussion", "environment"],
+    "tags": [
+      "writing",
+      "discussion",
+      "environment"
+    ],
     "explanation": "Self-assessed against rubric. No automated grading.",
     "professor_prompt": "We have been exploring environmental policy this week. A central debate in this field is whether governments should prioritize economic growth or environmental protection when the two appear to conflict. What is your view? Should policymakers be willing to slow economic development to prevent environmental harm, or should economic growth take precedence because it funds future environmental solutions?",
     "student_a": {
@@ -62,7 +70,11 @@
     "topic": "writing_discussion",
     "difficulty": 4,
     "source": "seed",
-    "tags": ["writing", "discussion", "social_media"],
+    "tags": [
+      "writing",
+      "discussion",
+      "social_media"
+    ],
     "explanation": "Self-assessed against rubric. No automated grading.",
     "professor_prompt": "This week's topic focuses on social media and democratic discourse. Some scholars argue that social media platforms have strengthened democracy by giving ordinary citizens a voice and enabling grassroots organizing. Others contend that social media has weakened democracy by spreading misinformation and creating ideological echo chambers. What is your assessment?",
     "student_a": {
@@ -90,7 +102,11 @@
     "topic": "writing_discussion",
     "difficulty": 3,
     "source": "seed",
-    "tags": ["writing", "discussion", "public_health"],
+    "tags": [
+      "writing",
+      "discussion",
+      "public_health"
+    ],
     "explanation": "Self-assessed against rubric. No automated grading.",
     "professor_prompt": "Our readings this week examined the ethics of public health mandates. The COVID-19 pandemic reignited debate about whether governments have the right to require vaccinations or other health behaviors for the public good. Should governments be able to mandate health behaviors that protect collective well-being, even when individuals object on personal or religious grounds?",
     "student_a": {
@@ -118,7 +134,11 @@
     "topic": "writing_discussion",
     "difficulty": 4,
     "source": "seed",
-    "tags": ["writing", "discussion", "urban_planning"],
+    "tags": [
+      "writing",
+      "discussion",
+      "urban_planning"
+    ],
     "explanation": "Self-assessed against rubric. No automated grading.",
     "professor_prompt": "This week we examined how cities can address housing affordability crises. Two major policy approaches are rent control (limiting how much landlords can charge) and increasing housing supply through deregulation and new construction. Economists disagree on which approach is more effective. What is your view?",
     "student_a": {
@@ -146,7 +166,11 @@
     "topic": "writing_discussion",
     "difficulty": 3,
     "source": "seed",
-    "tags": ["writing", "discussion", "work"],
+    "tags": [
+      "writing",
+      "discussion",
+      "work"
+    ],
     "explanation": "Self-assessed against rubric. No automated grading.",
     "professor_prompt": "Remote work became normalized during the pandemic, and companies are now debating whether to require employees to return to the office. Some argue that in-office work improves collaboration, mentorship, and company culture. Others argue that remote work boosts productivity and employee well-being. What is the better long-term model for knowledge workers: office-based, remote, or hybrid?",
     "student_a": {
@@ -165,6 +189,198 @@
       "I showed awareness of practical trade-offs rather than ideal scenarios only.",
       "My sentences are clear and well-constructed.",
       "I added a perspective or argument not already covered by either student."
+    ]
+  },
+  {
+    "id": "wd_007",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "space"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Some argue that with so many pressing problems on Earth—poverty, climate change, disease—governments should stop funding space exploration and redirect that money. Do you think public money for space is justified, or should it be spent on Earth? Why?",
+    "student_a": {
+      "name": "Claire",
+      "post": "I lean toward solving Earth problems first. We have people who can't get clean water today, so space feels like a luxury we can't afford."
+    },
+    "student_b": {
+      "name": "Omar",
+      "post": "Space budgets are tiny compared with most spending, and they produce technologies like satellite weather forecasting. I'd rather keep funding it and also fund Earth programs."
+    },
+    "rubric_checklist": [
+      "I stated a clear opinion on whether public money for space exploration is justified.",
+      "I provided at least one specific reason supporting my position.",
+      "I engaged with at least one point made by Claire or Omar (agreeing, disagreeing, or extending it).",
+      "My response is at least 100 words.",
+      "I used at least one concrete example or piece of evidence.",
+      "My response is free of major grammatical errors.",
+      "I did not merely summarize what Claire and Omar said without adding my own perspective."
+    ]
+  },
+  {
+    "id": "wd_008",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "study-methods"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Research shows mixed results on study methods. Do you think students learn better by studying in groups or alone? Share your view with a concrete reason.",
+    "student_a": {
+      "name": "Kelly",
+      "post": "I love group study—explaining things to friends helps me remember, and it's less boring."
+    },
+    "student_b": {
+      "name": "Daniel",
+      "post": "Groups drift off topic for me. I get far more done alone, where I can control the pace and focus on what I personally find hard."
+    },
+    "rubric_checklist": [
+      "I stated a clear opinion on whether group or solo study is more effective.",
+      "I provided at least one specific reason supporting my position.",
+      "I engaged with at least one point made by Kelly or Daniel (agreeing, disagreeing, or extending it).",
+      "My response is at least 100 words.",
+      "I used at least one concrete example or piece of evidence.",
+      "My response is free of major grammatical errors.",
+      "I did not merely summarize what Kelly and Daniel said without adding my own perspective."
+    ]
+  },
+  {
+    "id": "wd_009",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "business"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Should a company's first duty be maximizing profit for shareholders, or should it prioritize social and environmental responsibility even at the cost of profit? Defend your position.",
+    "student_a": {
+      "name": "Claire",
+      "post": "Profit comes first—without money a company can't help anyone. Responsibility is a luxury for big firms."
+    },
+    "student_b": {
+      "name": "Priya",
+      "post": "Companies depend on society and the environment, so ignoring them is short-sighted. Responsible firms also tend to earn lasting customer trust."
+    },
+    "rubric_checklist": [
+      "I stated a clear opinion on a company's first duty.",
+      "I provided at least one specific reason supporting my position.",
+      "I engaged with at least one point made by Claire or Priya (agreeing, disagreeing, or extending it).",
+      "My response is at least 100 words.",
+      "I used at least one concrete example or piece of evidence.",
+      "My response is free of major grammatical errors.",
+      "I did not merely summarize what Claire and Priya said without adding my own perspective."
+    ]
+  },
+  {
+    "id": "wd_010",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "technology"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Critics say smartphones and social media isolate us, while supporters say they connect us like never before. Where do you stand, and why?",
+    "student_a": {
+      "name": "Kelly",
+      "post": "I think we're more connected—I talk to friends abroad every day who I'd never meet otherwise."
+    },
+    "student_b": {
+      "name": "Marcus",
+      "post": "Those chats are often shallow. I see people at dinner staring at their phones, and real conversation seems to be disappearing."
+    },
+    "rubric_checklist": [
+      "I stated a clear opinion on whether smartphones and social media connect or isolate people.",
+      "I provided at least one specific reason supporting my position.",
+      "I engaged with at least one point made by Kelly or Marcus (agreeing, disagreeing, or extending it).",
+      "My response is at least 100 words.",
+      "I used at least one concrete example or piece of evidence.",
+      "My response is free of major grammatical errors.",
+      "I did not merely summarize what Kelly and Marcus said without adding my own perspective."
+    ]
+  },
+  {
+    "id": "wd_011",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "workplace"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "When building a team, is it better to hire experienced workers at higher cost, or to hire young, trainable people at lower cost? What would you advise a new manager?",
+    "student_a": {
+      "name": "Claire",
+      "post": "Always experienced—they hit the ground running and you don't waste time training."
+    },
+    "student_b": {
+      "name": "Layla",
+      "post": "Younger hires bring fresh ideas and adapt to a company's way of working. With good mentoring they can outgrow experienced hires and cost less."
+    },
+    "rubric_checklist": [
+      "I stated a clear opinion on whether to hire experienced or young workers.",
+      "I provided at least one specific reason supporting my position.",
+      "I engaged with at least one point made by Claire or Layla (agreeing, disagreeing, or extending it).",
+      "My response is at least 100 words.",
+      "I used at least one concrete example or piece of evidence.",
+      "My response is free of major grammatical errors.",
+      "I did not merely summarize what Claire and Layla said without adding my own perspective."
+    ]
+  },
+  {
+    "id": "wd_012",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "urban-policy"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Some cities ban private cars from their downtown cores to cut pollution and reclaim public space. Is a full car ban a good policy, in your view? Why or why not?",
+    "student_a": {
+      "name": "Kelly",
+      "post": "Yes—centers are calmer and cleaner when cars are gone. I love car-free zones when I visit."
+    },
+    "student_b": {
+      "name": "Omar",
+      "post": "A full ban hurts people with disabilities, deliveries, and small shops that rely on drivers. Limits and better public transit would work better."
+    },
+    "rubric_checklist": [
+      "I stated a clear opinion on whether a full downtown car ban is a good policy.",
+      "I provided at least one specific reason supporting my position.",
+      "I engaged with at least one point made by Kelly or Omar (agreeing, disagreeing, or extending it).",
+      "My response is at least 100 words.",
+      "I used at least one concrete example or piece of evidence.",
+      "My response is free of major grammatical errors.",
+      "I did not merely summarize what Kelly and Omar said without adding my own perspective."
     ]
   }
 ]

@@ -7,7 +7,11 @@
     "difficulty": 3,
     "explanation": "The passage explains that doubling urban population yields ~15% higher wages and patents, yet developing-world cities have sprawling slums. This implies that economic productivity gains are not automatically distributed to all residents — you can infer unequal distribution within cities.",
     "source": "seed",
-    "tags": ["urbanization", "inference", "economics"],
+    "tags": [
+      "urbanization",
+      "inference",
+      "economics"
+    ],
     "passage_id": "passage_urban_growth",
     "question": "Which of the following can be inferred about cities in the developing world from the passage?",
     "choices": [
@@ -26,7 +30,11 @@
     "difficulty": 4,
     "explanation": "The passage states the worked-examples effect applies to novices but diminishes as expertise grows (expertise reversal effect). This implies that the best instructional strategy varies depending on learner experience level — a direct inference from the described reversal.",
     "source": "seed",
-    "tags": ["education", "inference", "expertise"],
+    "tags": [
+      "education",
+      "inference",
+      "expertise"
+    ],
     "passage_id": "passage_cognitive_load",
     "question": "What can be inferred from the passage about the ideal instructional design for advanced learners?",
     "choices": [
@@ -45,7 +53,11 @@
     "difficulty": 4,
     "explanation": "The passage mentions a 'market failure': developing new antibiotics is expensive, but the drugs are held in reserve to slow resistance, generating little revenue. This implies pharmaceutical companies lack financial incentive — allowing you to infer new antibiotics will not emerge from the market without external intervention.",
     "source": "seed",
-    "tags": ["antibiotics", "inference", "economics"],
+    "tags": [
+      "antibiotics",
+      "inference",
+      "economics"
+    ],
     "passage_id": "passage_antibiotics",
     "question": "What can be inferred from the passage about the development of new antibiotics?",
     "choices": [
@@ -64,7 +76,11 @@
     "difficulty": 3,
     "explanation": "The passage describes how Northern Europe could experience paradoxically colder temperatures while the rest of the world warms due to weakened thermohaline circulation. You can infer that the effects of climate change are not uniformly distributed geographically.",
     "source": "seed",
-    "tags": ["climate", "inference", "geography"],
+    "tags": [
+      "climate",
+      "inference",
+      "geography"
+    ],
     "passage_id": "passage_climate_change",
     "question": "What can be inferred from the passage about the geographic effects of climate change?",
     "choices": [
@@ -83,7 +99,11 @@
     "difficulty": 3,
     "explanation": "The author mentions the spread of 'misinformation and inflammatory pamphlets' to introduce a complication or caveat to the otherwise positive portrayal of the printing press — specifically to acknowledge the technology's dual-use nature and draw an analogy to the modern internet.",
     "source": "seed",
-    "tags": ["history", "rhetorical", "purpose"],
+    "tags": [
+      "history",
+      "rhetorical",
+      "purpose"
+    ],
     "passage_id": "passage_printing_press",
     "question": "Why does the author mention the spread of misinformation and inflammatory pamphlets in the final paragraph?",
     "choices": [
@@ -102,7 +122,11 @@
     "difficulty": 4,
     "explanation": "The worked-examples effect is introduced to demonstrate a specific instructional implication of cognitive load theory — that reducing problem-solving search frees working memory for schema construction. It serves as concrete evidence for the theory's practical application.",
     "source": "seed",
-    "tags": ["education", "rhetorical", "purpose"],
+    "tags": [
+      "education",
+      "rhetorical",
+      "purpose"
+    ],
     "passage_id": "passage_cognitive_load",
     "question": "The author discusses the 'worked-examples effect' primarily in order to",
     "choices": [
@@ -112,5 +136,27 @@
       "Explain why automated schemas eventually become a burden for expert learners"
     ],
     "correct": "Illustrate how reducing certain types of cognitive load can improve learning outcomes"
+  },
+  {
+    "id": "inference_101",
+    "section": "reading",
+    "qtype": "inference",
+    "topic": "inference",
+    "difficulty": 3,
+    "explanation": "The passage defines theory of mind in context as 'the ability to attribute mental states to others.'",
+    "source": "adapted",
+    "tags": [
+      "neuroscience",
+      "vocabulary-in-context"
+    ],
+    "passage_id": "passage_mirror_neurons",
+    "question": "The phrase 'theory of mind' as used in paragraph 2 refers to",
+    "choices": [
+      "A scientific theory about brain development",
+      "The ability to understand that others have thoughts and feelings",
+      "A method for studying neurons",
+      "The concept of artificial intelligence"
+    ],
+    "correct": "The ability to understand that others have thoughts and feelings"
   }
 ]
