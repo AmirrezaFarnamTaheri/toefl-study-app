@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ss_001",
+    "section": "reading",
+    "qtype": "sentence_simplification",
+    "topic": "sentence_simplification",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["reading", "simplification"],
+    "explanation": "The simplified version must preserve the essential idea that thermohaline circulation is driven by differences in density caused by temperature and salinity, without omitting either cause or the direction of movement.",
+    "passage_id": "passage_climate_change",
+    "highlighted_sentence": "This circulation is driven by differences in water temperature and salinity: cold, dense, salty water sinks in the polar regions and flows along the ocean floor toward the equator, while warmer surface water moves poleward to replace it.",
+    "question": "Which of the following best expresses the essential information in the highlighted sentence? Incorrect choices change the meaning in important ways or leave out essential information.",
+    "choices": [
+      "Polar water is colder and saltier than equatorial water, and this makes the polar regions more environmentally stable.",
+      "Temperature and salinity differences cause dense polar water to descend and travel toward the equator, while warm surface water circulates toward the poles.",
+      "Ocean currents are driven mainly by wind patterns that force warm water to the surface and push cold water to the ocean floor.",
+      "Salty equatorial water rises to replace polar water that has evaporated, creating a cycle of evaporation and condensation in the ocean."
+    ],
+    "correct": "Temperature and salinity differences cause dense polar water to descend and travel toward the equator, while warm surface water circulates toward the poles."
+  },
+  {
+    "id": "ss_002",
+    "section": "reading",
+    "qtype": "sentence_simplification",
+    "topic": "sentence_simplification",
+    "difficulty": 4,
+    "source": "seed",
+    "tags": ["reading", "simplification"],
+    "explanation": "The key idea is that antibiotics selected for resistant bacteria (natural selection), and this process has been greatly sped up by human overuse and misuse. The other choices either omit the human acceleration factor or distort the mechanism.",
+    "passage_id": "passage_antibiotics",
+    "highlighted_sentence": "Resistance arises through natural selection — when a population of bacteria is exposed to an antibiotic, susceptible organisms die while rare mutants with resistance-conferring genes survive and reproduce.",
+    "question": "Which of the following best expresses the essential information in the highlighted sentence? Incorrect choices change the meaning in important ways or leave out essential information.",
+    "choices": [
+      "Bacteria develop resistance by intentionally mutating their genes in response to the presence of antibiotics in the environment.",
+      "When antibiotics are used, the bacteria that happen to carry resistance genes survive while others die, causing the population to become more resistant over time.",
+      "Most bacteria die immediately when exposed to antibiotics, but a small number can survive by changing their biological structure.",
+      "Natural selection ensures that all populations of bacteria will eventually become immune to any antibiotic that is applied to them."
+    ],
+    "correct": "When antibiotics are used, the bacteria that happen to carry resistance genes survive while others die, causing the population to become more resistant over time."
+  },
+  {
+    "id": "ss_003",
+    "section": "reading",
+    "qtype": "sentence_simplification",
+    "topic": "sentence_simplification",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["reading", "simplification"],
+    "explanation": "The highlighted sentence makes two points: the printing press reduced costs by ~80% and greatly increased production. Option A captures both. Other choices distort either the magnitude or the mechanism.",
+    "passage_id": "passage_printing_press",
+    "highlighted_sentence": "Gutenberg's innovation, which combined a durable alloy for casting individual type pieces with an oil-based ink and a screw press adapted from wine-making technology, reduced the cost of book production by roughly 80 percent and increased output by orders of magnitude.",
+    "question": "Which of the following best expresses the essential information in the highlighted sentence? Incorrect choices change the meaning in important ways or leave out essential information.",
+    "choices": [
+      "Gutenberg's printing press combined several existing technologies and dramatically reduced production costs while massively increasing output.",
+      "Gutenberg invented a new type of metal alloy and a special ink that made books lighter and easier to carry than hand-written manuscripts.",
+      "The printing press was primarily an adaptation of wine-making equipment, and its main achievement was producing books that were more durable than manuscripts.",
+      "Gutenberg's press reduced book costs by half and allowed printers to produce books at about the same rate as medieval scribes."
+    ],
+    "correct": "Gutenberg's printing press combined several existing technologies and dramatically reduced production costs while massively increasing output."
+  },
+  {
+    "id": "ss_004",
+    "section": "reading",
+    "qtype": "sentence_simplification",
+    "topic": "sentence_simplification",
+    "difficulty": 4,
+    "source": "seed",
+    "tags": ["reading", "simplification", "education"],
+    "explanation": "The sentence states two things: worked examples help novices more than problem-solving, because solving problems consumes working memory without building schemas. The best answer preserves both the comparison and the reason.",
+    "passage_id": "passage_cognitive_load",
+    "highlighted_sentence": "Research in cognitive load theory has also demonstrated a worked-examples effect: novice learners benefit more from studying fully worked solutions to problems than from attempting to solve novel problems independently, because problem-solving search processes consume working memory without necessarily building schemas.",
+    "question": "Which of the following best expresses the essential information in the highlighted sentence? Incorrect choices change the meaning in important ways or leave out essential information.",
+    "choices": [
+      "Novice learners who study worked examples learn more effectively than those who try to solve new problems on their own, because independent problem solving uses up working memory without reliably forming schemas.",
+      "All learners, regardless of expertise level, benefit from seeing worked examples before attempting to solve any problem independently.",
+      "Problem solving is less effective than studying worked examples for every learner, because it does not activate long-term memory in any meaningful way.",
+      "Working memory is permanently exhausted by the process of solving novel problems, making it impossible for novices to ever develop effective schemas."
+    ],
+    "correct": "Novice learners who study worked examples learn more effectively than those who try to solve new problems on their own, because independent problem solving uses up working memory without reliably forming schemas."
+  }
+]

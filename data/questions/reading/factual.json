@@ -1,0 +1,116 @@
+[
+  {
+    "id": "factual_001",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 2,
+    "explanation": "The passage states explicitly in the second sentence: 'cold, dense, salty water sinks in the polar regions and flows along the ocean floor toward the equator.' This is a direct factual statement describing the mechanism of thermohaline circulation.",
+    "source": "seed",
+    "tags": ["ocean", "climate", "explicit"],
+    "passage_id": "passage_climate_change",
+    "question": "According to the passage, what drives thermohaline circulation?",
+    "choices": [
+      "Differences in water temperature and salinity",
+      "Wind patterns above the ocean surface",
+      "The gravitational pull of the moon on ocean water",
+      "Volcanic activity on the ocean floor"
+    ],
+    "correct": "Differences in water temperature and salinity"
+  },
+  {
+    "id": "factual_002",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 2,
+    "explanation": "The passage explicitly states: 'By 2007, for the first time in history, more than half of the world's population lived in urban areas.' This is a directly stated demographic threshold.",
+    "source": "seed",
+    "tags": ["urbanization", "explicit", "statistics"],
+    "passage_id": "passage_urban_growth",
+    "question": "According to the passage, what happened for the first time in 2007?",
+    "choices": [
+      "More than half of the world's population lived in urban areas",
+      "Cities began consuming more than 75 percent of the world's energy",
+      "The United Nations published its urbanization projections",
+      "Developing-world cities surpassed developed-world cities in population"
+    ],
+    "correct": "More than half of the world's population lived in urban areas"
+  },
+  {
+    "id": "factual_003",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "explanation": "The passage explicitly identifies three types of cognitive load: intrinsic (complexity of material), extraneous (poor instructional design), and germane (effort devoted to schema construction). Each is clearly named and defined.",
+    "source": "seed",
+    "tags": ["education", "cognitive", "explicit"],
+    "passage_id": "passage_cognitive_load",
+    "question": "According to the passage, which of the following is an example of extraneous cognitive load?",
+    "choices": [
+      "The inherent complexity of advanced mathematics",
+      "A diagram whose textual explanation is printed on a separate page",
+      "The effort a learner devotes to building problem-solving schemas",
+      "The natural difficulty of mastering a second language"
+    ],
+    "correct": "A diagram whose textual explanation is printed on a separate page"
+  },
+  {
+    "id": "factual_004",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 2,
+    "explanation": "The passage states: 'Resistance arises through natural selection — when a population of bacteria is exposed to an antibiotic, susceptible organisms die while rare mutants with resistance-conferring genes survive and reproduce.'",
+    "source": "seed",
+    "tags": ["biology", "antibiotics", "explicit"],
+    "passage_id": "passage_antibiotics",
+    "question": "According to the passage, how does antibiotic resistance develop?",
+    "choices": [
+      "Through natural selection, as resistant bacteria survive and reproduce",
+      "Through deliberate genetic engineering by pharmaceutical companies",
+      "By bacteria absorbing antibiotic molecules and becoming immune to them",
+      "Through random viral mutations that transfer resistance between species"
+    ],
+    "correct": "Through natural selection, as resistant bacteria survive and reproduce"
+  },
+  {
+    "id": "factual_005",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "explanation": "The passage states Gutenberg's innovation 'reduced the cost of book production by roughly 80 percent and increased output by orders of magnitude.' Both figures are explicitly stated.",
+    "source": "seed",
+    "tags": ["history", "printing", "explicit"],
+    "passage_id": "passage_printing_press",
+    "question": "According to the passage, what was one immediate effect of Gutenberg's printing press on book production?",
+    "choices": [
+      "It reduced the cost of book production by roughly 80 percent",
+      "It eliminated the need for oil-based ink within a generation",
+      "It immediately made all European monasteries obsolete",
+      "It increased literacy rates by 80 percent within fifty years"
+    ],
+    "correct": "It reduced the cost of book production by roughly 80 percent"
+  },
+  {
+    "id": "factual_006",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 4,
+    "explanation": "The passage states the WHO 'warns that, without intervention, this figure could climb to 10 million by 2050, surpassing cancer as a cause of mortality.' This projects antibiotic-resistant deaths exceeding cancer deaths.",
+    "source": "seed",
+    "tags": ["health", "antibiotics", "statistics"],
+    "passage_id": "passage_antibiotics",
+    "question": "According to the passage, the World Health Organization projects that by 2050, antibiotic-resistant infections could",
+    "choices": [
+      "Surpass cancer as a cause of mortality",
+      "Be responsible for 700,000 deaths annually",
+      "Eliminate the market for new antibiotic development entirely",
+      "Become treatable through bacteriophage therapy"
+    ],
+    "correct": "Surpass cancer as a cause of mortality"
+  }
+]

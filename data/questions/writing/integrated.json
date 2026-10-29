@@ -1,0 +1,90 @@
+[
+  {
+    "id": "wi_001",
+    "section": "writing",
+    "qtype": "writing_integrated",
+    "topic": "writing_integrated",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["writing", "integrated", "paleontology"],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "reading_passage": "For decades, paleontologists have debated whether Tyrannosaurus rex was primarily an active predator or an opportunistic scavenger that fed on animals that had already died. Proponents of the scavenger hypothesis offer three compelling lines of evidence.\n\nFirst, T. rex had extraordinarily small forelimbs relative to its massive body size. Each arm measured barely one meter in length and could not even reach the dinosaur's own mouth. Active predators typically rely on forelimbs to grapple with and subdue struggling prey; such vestigial arms would have been useless in a hunt.\n\nSecond, biomechanical models of T. rex's leg bones and musculature suggest that the animal was a slow mover. Weighing up to eight metric tons, T. rex could not have achieved the high running speeds needed to chase down agile herbivorous dinosaurs. Its femur-to-tibia ratio resembles that of slow-moving modern elephants rather than fast cursors.\n\nThird, endocasts of the T. rex braincase reveal enormously enlarged olfactory bulbs — structures dedicated to the sense of smell. This anatomy closely parallels that of modern vultures, obligate scavengers that locate decaying carcasses from miles away by scent alone.",
+    "lecture_transcript": "Professor: Now, the hypothesis that T. rex was purely a scavenger got a lot of media attention, but most paleontologists today reject it. When we examine the three points from the reading more closely, each one falls apart.\n\nFirst, about those small forelimbs. It's true T. rex didn't use its arms to catch prey, but plenty of top predators today don't use forelimbs to hunt either — think of sharks, crocodiles, or killer whales. Instead, T. rex evolved a different primary weapon: its massive skull and jaws. Its bite force was the strongest of any land animal ever discovered, capable of crushing bone in a single snap. When your jaws are that lethal, large arms are simply unnecessary weight.\n\nSecond, regarding running speed. Even if T. rex wasn't as fast as an ostrich, it didn't need to be. It only needed to be faster than the prey it hunted! The primary herbivores living alongside T. rex — like Triceratops and Edmontosaurus — were also massive, heavy animals that moved relatively slowly. Biomechanical studies show T. rex was more than fast enough to ambush and overtake those contemporaneous herbivores.\n\nFinally, while T. rex did have large olfactory bulbs, it also possessed forward-facing eyes that gave it stereoscopic, 3D depth perception — a trait evolved almost exclusively by active hunters to judge distance when striking moving prey. More importantly, we have direct fossil evidence of predation: a Triceratops frill and an Edmontosaurus tail vertebra with T. rex tooth marks that subsequently healed! A carcass doesn't heal after being bitten — proving beyond doubt that T. rex attacked living prey.",
+    "prompt": "Summarize the points made in the lecture, being sure to explain how they cast doubt on the specific points made in the reading passage.",
+    "rubric_checklist": [
+      "I introduced the main topic: the lecture challenges the reading's claim that T. rex was purely a scavenger.",
+      "Point 1: I explained how the lecture counters the small-forelimbs argument (jaws/bite force were the primary weapon, like sharks/crocodiles).",
+      "Point 2: I explained how the lecture counters the slow-speed argument (it only needed to outrun slow contemporaneous prey like Triceratops/Edmontosaurus).",
+      "Point 3: I explained how the lecture counters the olfactory/vulture argument (binocular vision + healed bite marks on fossils prove live attacks).",
+      "I did NOT include my own personal opinion — I strictly reported the reading and lecture points.",
+      "My response is between 150 and 225 words (or thorough and well-structured).",
+      "I used clear contrastive transitions (e.g., 'In contrast, the lecturer argues...', 'However, the professor points out...')."
+    ]
+  },
+  {
+    "id": "wi_002",
+    "section": "writing",
+    "qtype": "writing_integrated",
+    "topic": "writing_integrated",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["writing", "integrated", "ecology"],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "reading_passage": "Coal-fired power plants release massive quantities of carbon dioxide into the atmosphere. One proposed technological solution is carbon capture and storage (CCS), which traps CO2 emissions at the smokestack and pumps the liquefied gas deep underground into geological formations. However, critics argue that CCS is an impractical and dangerous distraction from renewable energy.\n\nFirst, capturing and compressing CO2 is extraordinarily energy-intensive. A power plant equipped with CCS must consume up to 25 to 30 percent more fuel just to run the capture equipment. This 'energy penalty' drives up electricity costs dramatically and requires mining even more coal.\n\nSecond, storing pressurized CO2 underground poses severe environmental risks. If a geological fault shifts or an old well casing cracks, huge volumes of CO2 could leak back to the surface. Because CO2 is denser than air, a sudden massive leak could asphyxiate local wildlife and human populations living above the storage reservoir, while also acidifying groundwater aquifers.\n\nThird, the capital investment required to build CCS infrastructure is better spent directly on wind and solar power, which produce zero emissions in the first place without needing complex underground disposal.",
+    "lecture_transcript": "Professor: While the criticisms of carbon capture and storage in the reading sound alarming, recent engineering advances and real-world energy realities show that CCS is both viable and essential.\n\nFirst, let's address the 'energy penalty.' The 25 to 30 percent figure comes from first-generation solvent technologies developed decades ago. Modern chemical membranes and solid sorbents operate at much lower temperatures and cut that energy penalty in half. Furthermore, when CCS is paired with waste-heat recovery systems inside the plant, the net efficiency loss becomes marginal and economically manageable.\n\nSecond, the fear of catastrophic underground leaks is scientifically unfounded when sites are properly selected. Oil and natural gas have remained trapped in deep saline aquifers beneath impermeable caprock for millions of years. Even better, in projects like Carbfix in Iceland, CO2 injected into basaltic rock reacts chemically with calcium and magnesium in the water to form solid limestone within two years! Once CO2 turns into solid stone, it is physically impossible for it to leak or asphyxiate anyone.\n\nThird, saying we should just spend everything on wind and solar ignores heavy industry. You cannot easily run steel mills, cement factories, or chemical plants on solar panels alone — cement production releases CO2 directly from the chemical breakdown of limestone, regardless of the energy source. For decarbonizing heavy industry, CCS isn't a distraction; it's the only tool we have.",
+    "prompt": "Summarize the points made in the lecture, being sure to explain how they challenge the specific arguments presented in the reading passage.",
+    "rubric_checklist": [
+      "I clearly stated that the lecture refutes the reading's criticisms of Carbon Capture and Storage (CCS).",
+      "Point 1: I explained how the lecture counters the 'energy penalty' claim (next-gen membranes/sorbents and waste-heat recovery drastically reduce energy loss).",
+      "Point 2: I explained how the lecture counters the leakage risk (impermeable caprock + mineralization into solid carbonate rock within 2 years makes leaks impossible).",
+      "Point 3: I explained how the lecture counters the renewable-only investment argument (heavy industries like cement and steel produce chemical CO2 emissions that renewables cannot eliminate).",
+      "I maintained an objective, reporting tone without inserting personal views.",
+      "My response is at least 150 words and covers all three pairs of arguments.",
+      "I paraphrased effectively rather than copying sentences word-for-word from the reading."
+    ]
+  },
+  {
+    "id": "wi_003",
+    "section": "writing",
+    "qtype": "writing_integrated",
+    "topic": "writing_integrated",
+    "difficulty": 4,
+    "source": "seed",
+    "tags": ["writing", "integrated", "archaeology"],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "reading_passage": "Around 1200 BCE, several flourishing Bronze Age civilizations around the eastern Mediterranean — including the Mycenaeans in Greece, the Hittite Empire in Anatolia, and New Kingdom Egypt — collapsed almost simultaneously. Many historians attribute this 'Late Bronze Age Collapse' primarily to invasions by a mysterious confederation of seafaring raiders known in Egyptian inscriptions as the 'Sea Peoples.'\n\nFirst, Egyptian temple reliefs at Medinet Habu explicitly depict Pharaoh Ramesses III fighting off massive amphibious assaults by foreign warriors arriving in distinctive ships, accompanied by ox-carts carrying women and children — clear evidence of a full-scale migratory invasion.\n\nSecond, archaeological excavations at major coastal cities such as Ugarit in Syria and Ashkelon in the Levant reveal a uniform 'destruction layer' dating to roughly 1180 BCE, filled with ash, collapsed walls, and bronze arrowheads, proving that these trading hubs were violently sacked from the sea.\n\nThird, clay tablets found in the ruins of Ugarit — written just days before the city fell — record frantic pleas from the king describing enemy ships burning coastal towns while his own army and fleet were deployed elsewhere.",
+    "lecture_transcript": "Professor: The 'Sea Peoples' narrative makes for a dramatic story, but modern historians and archaeologists view the Late Bronze Age Collapse as a complex systems failure, where the Sea Peoples were a symptom rather than the primary cause.\n\nFirst, regarding the Egyptian reliefs at Medinet Habu. We now know through paleoclimate data — like fossilized pollen cores and tree rings — that the eastern Mediterranean suffered a catastrophic 300-year 'megadrought' starting around 1200 BCE. The families in ox-carts depicted on those temple walls weren't a coordinated military empire; they were desperate climate refugees fleeing famine and crop failure in their homelands.\n\nSecond, about those destruction layers at Ugarit and other cities. Careful re-examination shows that the destruction wasn't caused solely by foreign invaders. Several inland palaces, far from the coast, collapsed at the exact same time, and seismologists have found evidence of a 'seismic storm' — a chain of major earthquakes along fault lines in Greece and Anatolia over a 50-year period. Furthermore, many cities were burned from the inside by peasant uprisings against palace elites who could no longer distribute grain during the drought.\n\nThird, while the Ugarit tablets do mention enemy raiders,Bronze Age kingdoms relied on an ultra-specialized, fragile international trade network for tin and copper to make bronze. Once drought, earthquakes, and internal rebellions disrupted a few trade routes, the entire interconnected economic system imploded like a house of cards. Pirate raids merely finished off cities that were already starving and bankrupt.",
+    "prompt": "Summarize the points made in the lecture, being sure to explain how they cast doubt on the specific points made in the reading passage.",
+    "rubric_checklist": [
+      "I stated that the lecture challenges the reading's theory that the Sea Peoples were the primary cause of the Late Bronze Age Collapse.",
+      "Point 1: I explained how the lecture reinterprets the Egyptian reliefs (paleoclimate data shows a 300-year megadrought; the Sea Peoples were climate refugees fleeing famine, not a military empire).",
+      "Point 2: I explained how the lecture challenges the coastal destruction layers (inland cities also fell; earthquake storms and internal peasant rebellions caused much of the destruction).",
+      "Point 3: I explained how the lecture contextualizes the Ugarit tablets (fragile, interconnected tin/copper trade networks collapsed due to systemic failure; raiders were a symptom finishing off already failing states).",
+      "I avoided expressing personal opinions and focused entirely on the reading-lecture relationship.",
+      "My essay is well-organized with clear paragraphing and exceeds 150 words.",
+      "I accurately connected each lecture point to the corresponding reading point."
+    ]
+  },
+  {
+    "id": "wi_004",
+    "section": "writing",
+    "qtype": "writing_integrated",
+    "topic": "writing_integrated",
+    "difficulty": 4,
+    "source": "seed",
+    "tags": ["writing", "integrated", "astronomy"],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "reading_passage": "In 1977, the Big Ear radio telescope in Ohio detected an extraordinarily strong, narrowband radio signal lasting 72 seconds — famously dubbed the 'Wow! signal.' Because the signal matched the exact frequency of neutral hydrogen (1420 megahertz), which physicists had predicted an extraterrestrial civilization would use for interstellar communication, many enthusiasts argue it was an intentional alien broadcast.\n\nFirst, the signal was narrowband, spanning less than 10 kilohertz in bandwidth. Natural cosmic sources like pulsars, quasars, and supernovae emit broadband radio noise across a wide range of frequencies. Only artificial transmitters produce such tightly focused signals.\n\nSecond, the signal rose and fell in intensity over exactly 72 seconds, matching the precise signature expected of a fixed point source in deep space passing through the sweeping beam of the Earth-bound telescope.\n\nThird, terrestrial interference can be ruled out because the 1420 MHz frequency band is strictly protected by international law for astronomical research; Earth-based military and commercial transmitters are forbidden from broadcasting at that frequency.",
+    "lecture_transcript": "Professor: The 'Wow! signal' has fascinated the public for decades, but astrophysicists have recently identified natural and terrestrial explanations that undermine the alien broadcast hypothesis.\n\nFirst, regarding the narrowband nature of the signal. While stars and quasars emit broadband noise, astronomers recently discovered that cold interstellar hydrogen clouds can act as natural 'masers' — the microwave equivalent of lasers. When triggered by a sudden burst of radiation from a magnetar flare, a hydrogen cloud can amplify and emit an intensely bright, narrowband spike at exactly 1420 megahertz, completely naturally.\n\nSecond, the fact that the signal lasted 72 seconds and was never heard again actually argues against an intentional alien beacon. The Big Ear telescope had two feed horns pointing slightly apart in the sky. Any steady extraterrestrial source should have passed through the first horn for 72 seconds, and then appeared in the second horn three minutes later for another 72 seconds. Instead, it appeared in only one horn and vanished forever — behaving like a brief, one-time transient flash rather than a continuous broadcast.\n\nThird, even though 1420 MHz is a protected frequency on Earth, illegal transmissions and hardware glitches happen all the time. Even a harmless lower-frequency signal from an Earth satellite or ground station can produce a 'harmonic distortion' inside a telescope's receiver at double or triple its base frequency, landing right on 1420 MHz.",
+    "prompt": "Summarize the points made in the lecture, being sure to explain how they challenge the specific arguments made in the reading passage.",
+    "rubric_checklist": [
+      "I stated that the lecture challenges the reading's claim that the 1977 'Wow! signal' was an extraterrestrial broadcast.",
+      "Point 1: I explained how the lecture counters the narrowband argument (interstellar hydrogen clouds triggered by magnetar flares can act as natural masers at 1420 MHz).",
+      "Point 2: I explained how the lecture counters the 72-second duration argument (the telescope had two feed horns; a steady space source would have appeared twice, 3 minutes apart, not just once).",
+      "Point 3: I explained how the lecture counters the protected-frequency argument (unlawful transmissions or harmonic distortions from lower-frequency Earth transmitters can still appear at 1420 MHz).",
+      "I wrote objectively without adding outside speculation or personal opinion.",
+      "My response is at least 150 words and addresses all three arguments clearly.",
+      "My grammar, transition words, and academic register are clear and accurate."
+    ]
+  }
+]

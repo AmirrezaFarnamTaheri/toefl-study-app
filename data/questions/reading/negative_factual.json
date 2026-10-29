@@ -1,0 +1,78 @@
+[
+  {
+    "id": "neg_factual_001",
+    "section": "reading",
+    "qtype": "negative_factual",
+    "topic": "negative_factual",
+    "difficulty": 3,
+    "explanation": "The passage mentions temperature effects, precipitation pattern changes, and effects on marine ecosystems. It does NOT mention changes to atmospheric pressure systems — that effect is not discussed anywhere in the passage.",
+    "source": "seed",
+    "tags": ["ocean", "climate", "negative"],
+    "passage_id": "passage_climate_change",
+    "question": "According to the passage, all of the following are mentioned as potential consequences of disrupted thermohaline circulation EXCEPT",
+    "choices": [
+      "Colder temperatures in Northern Europe",
+      "Altered precipitation patterns",
+      "Reduced marine oxygen distribution",
+      "Changes to atmospheric pressure systems"
+    ],
+    "correct": "Changes to atmospheric pressure systems"
+  },
+  {
+    "id": "neg_factual_002",
+    "section": "reading",
+    "qtype": "negative_factual",
+    "topic": "negative_factual",
+    "difficulty": 3,
+    "explanation": "The passage mentions overprescription for viral illnesses, use in livestock farming, and patients not completing treatment. It does NOT mention hospitals disposing of antibiotics improperly — that is not stated.",
+    "source": "seed",
+    "tags": ["health", "antibiotics", "negative"],
+    "passage_id": "passage_antibiotics",
+    "question": "According to the passage, all of the following are cited as human behaviors accelerating antibiotic resistance EXCEPT",
+    "choices": [
+      "Prescribing antibiotics for viral infections",
+      "Using antibiotics in livestock to promote growth",
+      "Patients failing to complete full courses of treatment",
+      "Hospitals disposing of expired antibiotics improperly"
+    ],
+    "correct": "Hospitals disposing of expired antibiotics improperly"
+  },
+  {
+    "id": "neg_factual_003",
+    "section": "reading",
+    "qtype": "negative_factual",
+    "topic": "negative_factual",
+    "difficulty": 4,
+    "explanation": "The passage mentions stabilized language and spelling, acceleration of the Scientific Revolution, and enabling the Protestant Reformation. It does NOT mention expansion of universities — this detail is absent from the passage.",
+    "source": "seed",
+    "tags": ["history", "printing", "negative"],
+    "passage_id": "passage_printing_press",
+    "question": "According to the passage, all of the following are mentioned as effects of the printing press EXCEPT",
+    "choices": [
+      "Standardization of language and spelling",
+      "Acceleration of the Scientific Revolution",
+      "Enabling the Protestant Reformation",
+      "Expansion of European universities"
+    ],
+    "correct": "Expansion of European universities"
+  },
+  {
+    "id": "neg_factual_004",
+    "section": "reading",
+    "qtype": "negative_factual",
+    "topic": "negative_factual",
+    "difficulty": 3,
+    "explanation": "Cognitive load theory mentions intrinsic load (inherent complexity), extraneous load (poor design), and germane load (schema building). 'Motivational load' is not a category defined by Sweller — it is not mentioned in the passage.",
+    "source": "seed",
+    "tags": ["education", "cognitive", "negative"],
+    "passage_id": "passage_cognitive_load",
+    "question": "According to the passage, which of the following is NOT one of the three types of cognitive load identified by Sweller?",
+    "choices": [
+      "Intrinsic load",
+      "Extraneous load",
+      "Germane load",
+      "Motivational load"
+    ],
+    "correct": "Motivational load"
+  }
+]

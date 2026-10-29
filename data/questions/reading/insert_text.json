@@ -1,0 +1,44 @@
+[
+  {
+    "id": "it_001",
+    "section": "reading",
+    "qtype": "insert_text",
+    "topic": "insert_text",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["reading", "insert_text"],
+    "explanation": "The sentence about fresh water diluting salt concentration and weakening density differences logically follows the mention of polar ice melting and introducing fresh water into the ocean. Position C — directly after the ice-melting sentence — is the only place that makes the causal chain coherent.",
+    "passage_id": "passage_climate_change",
+    "sentence_to_insert": "This influx of fresh water dilutes the salt concentration of the ocean, weakening the density differences that drive the circulation.",
+    "passage_with_markers": "The world's oceans play a fundamental role in regulating Earth's climate by absorbing heat and distributing it around the globe through a system of large-scale currents known as thermohaline circulation. [A] This circulation is driven by differences in water temperature and salinity: cold, dense, salty water sinks in the polar regions and flows along the ocean floor toward the equator, while warmer surface water moves poleward to replace it. [B] Scientists have observed that rising global temperatures are disrupting this delicate system by melting polar ice, which introduces large quantities of fresh water into the ocean, reducing salinity and inhibiting the sinking of cold water. [C] Some climate models project that a significant weakening of thermohaline circulation could produce paradoxically colder temperatures in Northern Europe even as the rest of the world warms. [D] This counterintuitive regional cooling would result from reduced transport of warm tropical waters toward the North Atlantic.",
+    "correct": "C"
+  },
+  {
+    "id": "it_002",
+    "section": "reading",
+    "qtype": "insert_text",
+    "topic": "insert_text",
+    "difficulty": 4,
+    "source": "seed",
+    "tags": ["reading", "insert_text"],
+    "explanation": "The sentence provides an example of how the press worsened social divisions, which makes most sense immediately after the general claim that the press also spread misinformation (position D).",
+    "passage_id": "passage_printing_press",
+    "sentence_to_insert": "Sensationalist broadsides and politically motivated pamphlets proliferated alongside scholarly works, demonstrating that the same technology could serve both enlightenment and manipulation.",
+    "passage_with_markers": "The development of movable-type printing by Johannes Gutenberg around 1440 is widely regarded as one of the most consequential technological innovations in Western history. [A] Before Gutenberg's press, books were produced by hand — a laborious process that made manuscripts extremely expensive and confined literacy largely to the clergy and nobility. [B] Within fifty years of the press's introduction, an estimated eight million books had been printed across Europe — more than the continent's monastic scribes had produced in all of recorded history. [C] Critics have noted that the press also facilitated the spread of misinformation and inflammatory pamphlets, a tension that scholars see as an early analog to debates about the internet. [D] Historians continue to debate the degree to which the press was an independent cause of social change versus a tool whose effects depended on the social conditions into which it was introduced.",
+    "correct": "D"
+  },
+  {
+    "id": "it_003",
+    "section": "reading",
+    "qtype": "insert_text",
+    "topic": "insert_text",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["reading", "insert_text"],
+    "explanation": "The sentence elaborates on the living conditions inside 'informal settlements' ('These areas often lack paved roads...'). It belongs at position D, directly after the sentence that introduces informal settlements/slums.",
+    "passage_id": "passage_urban_growth",
+    "sentence_to_insert": "These areas often lack paved roads, reliable electricity, and formal property rights, leaving residents highly vulnerable to eviction and environmental hazards.",
+    "passage_with_markers": "For most of human history, the overwhelming majority of people lived in rural areas, sustaining themselves through agriculture. [A] By 2007, for the first time in history, more than half of the world's population lived in urban areas — a threshold that demographers consider a landmark in the human story. [B] Cities consume approximately 75 percent of the world's energy and are responsible for a similar share of global carbon emissions, making urban policy a central arena for addressing climate change. [C] Rapid growth in cities of the developing world has produced sprawling informal settlements — sometimes called slums — where millions lack access to clean water, sanitation, secure housing, and basic services. [D] Managing the pace and equity of urban growth is therefore one of the defining governance challenges of the twenty-first century.",
+    "correct": "D"
+  }
+]

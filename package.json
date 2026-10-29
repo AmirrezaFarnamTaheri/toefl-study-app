@@ -1,0 +1,8 @@
+{
+  "name": "toefl-study-app",
+  "private": true,
+  "workspaces": [
+    "engine",
+    "web"
+  ]
+}

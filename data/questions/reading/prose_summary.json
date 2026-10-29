@@ -1,0 +1,54 @@
+[
+  {
+    "id": "prose_summary_001",
+    "section": "reading",
+    "qtype": "prose_summary",
+    "topic": "prose_summary",
+    "difficulty": 4,
+    "explanation": "The passage covers: (1) thermohaline circulation mechanism — driven by temperature/salinity differences; (2) human disruption through ice melt reducing salinity; (3) diverse consequences including regional cooling, altered precipitation, marine ecosystem effects. The three correct choices capture these major ideas. 'Oceans absorb CO2' is a detail not discussed; 'all regions warm equally' contradicts the text; 'models are fully accurate' is not stated.",
+    "source": "seed",
+    "tags": ["ocean", "climate", "prose_summary"],
+    "passage_id": "passage_climate_change",
+    "question": "Directions: An introductory sentence for a brief summary of the passage is provided. Complete the summary by selecting THREE answer choices that express the most important ideas in the passage. Some sentences do not belong because they express ideas that are not presented in the passage or are minor details.",
+    "intro_sentence": "Thermohaline circulation is a critical component of Earth's climate system that is currently being disrupted by human activity.",
+    "choices": [
+      "Thermohaline circulation is driven by differences in water temperature and salinity, causing cold dense water to sink in polar regions and warm water to flow poleward.",
+      "Rising global temperatures are melting polar ice, introducing fresh water that reduces salinity and weakens the circulation system.",
+      "The consequences of disrupted circulation include paradoxical regional cooling, altered precipitation, and reduced marine oxygen distribution.",
+      "The oceans currently absorb about 50 percent of the carbon dioxide produced by human activities.",
+      "Climate scientists believe all regions of the world will warm at approximately the same rate over the next century.",
+      "Climate models are now accurate enough to predict thermohaline changes with precision."
+    ],
+    "correct": [
+      "Thermohaline circulation is driven by differences in water temperature and salinity, causing cold dense water to sink in polar regions and warm water to flow poleward.",
+      "Rising global temperatures are melting polar ice, introducing fresh water that reduces salinity and weakens the circulation system.",
+      "The consequences of disrupted circulation include paradoxical regional cooling, altered precipitation, and reduced marine oxygen distribution."
+    ]
+  },
+  {
+    "id": "prose_summary_002",
+    "section": "reading",
+    "qtype": "prose_summary",
+    "topic": "prose_summary",
+    "difficulty": 5,
+    "explanation": "The three main ideas: (1) historical urbanization trend and the 2007 threshold; (2) cities as both resource consumers/polluters and engines of productivity; (3) unequal distribution of urban benefits with informal settlements as a key challenge. The other options are minor details or not stated.",
+    "source": "seed",
+    "tags": ["urbanization", "prose_summary", "global"],
+    "passage_id": "passage_urban_growth",
+    "question": "Directions: An introductory sentence for a brief summary of the passage is provided. Complete the summary by selecting THREE answer choices that express the most important ideas in the passage.",
+    "intro_sentence": "The rapid growth of urban populations around the world presents both significant opportunities and serious challenges.",
+    "choices": [
+      "Urbanization has accelerated since industrialization, and by 2007 more than half of humanity lived in cities for the first time in history.",
+      "Cities are responsible for approximately 75 percent of global energy consumption and carbon emissions, yet they also drive economic productivity and innovation.",
+      "The benefits of urbanization are unevenly distributed, with millions of developing-world residents living in informal settlements lacking basic services.",
+      "The United Nations expects that urban populations will begin declining after 2050 as rural areas become more attractive.",
+      "Per-capita wages in cities are consistently lower than those in rural areas due to higher living costs.",
+      "Most informal settlements are found in cities of fewer than one million people."
+    ],
+    "correct": [
+      "Urbanization has accelerated since industrialization, and by 2007 more than half of humanity lived in cities for the first time in history.",
+      "Cities are responsible for approximately 75 percent of global energy consumption and carbon emissions, yet they also drive economic productivity and innovation.",
+      "The benefits of urbanization are unevenly distributed, with millions of developing-world residents living in informal settlements lacking basic services."
+    ]
+  }
+]

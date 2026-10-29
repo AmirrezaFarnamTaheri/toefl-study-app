@@ -1,0 +1,170 @@
+[
+  {
+    "id": "wd_001",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["writing", "discussion", "technology"],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "This week we have been discussing the role of technology in modern education. Some researchers argue that the widespread adoption of artificial intelligence tutoring systems will improve learning outcomes for all students, while others warn it will deepen inequality. In your post, I'd like you to share your perspective on whether AI tutoring systems are ultimately beneficial or harmful for educational equity.",
+    "student_a": {
+      "name": "Layla",
+      "post": "I think AI tutoring systems are a huge opportunity for students in under-resourced schools. If a student in a rural area gets the same personalized feedback as someone at an elite private school, that's a win for equity. The technology exists — we just need to deploy it fairly."
+    },
+    "student_b": {
+      "name": "Marcus",
+      "post": "But that assumes equal access to devices and internet, which we don't have. I worry that AI tutoring will just be another advantage for students who are already privileged, while the kids who need help most are left with outdated textbooks and overworked teachers."
+    },
+    "rubric_checklist": [
+      "I stated a clear opinion on whether AI tutoring systems are beneficial or harmful for equity.",
+      "I provided at least one specific reason supporting my position.",
+      "I engaged with at least one point made by Layla or Marcus (either agreeing, disagreeing, or extending it).",
+      "My response is at least 100 words.",
+      "I used at least one concrete example or piece of evidence.",
+      "My response is free of major grammatical errors.",
+      "I did not merely summarize what Layla and Marcus said without adding my own perspective."
+    ]
+  },
+  {
+    "id": "wd_002",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["writing", "discussion", "environment"],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "We have been exploring environmental policy this week. A central debate in this field is whether governments should prioritize economic growth or environmental protection when the two appear to conflict. What is your view? Should policymakers be willing to slow economic development to prevent environmental harm, or should economic growth take precedence because it funds future environmental solutions?",
+    "student_a": {
+      "name": "Chen",
+      "post": "I believe protecting the environment must come first. Once ecosystems are destroyed, no amount of money can restore them. History shows us that short-term economic gains often lead to irreversible long-term damage, like the deforestation of the Amazon."
+    },
+    "student_b": {
+      "name": "Priya",
+      "post": "Economic growth and environmental protection don't have to be at odds. Wealthier nations can afford cleaner technologies and stricter regulations. If developing countries are forced to prioritize the environment over growth, they may never escape poverty — and poor communities suffer environmental damage the most."
+    },
+    "rubric_checklist": [
+      "I took a clear and specific position on the economic growth vs. environmental protection debate.",
+      "I supported my position with at least one logical argument or real-world example.",
+      "I addressed or responded to a point made by Chen or Priya.",
+      "My response is at least 100 words.",
+      "I avoided vague generalizations — I used specific reasoning.",
+      "My response is grammatically coherent.",
+      "I did not simply list both sides without committing to a view."
+    ]
+  },
+  {
+    "id": "wd_003",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 4,
+    "source": "seed",
+    "tags": ["writing", "discussion", "social_media"],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "This week's topic focuses on social media and democratic discourse. Some scholars argue that social media platforms have strengthened democracy by giving ordinary citizens a voice and enabling grassroots organizing. Others contend that social media has weakened democracy by spreading misinformation and creating ideological echo chambers. What is your assessment?",
+    "student_a": {
+      "name": "Amara",
+      "post": "Social media has been transformative for democracy. Think about the Arab Spring — people organized mass movements using Twitter and Facebook. Before social media, ordinary citizens had almost no way to challenge powerful institutions. Now they can."
+    },
+    "student_b": {
+      "name": "Jonas",
+      "post": "But those same tools spread misinformation at scale. Algorithms are designed to maximize engagement, not truth. That's how conspiracy theories go viral. I think social media has actually made it harder for democracies to have informed public debates."
+    },
+    "rubric_checklist": [
+      "I stated a clear and nuanced position on social media's effect on democracy.",
+      "I used at least one specific historical or contemporary example.",
+      "I engaged critically with either Amara's or Jonas's argument.",
+      "My response is at least 100 words.",
+      "I acknowledged complexity — did not simply dismiss one side.",
+      "I used varied sentence structures and academic vocabulary appropriately.",
+      "I maintained a consistent argument throughout my response."
+    ]
+  },
+  {
+    "id": "wd_004",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["writing", "discussion", "public_health"],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Our readings this week examined the ethics of public health mandates. The COVID-19 pandemic reignited debate about whether governments have the right to require vaccinations or other health behaviors for the public good. Should governments be able to mandate health behaviors that protect collective well-being, even when individuals object on personal or religious grounds?",
+    "student_a": {
+      "name": "Sofia",
+      "post": "Yes, governments must sometimes override individual preferences for the collective good. Vaccination creates herd immunity, which protects people who literally cannot be vaccinated due to medical conditions. Allowing opt-outs on loose grounds endangers vulnerable populations."
+    },
+    "student_b": {
+      "name": "Derek",
+      "post": "I'm uncomfortable with government-mandated medical procedures. The history of forced medical interventions — especially on marginalized communities — shows why bodily autonomy must be protected. I think incentives and education work better than compulsion and build more lasting trust."
+    },
+    "rubric_checklist": [
+      "I clearly stated whether governments should be able to mandate health behaviors.",
+      "I supported my view with at least one substantive argument.",
+      "I engaged with Sofia's or Derek's point specifically.",
+      "My response is at least 100 words.",
+      "I demonstrated awareness of the ethical complexity of the issue.",
+      "My writing is well-organized — not a stream of unconnected thoughts.",
+      "I avoided personal anecdotes as the sole form of evidence."
+    ]
+  },
+  {
+    "id": "wd_005",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 4,
+    "source": "seed",
+    "tags": ["writing", "discussion", "urban_planning"],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "This week we examined how cities can address housing affordability crises. Two major policy approaches are rent control (limiting how much landlords can charge) and increasing housing supply through deregulation and new construction. Economists disagree on which approach is more effective. What is your view?",
+    "student_a": {
+      "name": "Kenji",
+      "post": "Rent control keeps long-term residents from being priced out of their neighborhoods. Without it, gentrification displaces entire communities. Whatever the economic theory says, the lived reality for many families is that rent control is the only thing keeping them housed."
+    },
+    "student_b": {
+      "name": "Isabelle",
+      "post": "But most economists find that rent control reduces the housing supply over time — landlords convert units, reduce maintenance, or sell to owner-occupants. The long-run effect is fewer affordable units. Supply-side solutions like zoning reform are less politically satisfying but more effective."
+    },
+    "rubric_checklist": [
+      "I stated a clear preference for one housing policy approach (or a specific hybrid).",
+      "I used at least one economic or social argument to support my view.",
+      "I engaged with Kenji's or Isabelle's specific claim.",
+      "My response is at least 100 words.",
+      "I showed understanding of trade-offs — not just one-sided advocacy.",
+      "My response used precise language and avoided filler phrases.",
+      "I did not contradict myself within the response."
+    ]
+  },
+  {
+    "id": "wd_006",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["writing", "discussion", "work"],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Remote work became normalized during the pandemic, and companies are now debating whether to require employees to return to the office. Some argue that in-office work improves collaboration, mentorship, and company culture. Others argue that remote work boosts productivity and employee well-being. What is the better long-term model for knowledge workers: office-based, remote, or hybrid?",
+    "student_a": {
+      "name": "Aaliya",
+      "post": "Hybrid is clearly the answer — it gives employees flexibility while preserving in-person collaboration for the tasks that actually benefit from it. Companies that force full-time office return are going to lose their best people to competitors who offer flexibility."
+    },
+    "student_b": {
+      "name": "Tomás",
+      "post": "I disagree with Aaliya. Hybrid sounds ideal in theory but in practice creates a two-tier workplace where remote employees are systematically overlooked for promotions and mentorship. Full remote, done well with intentional culture-building, is fairer and more scalable."
+    },
+    "rubric_checklist": [
+      "I stated a clear preference for one work model (office, remote, or hybrid) with reasoning.",
+      "I supported my position with at least one concrete argument.",
+      "I addressed either Aaliya's or Tomás's specific point.",
+      "My response is at least 100 words.",
+      "I showed awareness of practical trade-offs rather than ideal scenarios only.",
+      "My sentences are clear and well-constructed.",
+      "I added a perspective or argument not already covered by either student."
+    ]
+  }
+]

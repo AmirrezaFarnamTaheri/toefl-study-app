@@ -1,0 +1,116 @@
+[
+  {
+    "id": "inference_001",
+    "section": "reading",
+    "qtype": "inference",
+    "topic": "inference",
+    "difficulty": 3,
+    "explanation": "The passage explains that doubling urban population yields ~15% higher wages and patents, yet developing-world cities have sprawling slums. This implies that economic productivity gains are not automatically distributed to all residents — you can infer unequal distribution within cities.",
+    "source": "seed",
+    "tags": ["urbanization", "inference", "economics"],
+    "passage_id": "passage_urban_growth",
+    "question": "Which of the following can be inferred about cities in the developing world from the passage?",
+    "choices": [
+      "They benefit from economic productivity gains but do not equally distribute those gains to all residents",
+      "They are expected to shrink in population as rural agriculture revives",
+      "They produce more patents per capita than cities in the developed world",
+      "Their informal settlements are primarily caused by lack of governance rather than rapid growth"
+    ],
+    "correct": "They benefit from economic productivity gains but do not equally distribute those gains to all residents"
+  },
+  {
+    "id": "inference_002",
+    "section": "reading",
+    "qtype": "inference",
+    "topic": "inference",
+    "difficulty": 4,
+    "explanation": "The passage states the worked-examples effect applies to novices but diminishes as expertise grows (expertise reversal effect). This implies that the best instructional strategy varies depending on learner experience level — a direct inference from the described reversal.",
+    "source": "seed",
+    "tags": ["education", "inference", "expertise"],
+    "passage_id": "passage_cognitive_load",
+    "question": "What can be inferred from the passage about the ideal instructional design for advanced learners?",
+    "choices": [
+      "It should include more independent problem-solving rather than worked examples",
+      "It should rely heavily on worked examples to minimize cognitive load",
+      "It should always integrate text physically within diagrams to reduce extraneous load",
+      "It should focus exclusively on reducing intrinsic load"
+    ],
+    "correct": "It should include more independent problem-solving rather than worked examples"
+  },
+  {
+    "id": "inference_003",
+    "section": "reading",
+    "qtype": "inference",
+    "topic": "inference",
+    "difficulty": 4,
+    "explanation": "The passage mentions a 'market failure': developing new antibiotics is expensive, but the drugs are held in reserve to slow resistance, generating little revenue. This implies pharmaceutical companies lack financial incentive — allowing you to infer new antibiotics will not emerge from the market without external intervention.",
+    "source": "seed",
+    "tags": ["antibiotics", "inference", "economics"],
+    "passage_id": "passage_antibiotics",
+    "question": "What can be inferred from the passage about the development of new antibiotics?",
+    "choices": [
+      "New antibiotics are unlikely to be produced by pharmaceutical companies without additional financial incentives",
+      "Bacteriophage therapy has already replaced antibiotic development as the primary research focus",
+      "Anti-virulence compounds are now commercially available in most countries",
+      "The cost of developing antibiotics has decreased significantly in recent decades"
+    ],
+    "correct": "New antibiotics are unlikely to be produced by pharmaceutical companies without additional financial incentives"
+  },
+  {
+    "id": "inference_004",
+    "section": "reading",
+    "qtype": "inference",
+    "topic": "inference",
+    "difficulty": 3,
+    "explanation": "The passage describes how Northern Europe could experience paradoxically colder temperatures while the rest of the world warms due to weakened thermohaline circulation. You can infer that the effects of climate change are not uniformly distributed geographically.",
+    "source": "seed",
+    "tags": ["climate", "inference", "geography"],
+    "passage_id": "passage_climate_change",
+    "question": "What can be inferred from the passage about the geographic effects of climate change?",
+    "choices": [
+      "Climate change can produce regional cooling even while global average temperatures rise",
+      "All regions of the world will experience warming at approximately the same rate",
+      "Northern Europe is the region most resistant to the effects of global warming",
+      "Polar ice melting will primarily affect equatorial regions rather than temperate zones"
+    ],
+    "correct": "Climate change can produce regional cooling even while global average temperatures rise"
+  },
+  {
+    "id": "rhetorical_001",
+    "section": "reading",
+    "qtype": "rhetorical_purpose",
+    "topic": "rhetorical_purpose",
+    "difficulty": 3,
+    "explanation": "The author mentions the spread of 'misinformation and inflammatory pamphlets' to introduce a complication or caveat to the otherwise positive portrayal of the printing press — specifically to acknowledge the technology's dual-use nature and draw an analogy to the modern internet.",
+    "source": "seed",
+    "tags": ["history", "rhetorical", "purpose"],
+    "passage_id": "passage_printing_press",
+    "question": "Why does the author mention the spread of misinformation and inflammatory pamphlets in the final paragraph?",
+    "choices": [
+      "To acknowledge that the printing press also had negative consequences and to draw an analogy to the internet",
+      "To argue that the printing press ultimately caused more harm than benefit to European society",
+      "To explain why the Catholic Church successfully suppressed Gutenberg's invention",
+      "To illustrate that literacy rates declined in the decades after the printing press was introduced"
+    ],
+    "correct": "To acknowledge that the printing press also had negative consequences and to draw an analogy to the internet"
+  },
+  {
+    "id": "rhetorical_002",
+    "section": "reading",
+    "qtype": "rhetorical_purpose",
+    "topic": "rhetorical_purpose",
+    "difficulty": 4,
+    "explanation": "The worked-examples effect is introduced to demonstrate a specific instructional implication of cognitive load theory — that reducing problem-solving search frees working memory for schema construction. It serves as concrete evidence for the theory's practical application.",
+    "source": "seed",
+    "tags": ["education", "rhetorical", "purpose"],
+    "passage_id": "passage_cognitive_load",
+    "question": "The author discusses the 'worked-examples effect' primarily in order to",
+    "choices": [
+      "Illustrate how reducing certain types of cognitive load can improve learning outcomes",
+      "Argue that novice learners should never attempt independent problem solving",
+      "Contrast Sweller's findings with those of earlier educational theorists",
+      "Explain why automated schemas eventually become a burden for expert learners"
+    ],
+    "correct": "Illustrate how reducing certain types of cognitive load can improve learning outcomes"
+  }
+]

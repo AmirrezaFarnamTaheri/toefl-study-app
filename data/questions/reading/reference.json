@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ref_001",
+    "section": "reading",
+    "qtype": "reference",
+    "topic": "reference",
+    "difficulty": 2,
+    "source": "seed",
+    "tags": ["reading", "reference"],
+    "explanation": "\"It\" in the clause \"it has been dramatically accelerated\" refers back to \"This evolutionary process\" mentioned in the preceding sentence.",
+    "passage_id": "passage_antibiotics",
+    "question": "The word \"it\" in the passage refers to which of the following?",
+    "choices": [
+      "The discovery of penicillin",
+      "The rise of antibiotic-resistant bacteria",
+      "This evolutionary process",
+      "Human behavior involving overprescription"
+    ],
+    "correct": "This evolutionary process"
+  },
+  {
+    "id": "ref_002",
+    "section": "reading",
+    "qtype": "reference",
+    "topic": "reference",
+    "difficulty": 2,
+    "source": "seed",
+    "tags": ["reading", "reference"],
+    "explanation": "\"This\" in \"This counterintuitive regional cooling\" refers to the projected colder temperatures in Northern Europe described in the previous sentence.",
+    "passage_id": "passage_climate_change",
+    "question": "The word \"This\" at the beginning of the sentence 'This counterintuitive regional cooling would result from reduced transport of warm tropical waters toward the North Atlantic' refers to which of the following?",
+    "choices": [
+      "The weakening of thermohaline circulation globally",
+      "The paradoxical colder temperatures projected for Northern Europe",
+      "The melting of polar ice in the Arctic region",
+      "The absorption of heat by the world's oceans"
+    ],
+    "correct": "The paradoxical colder temperatures projected for Northern Europe"
+  },
+  {
+    "id": "ref_003",
+    "section": "reading",
+    "qtype": "reference",
+    "topic": "reference",
+    "difficulty": 3,
+    "source": "seed",
+    "tags": ["reading", "reference", "education"],
+    "explanation": "In the clause 'as learners gain expertise and their schemas become automated,' the possessive pronoun 'their' refers back to the subject of the clause, 'learners' (specifically the learners who are gaining expertise).",
+    "passage_id": "passage_cognitive_load",
+    "question": "The word \"their\" in the phrase \"as learners gain expertise and their schemas become automated\" refers to which of the following?",
+    "choices": [
+      "Instructors who design the worked examples",
+      "The schemas themselves",
+      "The learners who are gaining expertise",
+      "The researchers who study cognitive load theory"
+    ],
+    "correct": "The learners who are gaining expertise"
+  }
+]

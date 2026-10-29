@@ -1,0 +1,230 @@
+[
+  {
+    "id": "listening_001",
+    "section": "listening",
+    "qtype": "listening_main_idea",
+    "topic": "lecture_history",
+    "difficulty": 2,
+    "explanation": "The professor explicitly frames the lecture around the Columbian Exchange and defines it in the opening: 'the massive transfer of plants, animals, people, diseases, and ideas between the Americas and the Old World.' The lecture then covers biological and ecological dimensions of that transfer.",
+    "source": "seed",
+    "tags": ["history", "lecture", "main_idea"],
+    "script_id": "listening_script_001",
+    "question": "What is the main topic of the lecture?",
+    "choices": [
+      "The biological and ecological dimensions of contact between the Americas and the Old World after 1492",
+      "The political causes and consequences of Columbus's voyages to the Americas",
+      "Why European agricultural techniques were superior to those of indigenous Americans",
+      "The history of the transatlantic slave trade in the sixteenth century"
+    ],
+    "correct": "The biological and ecological dimensions of contact between the Americas and the Old World after 1492"
+  },
+  {
+    "id": "listening_002",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "lecture_history",
+    "difficulty": 3,
+    "explanation": "The professor states: 'Potatoes produce more calories per acre than wheat, grow in poor soils, and can be stored underground to avoid theft during wartime.' Three specific advantages are mentioned in sequence.",
+    "source": "seed",
+    "tags": ["history", "lecture", "detail"],
+    "script_id": "listening_script_001",
+    "question": "According to the professor, which of the following was an advantage of the potato over traditional grain crops in Europe?",
+    "choices": [
+      "Potatoes produce more calories per acre and can grow in poor soils",
+      "Potatoes were resistant to all known European plant diseases",
+      "Potatoes could be traded internationally more easily than grain",
+      "Potatoes contained higher protein content than wheat"
+    ],
+    "correct": "Potatoes produce more calories per acre and can grow in poor soils"
+  },
+  {
+    "id": "listening_003",
+    "section": "listening",
+    "qtype": "listening_inference",
+    "topic": "lecture_history",
+    "difficulty": 4,
+    "explanation": "The professor notes that 50–90% of indigenous Americans died from disease and calls this 'the single most important factor that made European colonization possible.' You can infer that disease, not military conquest, was the primary mechanism facilitating European colonization.",
+    "source": "seed",
+    "tags": ["history", "lecture", "inference"],
+    "script_id": "listening_script_001",
+    "question": "What can be inferred from the professor's discussion of disease in the Americas?",
+    "choices": [
+      "The spread of Old World diseases was more decisive than military force in enabling European colonization",
+      "European colonizers deliberately spread diseases to weaken indigenous resistance",
+      "Indigenous Americans quickly developed immunity to Old World diseases through natural selection",
+      "Diseases only affected small, isolated indigenous communities rather than large civilizations"
+    ],
+    "correct": "The spread of Old World diseases was more decisive than military force in enabling European colonization"
+  },
+  {
+    "id": "listening_004",
+    "section": "listening",
+    "qtype": "listening_attitude",
+    "topic": "lecture_history",
+    "difficulty": 4,
+    "explanation": "The professor uses phrases like 'darker side,' 'deeply unequal,' 'enormous human costs,' and 'profoundly destructive consequences' when discussing the slave trade and ecological displacement. This signals a critical attitude toward framing the Columbian Exchange purely as a neutral biological exchange.",
+    "source": "seed",
+    "tags": ["history", "lecture", "attitude"],
+    "script_id": "listening_script_001",
+    "question": "What is the professor's attitude toward the concept of the 'Columbian Exchange'?",
+    "choices": [
+      "She finds it a useful framework but emphasizes that the exchange was deeply unequal and had destructive consequences",
+      "She believes the term is misleading and prefers to describe the period as one of straightforward conquest",
+      "She is enthusiastic about the concept and presents it as a uniformly positive development for all involved",
+      "She thinks historians have exaggerated the biological dimensions of European contact with the Americas"
+    ],
+    "correct": "She finds it a useful framework but emphasizes that the exchange was deeply unequal and had destructive consequences"
+  },
+  {
+    "id": "listening_005",
+    "section": "listening",
+    "qtype": "listening_main_idea",
+    "topic": "conversation_academic",
+    "difficulty": 2,
+    "explanation": "The student comes with a too-broad topic (water scarcity) and the conversation guides narrowing it to a specific comparative argument with a clear thesis. The main purpose is helping the student focus and develop an arguable research question.",
+    "source": "seed",
+    "tags": ["conversation", "office_hours", "main_idea"],
+    "script_id": "listening_script_002",
+    "question": "Why does the student visit the professor?",
+    "choices": [
+      "To get help narrowing a research paper topic from a broad subject to a focused argument",
+      "To request an extension on a research paper deadline",
+      "To discuss the grade received on a previous assignment about water policy",
+      "To ask for a recommendation letter for a graduate program in environmental policy"
+    ],
+    "correct": "To get help narrowing a research paper topic from a broad subject to a focused argument"
+  },
+  {
+    "id": "listening_006",
+    "section": "listening",
+    "qtype": "listening_function",
+    "topic": "conversation_academic",
+    "difficulty": 3,
+    "explanation": "The professor says 'That's actually a really common issue with broad topics like water scarcity. The problem is usually that students pick a topic but not a question.' This functions to normalize the student's difficulty and redirect toward identifying a specific research question — it's pedagogical reassurance combined with practical guidance.",
+    "source": "seed",
+    "tags": ["conversation", "office_hours", "function"],
+    "script_id": "listening_script_002",
+    "question": "Why does the professor say 'That's actually a really common issue'?",
+    "choices": [
+      "To reassure the student and redirect toward identifying a specific research question rather than just a topic",
+      "To indicate that the assignment is too difficult and should be revised",
+      "To suggest that the student's chosen topic is unoriginal",
+      "To explain that other students have already written on water scarcity"
+    ],
+    "correct": "To reassure the student and redirect toward identifying a specific research question rather than just a topic"
+  },
+  {
+    "id": "listening_007",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "conversation_academic",
+    "difficulty": 2,
+    "explanation": "The professor explicitly contrasts Singapore's approach (desalination and wastewater recycling into 'NEWater') with Las Vegas's approach (demand management, outdoor water restrictions, and paying residents to remove lawns).",
+    "source": "seed",
+    "tags": ["conversation", "office_hours", "detail"],
+    "script_id": "listening_script_002",
+    "question": "According to the professor, how does Las Vegas primarily address water scarcity?",
+    "choices": [
+      "Through demand management, such as restricting outdoor water use and incentivizing lawn removal",
+      "By building large-scale seawater desalination plants along the coast",
+      "By recycling industrial wastewater into drinking water known as NEWater",
+      "By importing freshwater via pipelines from neighboring northern states"
+    ],
+    "correct": "Through demand management, such as restricting outdoor water use and incentivizing lawn removal"
+  },
+  {
+    "id": "listening_008",
+    "section": "listening",
+    "qtype": "listening_main_idea",
+    "topic": "lecture_biology",
+    "difficulty": 2,
+    "explanation": "The lecture explains how coral reefs thrive in nutrient-poor waters through symbiosis with zooxanthellae, and how rising ocean temperatures disrupt this symbiosis to cause coral bleaching and potential recovery.",
+    "source": "seed",
+    "tags": ["biology", "lecture", "main_idea"],
+    "script_id": "listening_script_003",
+    "question": "What is the main purpose of the lecture?",
+    "choices": [
+      "To explain the symbiotic relationship that sustains coral reefs and how thermal stress disrupts it",
+      "To compare the biodiversity of tropical coral reefs with that of deep-sea hydrothermal vents",
+      "To argue that all bleached coral reefs around the world are permanently dead",
+      "To describe the evolutionary history of jellyfish and other marine invertebrates"
+    ],
+    "correct": "To explain the symbiotic relationship that sustains coral reefs and how thermal stress disrupts it"
+  },
+  {
+    "id": "listening_009",
+    "section": "listening",
+    "qtype": "listening_detail",
+    "topic": "lecture_biology",
+    "difficulty": 3,
+    "explanation": "The professor states that when ocean temperatures rise 1–2°C above normal summer maximums, the zooxanthellae's photosynthetic machinery breaks down and begins producing toxic reactive oxygen species (free radicals) that damage coral cells, prompting the coral to expel them.",
+    "source": "seed",
+    "tags": ["biology", "lecture", "detail"],
+    "script_id": "listening_script_003",
+    "question": "According to the professor, why does a coral polyp expel its zooxanthellae during periods of high water temperature?",
+    "choices": [
+      "The heat-stressed algae begin producing toxic reactive oxygen species that damage the coral's cells",
+      "The algae consume all of the coral's calcium carbonate skeleton when water warms",
+      "The coral needs to make room inside its tissues for cooler water to circulate",
+      "The zooxanthellae die immediately upon contact with warm water and dissolve"
+    ],
+    "correct": "The heat-stressed algae begin producing toxic reactive oxygen species that damage the coral's cells"
+  },
+  {
+    "id": "listening_010",
+    "section": "listening",
+    "qtype": "listening_function",
+    "topic": "lecture_biology",
+    "difficulty": 3,
+    "explanation": "The professor calls tropical waters 'essentially marine deserts' to highlight the paradox of Darwin's coral reef problem: how an extraordinarily productive, biodiverse ecosystem can flourish in water with almost no dissolved nutrients.",
+    "source": "seed",
+    "tags": ["biology", "lecture", "function"],
+    "script_id": "listening_script_003",
+    "question": "Why does the professor refer to tropical waters as 'essentially marine deserts'?",
+    "choices": [
+      "To emphasize the paradox that highly productive coral reefs thrive in waters with very low nutrient levels",
+      "To explain why very few species of fish are able to survive near tropical coastlines",
+      "To illustrate that tropical oceans receive less annual rainfall than temperate oceans",
+      "To show that sand from terrestrial deserts frequently blows into tropical seas"
+    ],
+    "correct": "To emphasize the paradox that highly productive coral reefs thrive in waters with very low nutrient levels"
+  },
+  {
+    "id": "listening_011",
+    "section": "listening",
+    "qtype": "listening_attitude",
+    "topic": "lecture_biology",
+    "difficulty": 3,
+    "explanation": "When discussing the 'adaptive bleaching hypothesis,' the professor says 'Even more fascinating, marine biologists have recently discovered...' and explains how corals can acquire more heat-tolerant strains of algae. This expresses scientific interest and cautious optimism about coral resilience.",
+    "source": "seed",
+    "tags": ["biology", "lecture", "attitude"],
+    "script_id": "listening_script_003",
+    "question": "What is the professor's attitude toward the 'adaptive bleaching hypothesis'?",
+    "choices": [
+      "He finds it intriguing because it suggests corals may have a mechanism to increase their heat tolerance",
+      "He is skeptical of it and believes marine biologists have misinterpreted the laboratory data",
+      "He is concerned that heat-tolerant algae will prevent corals from building calcium carbonate skeletons",
+      "He considers it irrelevant because ocean temperatures are actually cooling in the tropics"
+    ],
+    "correct": "He finds it intriguing because it suggests corals may have a mechanism to increase their heat tolerance"
+  },
+  {
+    "id": "listening_012",
+    "section": "listening",
+    "qtype": "listening_inference",
+    "topic": "lecture_biology",
+    "difficulty": 4,
+    "explanation": "Since zooxanthellae rely on photosynthesis using sunlight to produce 90% of the coral's organic carbon, we can infer that reef-building corals that depend on zooxanthellae must live in shallow, sunlit waters where light can penetrate.",
+    "source": "seed",
+    "tags": ["biology", "lecture", "inference"],
+    "script_id": "listening_script_003",
+    "question": "What can be inferred from the lecture about where reef-building corals with zooxanthellae can grow?",
+    "choices": [
+      "They are restricted to relatively shallow, clear waters where sufficient sunlight can penetrate for photosynthesis",
+      "They grow fastest in deep ocean trenches where water temperatures remain permanently near freezing",
+      "They can only survive near river mouths where agricultural runoff provides high nitrogen levels",
+      "They do not require sunlight because the coral polyp feeds exclusively on passing jellyfish"
+    ],
+    "correct": "They are restricted to relatively shallow, clear waters where sufficient sunlight can penetrate for photosynthesis"
+  }
+]
