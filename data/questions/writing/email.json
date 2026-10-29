@@ -1,0 +1,122 @@
+[
+  {
+    "id": "we_001",
+    "section": "writing",
+    "qtype": "writing_email",
+    "topic": "writing_email",
+    "difficulty": 3,
+    "explanation": "Self-assessed against the rubric checklist. Aim to cover all three bullet points in full sentences.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "email",
+      "media"
+    ],
+    "scenario": "You borrowed a projector from the campus media office for a student club evening. When you packed it away, you noticed that one of its cables had been damaged, and you are not sure whether you will be charged for it.",
+    "to": "media.office@northfield-college.example",
+    "subject": "Damaged projector cable",
+    "bullets": [
+      "explain what happened to the cable",
+      "describe what you have already done about it",
+      "ask what you should do next"
+    ],
+    "rubric_checklist": [
+      "I used an appropriate greeting and a polite closing with my name.",
+      "I addressed all three bullet points, each in its own clear part of the email.",
+      "I gave specific details (what, when, how) rather than general statements.",
+      "I used complete sentences and a polite, formal-neutral register.",
+      "The purpose of the email is clear in the first two sentences.",
+      "My email is free of major grammatical errors and I wrote as much as I could in 7 minutes."
+    ]
+  },
+  {
+    "id": "we_002",
+    "section": "writing",
+    "qtype": "writing_email",
+    "topic": "writing_email",
+    "difficulty": 3,
+    "explanation": "Self-assessed against the rubric checklist. Aim to cover all three bullet points in full sentences.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "email",
+      "missed-lab"
+    ],
+    "scenario": "You missed an important chemistry lab on Thursday because of a medical appointment that could not be moved. The lab counts toward your final grade.",
+    "to": "dr.alvarez@riverside-university.example",
+    "subject": "Missed lab session on Thursday",
+    "bullets": [
+      "explain why you missed the lab",
+      "describe what you have already done to catch up",
+      "ask whether you can make up the lab"
+    ],
+    "rubric_checklist": [
+      "I used an appropriate greeting and a polite closing with my name.",
+      "I addressed all three bullet points, each in its own clear part of the email.",
+      "I gave specific details (what, when, how) rather than general statements.",
+      "I used complete sentences and a polite, formal-neutral register.",
+      "The purpose of the email is clear in the first two sentences.",
+      "My email is free of major grammatical errors and I wrote as much as I could in 7 minutes."
+    ]
+  },
+  {
+    "id": "we_003",
+    "section": "writing",
+    "qtype": "writing_email",
+    "topic": "writing_email",
+    "difficulty": 3,
+    "explanation": "Self-assessed against the rubric checklist. Aim to cover all three bullet points in full sentences.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "email",
+      "heating"
+    ],
+    "scenario": "You live in a university residence. The heating in your room has not worked for a week, and nights have become very cold.",
+    "to": "housing@lakeview-university.example",
+    "subject": "Heating problem in Room 214",
+    "bullets": [
+      "explain the problem with the heating",
+      "describe what you have already tried",
+      "ask when the heating will be repaired"
+    ],
+    "rubric_checklist": [
+      "I used an appropriate greeting and a polite closing with my name.",
+      "I addressed all three bullet points, each in its own clear part of the email.",
+      "I gave specific details (what, when, how) rather than general statements.",
+      "I used complete sentences and a polite, formal-neutral register.",
+      "The purpose of the email is clear in the first two sentences.",
+      "My email is free of major grammatical errors and I wrote as much as I could in 7 minutes."
+    ]
+  },
+  {
+    "id": "we_004",
+    "section": "writing",
+    "qtype": "writing_email",
+    "topic": "writing_email",
+    "difficulty": 3,
+    "explanation": "Self-assessed against the rubric checklist. Aim to cover all three bullet points in full sentences.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "email",
+      "volunteer"
+    ],
+    "scenario": "You were accepted into a student volunteer program that starts next month, but you have just learned that you have an exam on the first day of training.",
+    "to": "volunteers@eastgate-college.example",
+    "subject": "Conflict with first training day",
+    "bullets": [
+      "explain the scheduling conflict",
+      "describe how you plan to complete the missed training",
+      "ask whether you can join the second session instead"
+    ],
+    "rubric_checklist": [
+      "I used an appropriate greeting and a polite closing with my name.",
+      "I addressed all three bullet points, each in its own clear part of the email.",
+      "I gave specific details (what, when, how) rather than general statements.",
+      "I used complete sentences and a polite, formal-neutral register.",
+      "The purpose of the email is clear in the first two sentences.",
+      "My email is free of major grammatical errors and I wrote as much as I could in 7 minutes."
+    ]
+  }
+]

@@ -35,11 +35,10 @@ export default function ExamSession({
 
   function sampleQuestions() {
     if (section === "writing") {
-      const integrated = BANK.filter((q) => q.qtype === "writing_integrated");
-      const discussion = BANK.filter((q) => q.qtype === "writing_discussion");
-      const pickInt = integrated[Math.floor(Math.random() * integrated.length)];
-      const pickDisc = discussion[Math.floor(Math.random() * discussion.length)];
-      return [pickInt, pickDisc].filter(Boolean);
+      // 2026 format: ten Build a Sentence items, one Write an Email, one Academic Discussion.
+      const pick = (qtype: string, n: number) =>
+        [...BANK.filter((q) => q.qtype === qtype)].sort(() => Math.random() - 0.5).slice(0, n);
+      return [...pick("writing_build_sentence", 10), ...pick("writing_email", 1), ...pick("writing_discussion", 1)];
     }
     const pool = BANK.filter((q) => q.section === section);
     const shuffled = [...pool].sort(() => Math.random() - 0.5);
@@ -121,6 +120,8 @@ export default function ExamSession({
     const ans = userAnswers[q.id];
     if (ans === undefined || ans === null || ans === "") return true;
     if (q.qtype === "prose_summary") return !Array.isArray(ans) || ans.length !== 3;
+    if (q.qtype === "writing_build_sentence") return !Array.isArray(ans) || ans.some((p) => p === null);
+    if (q.qtype === "complete_words") return !Array.isArray(ans) || ans.every((v) => !String(v ?? "").trim());
     return false;
   }).length;
 

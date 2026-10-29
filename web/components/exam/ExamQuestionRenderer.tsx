@@ -3,6 +3,8 @@
 import React from "react";
 import type { AnyToeflQuestion } from "toefl-adaptive-engine";
 import { getPassageById, getScriptById } from "@/lib/questionBank";
+import BuildSentenceBoard, { emptyPlaced } from "@/components/questions/BuildSentenceBoard";
+import CompleteWordsBoard from "@/components/questions/CompleteWordsBoard";
 
 interface ExamQuestionRendererProps {
   question: AnyToeflQuestion;
@@ -15,6 +17,26 @@ export default function ExamQuestionRenderer({
   currentAnswer,
   onAnswerChange,
 }: ExamQuestionRendererProps) {
+  if (question.qtype === "complete_words") {
+    const typed: string[] = Array.isArray(currentAnswer) ? currentAnswer : [];
+    return (
+      <div>
+        <span className="qtype-badge">Reading &bull; Complete the Words</span>
+        <CompleteWordsBoard question={question} typed={typed} onChange={onAnswerChange} />
+      </div>
+    );
+  }
+
+  if (question.qtype === "writing_build_sentence") {
+    const placed = Array.isArray(currentAnswer) ? currentAnswer : emptyPlaced(question);
+    return (
+      <div>
+        <span className="qtype-badge">Writing &bull; Build a Sentence</span>
+        <BuildSentenceBoard question={question} placed={placed} onChange={onAnswerChange} />
+      </div>
+    );
+  }
+
   if (question.section === "reading") {
     if (question.qtype === "insert_text") {
       const parts = question.passage_with_markers.split(/(\[[ABCD]\])/g);
@@ -173,6 +195,39 @@ export default function ExamQuestionRenderer({
   // Writing tasks in Exam Mode
   const textVal = typeof currentAnswer === "string" ? currentAnswer : "";
   const wordCount = textVal.trim() ? textVal.trim().split(/\s+/).length : 0;
+
+  if (question.qtype === "writing_email") {
+    return (
+      <div>
+        <span className="qtype-badge">Writing &bull; Write an Email</span>
+        <div className="passage-box" style={{ maxHeight: "none" }}>
+          <div className="passage-title">Situation</div>
+          <div>{question.scenario}</div>
+          <p style={{ marginBottom: 4 }}>Your email should:</p>
+          <ul style={{ marginTop: 0 }}>
+            {question.bullets.map((b) => (
+              <li key={b}>{b}</li>
+            ))}
+          </ul>
+          <div>
+            <strong>To:</strong> {question.to}
+          </div>
+          <div>
+            <strong>Subject:</strong> {question.subject}
+          </div>
+        </div>
+        <div style={{ marginBottom: "0.5rem", fontSize: "0.9rem" }}>
+          Word Count: <strong>{wordCount}</strong>
+        </div>
+        <textarea
+          className="writing-textarea"
+          placeholder="Type your email here..."
+          value={textVal}
+          onChange={(e) => onAnswerChange(e.target.value)}
+        />
+      </div>
+    );
+  }
 
   if (question.qtype === "writing_discussion") {
     return (

@@ -13,6 +13,9 @@ interface RawBank {
   listening?: unknown[];
   writing_discussion?: unknown[];
   writing_integrated?: unknown[];
+  writing_build_sentence?: unknown[];
+  writing_email?: unknown[];
+  complete_words?: unknown[];
 }
 
 export function loadQuestionBank(raw: RawBank): AnyToeflQuestion[] {

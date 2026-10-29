@@ -32,6 +32,9 @@ function audit() {
     "listening/questions.json",
     "writing/discussion.json",
     "writing/integrated.json",
+    "writing/build_sentence.json",
+    "writing/email.json",
+    "reading/complete_words.json",
   ];
 
   const seenIds = new Set();
@@ -61,7 +64,11 @@ function audit() {
         countsBySection[q.section]++;
       }
 
-      if (q.section === "reading") {
+      if (q.qtype === "complete_words") {
+        if (typeof q.paragraph !== "string" || q.paragraph.split(/\s+/).length < 55) {
+          errors.push(`${q.id}: complete_words paragraph missing or too short`);
+        }
+      } else if (q.section === "reading") {
         if (!q.passage_id || !passageIds.has(q.passage_id)) {
           errors.push(`${q.id}: unknown passage_id '${q.passage_id}'`);
         }
@@ -105,7 +112,19 @@ function audit() {
         }
       }
 
-      if (q.section === "writing") {
+      if (q.qtype === "writing_build_sentence") {
+        const slots = (q.segments || []).filter((s) => !s.fixed).map((s) => s.text);
+        const expected = [...slots, ...(q.distractor ? [q.distractor] : [])].sort();
+        if (slots.length < 4 || slots.length > 8) errors.push(`${q.id}: build_sentence needs 4-8 blanks`);
+        if (JSON.stringify([...(q.tiles || [])].sort()) !== JSON.stringify(expected)) errors.push(`${q.id}: tiles do not match answer + distractor`);
+        if (!["?", "."].includes(q.punctuation)) errors.push(`${q.id}: bad punctuation`);
+        if (!q.context) errors.push(`${q.id}: build_sentence missing context sentence`);
+      } else if (q.qtype === "writing_email") {
+        if (!Array.isArray(q.bullets) || q.bullets.length !== 3) errors.push(`${q.id}: email needs exactly 3 bullets`);
+        if (!q.to || !q.subject || !q.scenario) errors.push(`${q.id}: email missing to/subject/scenario`);
+      }
+
+      if (q.section === "writing" && q.qtype !== "writing_build_sentence") {
         if (!Array.isArray(q.rubric_checklist) || q.rubric_checklist.length === 0) {
           errors.push(`${q.id}: writing question missing rubric_checklist`);
         }

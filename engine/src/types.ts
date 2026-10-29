@@ -4,7 +4,8 @@
  * Question types: factual | negative_factual | inference | rhetorical_purpose |
  *   vocabulary | reference | sentence_simplification | insert_text |
  *   prose_summary | listening_detail | listening_main_idea | listening_function |
- *   listening_attitude | listening_inference | writing_discussion | writing_integrated
+ *   listening_attitude | listening_inference | writing_discussion | writing_integrated |
+ *   writing_build_sentence | writing_email | complete_words
  */
 
 export type ToeflSection = "reading" | "listening" | "writing";
@@ -150,6 +151,38 @@ export interface WritingIntegratedQuestion extends QuestionBase {
 
 // ─── Union type ───────────────────────────────────────────────────────────────
 
+/** 2026 Build a Sentence: arrange tiles to reply to a context sentence. All-or-nothing. */
+export interface WritingBuildSentenceQuestion extends QuestionBase {
+  section: "writing";
+  qtype: "writing_build_sentence";
+  context: string;
+  /** Reply frame in order; fixed segments are pre-printed, the rest are blanks. */
+  segments: { text: string; fixed?: boolean }[];
+  /** Closing punctuation shown after the last segment. */
+  punctuation: "?" | ".";
+  /** Scrambled tiles, including the distractor when present. */
+  tiles: string[];
+  distractor?: string;
+}
+
+/** 2026 Write an Email: situation, recipient, three bullet points, 7 minutes. */
+export interface WritingEmailQuestion extends QuestionBase {
+  section: "writing";
+  qtype: "writing_email";
+  scenario: string;
+  to: string;
+  subject: string;
+  bullets: string[];
+  rubric_checklist: string[];
+}
+
+/** 2026 Complete the Words: one paragraph, ten gaps built by makeCompleteWords(). */
+export interface CompleteWordsQuestion extends QuestionBase {
+  section: "reading";
+  qtype: "complete_words";
+  paragraph: string;
+}
+
 export type AnyToeflQuestion =
   | FactualQuestion
   | InferenceQuestion
@@ -159,7 +192,10 @@ export type AnyToeflQuestion =
   | ProseSummaryQuestion
   | ListeningQuestion
   | WritingDiscussionQuestion
-  | WritingIntegratedQuestion;
+  | WritingIntegratedQuestion
+  | WritingBuildSentenceQuestion
+  | WritingEmailQuestion
+  | CompleteWordsQuestion;
 
 // ─── Adaptive state ───────────────────────────────────────────────────────────
 

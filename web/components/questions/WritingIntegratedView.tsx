@@ -41,7 +41,7 @@ export default function WritingIntegratedView({
 
   return (
     <div className="question">
-      <span className="qtype-badge">Writing • Integrated Task (20 Min • 150–225 Words)</span>
+      <span className="qtype-badge">Writing • Integrated Task (20 Min • 150–225 Words) (legacy, retired in 2026)</span>
 
       <div className="timer-bar">
         <span>

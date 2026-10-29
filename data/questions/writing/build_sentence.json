@@ -1,0 +1,948 @@
+[
+  {
+    "id": "wbs_001",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 3,
+    "explanation": "Correct reply: do you know if we can hand in the report on Monday? The tile \"does\" is the extra tile and is not used.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "The lab is closed on Friday.",
+    "segments": [
+      {
+        "text": "do"
+      },
+      {
+        "text": "you"
+      },
+      {
+        "text": "know"
+      },
+      {
+        "text": "if"
+      },
+      {
+        "text": "we can",
+        "fixed": true
+      },
+      {
+        "text": "hand in"
+      },
+      {
+        "text": "the report"
+      },
+      {
+        "text": "on Monday"
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "does",
+      "the report",
+      "hand in",
+      "you",
+      "on Monday",
+      "know",
+      "if",
+      "do"
+    ],
+    "distractor": "does"
+  },
+  {
+    "id": "wbs_002",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: how often do they organise trips in winter?",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "I'm thinking of joining the hiking club.",
+    "segments": [
+      {
+        "text": "how often"
+      },
+      {
+        "text": "do"
+      },
+      {
+        "text": "they"
+      },
+      {
+        "text": "organise"
+      },
+      {
+        "text": "trips"
+      },
+      {
+        "text": "in winter",
+        "fixed": true
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "organise",
+      "do",
+      "trips",
+      "they",
+      "how often"
+    ]
+  },
+  {
+    "id": "wbs_003",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 3,
+    "explanation": "Correct reply: could you tell me what time we need to leave the hotel?",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "Our flight leaves at six tomorrow morning.",
+    "segments": [
+      {
+        "text": "could"
+      },
+      {
+        "text": "you"
+      },
+      {
+        "text": "tell me",
+        "fixed": true
+      },
+      {
+        "text": "what time"
+      },
+      {
+        "text": "we"
+      },
+      {
+        "text": "need to"
+      },
+      {
+        "text": "leave"
+      },
+      {
+        "text": "the hotel"
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "the hotel",
+      "you",
+      "leave",
+      "what time",
+      "we",
+      "need to",
+      "could"
+    ]
+  },
+  {
+    "id": "wbs_004",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: [The] speaker who opened it was really inspiring. The tile \"were\" is the extra tile and is not used.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "statement"
+    ],
+    "context": "How was the conference?",
+    "segments": [
+      {
+        "text": "[The] speaker"
+      },
+      {
+        "text": "who"
+      },
+      {
+        "text": "opened it"
+      },
+      {
+        "text": "was"
+      },
+      {
+        "text": "really"
+      },
+      {
+        "text": "inspiring",
+        "fixed": true
+      }
+    ],
+    "punctuation": ".",
+    "tiles": [
+      "was",
+      "were",
+      "opened it",
+      "who",
+      "really",
+      "[The] speaker"
+    ],
+    "distractor": "were"
+  },
+  {
+    "id": "wbs_005",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 3,
+    "explanation": "Correct reply: have you looked in the jacket that you wore yesterday?",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "I can't find my student card anywhere.",
+    "segments": [
+      {
+        "text": "have"
+      },
+      {
+        "text": "you"
+      },
+      {
+        "text": "looked"
+      },
+      {
+        "text": "in the jacket"
+      },
+      {
+        "text": "that"
+      },
+      {
+        "text": "you wore"
+      },
+      {
+        "text": "yesterday"
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "you",
+      "looked",
+      "that",
+      "in the jacket",
+      "yesterday",
+      "you wore",
+      "have"
+    ]
+  },
+  {
+    "id": "wbs_006",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: what kind of food do they serve there?",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "The new café on the corner opened last week.",
+    "segments": [
+      {
+        "text": "what kind"
+      },
+      {
+        "text": "of food"
+      },
+      {
+        "text": "do"
+      },
+      {
+        "text": "they"
+      },
+      {
+        "text": "serve"
+      },
+      {
+        "text": "there"
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "serve",
+      "of food",
+      "do",
+      "they",
+      "there",
+      "what kind"
+    ]
+  },
+  {
+    "id": "wbs_007",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: [Is there] a printer that students can use for free?",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "I need to print my essay before class.",
+    "segments": [
+      {
+        "text": "[Is there] a printer"
+      },
+      {
+        "text": "that"
+      },
+      {
+        "text": "students"
+      },
+      {
+        "text": "can"
+      },
+      {
+        "text": "use"
+      },
+      {
+        "text": "for free"
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "can",
+      "use",
+      "students",
+      "that",
+      "for free",
+      "[Is there] a printer"
+    ]
+  },
+  {
+    "id": "wbs_008",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: [It] was made by a friend of mine.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "statement"
+    ],
+    "context": "Where did you get that bag?",
+    "segments": [
+      {
+        "text": "[It] was"
+      },
+      {
+        "text": "made"
+      },
+      {
+        "text": "by"
+      },
+      {
+        "text": "a friend"
+      },
+      {
+        "text": "of mine"
+      }
+    ],
+    "punctuation": ".",
+    "tiles": [
+      "by",
+      "made",
+      "a friend",
+      "of mine",
+      "[It] was"
+    ]
+  },
+  {
+    "id": "wbs_009",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: do you think we should take the train instead?",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "The bus was twenty minutes late again.",
+    "segments": [
+      {
+        "text": "do"
+      },
+      {
+        "text": "you"
+      },
+      {
+        "text": "think"
+      },
+      {
+        "text": "we should"
+      },
+      {
+        "text": "take"
+      },
+      {
+        "text": "the train"
+      },
+      {
+        "text": "instead",
+        "fixed": true
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "the train",
+      "take",
+      "think",
+      "we should",
+      "you",
+      "do"
+    ]
+  },
+  {
+    "id": "wbs_010",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: [He] promised that it would be fixed by Friday.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "statement"
+    ],
+    "context": "What did the landlord say about the heating?",
+    "segments": [
+      {
+        "text": "[He] promised"
+      },
+      {
+        "text": "that"
+      },
+      {
+        "text": "it"
+      },
+      {
+        "text": "would be"
+      },
+      {
+        "text": "fixed"
+      },
+      {
+        "text": "by Friday",
+        "fixed": true
+      }
+    ],
+    "punctuation": ".",
+    "tiles": [
+      "fixed",
+      "would be",
+      "it",
+      "that",
+      "[He] promised"
+    ]
+  },
+  {
+    "id": "wbs_011",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: do you know if we can register online? The tile \"does\" is the extra tile and is not used.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "The registration deadline is next Tuesday.",
+    "segments": [
+      {
+        "text": "do"
+      },
+      {
+        "text": "you"
+      },
+      {
+        "text": "know"
+      },
+      {
+        "text": "if"
+      },
+      {
+        "text": "we can",
+        "fixed": true
+      },
+      {
+        "text": "register"
+      },
+      {
+        "text": "online"
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "register",
+      "you",
+      "does",
+      "if",
+      "online",
+      "know",
+      "do"
+    ],
+    "distractor": "does"
+  },
+  {
+    "id": "wbs_012",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: how far away is it from the campus?",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "I just moved into a new apartment.",
+    "segments": [
+      {
+        "text": "how far"
+      },
+      {
+        "text": "away"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "it"
+      },
+      {
+        "text": "from"
+      },
+      {
+        "text": "the campus",
+        "fixed": true
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "is",
+      "it",
+      "from",
+      "away",
+      "how far"
+    ]
+  },
+  {
+    "id": "wbs_013",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: have you tried restarting it in safe mode?",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "My laptop stopped working this morning.",
+    "segments": [
+      {
+        "text": "have"
+      },
+      {
+        "text": "you"
+      },
+      {
+        "text": "tried"
+      },
+      {
+        "text": "restarting",
+        "fixed": true
+      },
+      {
+        "text": "it"
+      },
+      {
+        "text": "in safe mode"
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "in safe mode",
+      "you",
+      "it",
+      "tried",
+      "have"
+    ]
+  },
+  {
+    "id": "wbs_014",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 3,
+    "explanation": "Correct reply: could you tell me when it is due?",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "The professor wants us to submit the draft early.",
+    "segments": [
+      {
+        "text": "could"
+      },
+      {
+        "text": "you"
+      },
+      {
+        "text": "tell"
+      },
+      {
+        "text": "me"
+      },
+      {
+        "text": "when",
+        "fixed": true
+      },
+      {
+        "text": "it"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "due"
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "tell",
+      "you",
+      "due",
+      "it",
+      "is",
+      "me",
+      "could"
+    ]
+  },
+  {
+    "id": "wbs_015",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: [The] exhibit that we saw was fascinating. The tile \"were\" is the extra tile and is not used.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "statement"
+    ],
+    "context": "How did you like the museum?",
+    "segments": [
+      {
+        "text": "[The] exhibit"
+      },
+      {
+        "text": "that"
+      },
+      {
+        "text": "we"
+      },
+      {
+        "text": "saw"
+      },
+      {
+        "text": "was"
+      },
+      {
+        "text": "fascinating",
+        "fixed": true
+      }
+    ],
+    "punctuation": ".",
+    "tiles": [
+      "were",
+      "was",
+      "we",
+      "that",
+      "saw",
+      "[The] exhibit"
+    ],
+    "distractor": "were"
+  },
+  {
+    "id": "wbs_016",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: tickets are sold at the main entrance. The tile \"is\" is the extra tile and is not used.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "statement"
+    ],
+    "context": "Where can I buy a train ticket?",
+    "segments": [
+      {
+        "text": "tickets"
+      },
+      {
+        "text": "are"
+      },
+      {
+        "text": "sold"
+      },
+      {
+        "text": "at"
+      },
+      {
+        "text": "the"
+      },
+      {
+        "text": "main",
+        "fixed": true
+      },
+      {
+        "text": "entrance"
+      }
+    ],
+    "punctuation": ".",
+    "tiles": [
+      "sold",
+      "is",
+      "are",
+      "at",
+      "the",
+      "entrance",
+      "tickets"
+    ],
+    "distractor": "is"
+  },
+  {
+    "id": "wbs_017",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 3,
+    "explanation": "Correct reply: do you know whether there is one for biology?",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "I'd like to join a study group.",
+    "segments": [
+      {
+        "text": "do"
+      },
+      {
+        "text": "you"
+      },
+      {
+        "text": "know"
+      },
+      {
+        "text": "whether"
+      },
+      {
+        "text": "there"
+      },
+      {
+        "text": "is"
+      },
+      {
+        "text": "one"
+      },
+      {
+        "text": "for biology",
+        "fixed": true
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "you",
+      "know",
+      "there",
+      "one",
+      "whether",
+      "is",
+      "do"
+    ]
+  },
+  {
+    "id": "wbs_018",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: [Many] students are studying for their final exams. The tile \"is\" is the extra tile and is not used.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "statement"
+    ],
+    "context": "Why is the library so crowded today?",
+    "segments": [
+      {
+        "text": "[Many] students"
+      },
+      {
+        "text": "are"
+      },
+      {
+        "text": "studying"
+      },
+      {
+        "text": "for"
+      },
+      {
+        "text": "their"
+      },
+      {
+        "text": "final exams"
+      }
+    ],
+    "punctuation": ".",
+    "tiles": [
+      "for",
+      "their",
+      "studying",
+      "final exams",
+      "are",
+      "is",
+      "[Many] students"
+    ],
+    "distractor": "is"
+  },
+  {
+    "id": "wbs_019",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 2,
+    "explanation": "Correct reply: what time does it close on weekdays? The tile \"do\" is the extra tile and is not used.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "question"
+    ],
+    "context": "The cafeteria closes early on weekends.",
+    "segments": [
+      {
+        "text": "what time"
+      },
+      {
+        "text": "does"
+      },
+      {
+        "text": "it"
+      },
+      {
+        "text": "close",
+        "fixed": true
+      },
+      {
+        "text": "on"
+      },
+      {
+        "text": "weekdays"
+      }
+    ],
+    "punctuation": "?",
+    "tiles": [
+      "does",
+      "it",
+      "on",
+      "weekdays",
+      "do",
+      "what time"
+    ],
+    "distractor": "do"
+  },
+  {
+    "id": "wbs_020",
+    "section": "writing",
+    "qtype": "writing_build_sentence",
+    "topic": "writing_build_sentence",
+    "difficulty": 3,
+    "explanation": "Correct reply: I would be happy to lend you mine.",
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "build-a-sentence",
+      "statement"
+    ],
+    "context": "I forgot to bring my notes.",
+    "segments": [
+      {
+        "text": "I",
+        "fixed": true
+      },
+      {
+        "text": "would"
+      },
+      {
+        "text": "be"
+      },
+      {
+        "text": "happy"
+      },
+      {
+        "text": "to"
+      },
+      {
+        "text": "lend"
+      },
+      {
+        "text": "you"
+      },
+      {
+        "text": "mine"
+      }
+    ],
+    "punctuation": ".",
+    "tiles": [
+      "happy",
+      "be",
+      "lend",
+      "to",
+      "you",
+      "mine",
+      "would"
+    ]
+  }
+]

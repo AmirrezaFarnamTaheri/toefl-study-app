@@ -21,6 +21,9 @@ import listening from "../../data/questions/listening/questions.json";
 
 import writing_discussion from "../../data/questions/writing/discussion.json";
 import writing_integrated from "../../data/questions/writing/integrated.json";
+import writing_build_sentence from "../../data/questions/writing/build_sentence.json";
+import writing_email from "../../data/questions/writing/email.json";
+import complete_words from "../../data/questions/reading/complete_words.json";
 
 export const BANK = loadQuestionBank({
   factual,
@@ -34,6 +37,9 @@ export const BANK = loadQuestionBank({
   listening,
   writing_discussion,
   writing_integrated,
+  writing_build_sentence,
+  writing_email,
+  complete_words,
 });
 
 export const PASSAGES = loadPassages(passagesRaw);

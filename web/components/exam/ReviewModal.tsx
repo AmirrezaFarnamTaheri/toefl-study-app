@@ -28,6 +28,8 @@ export default function ReviewModal({
     const ans = userAnswers[q.id];
     if (ans === undefined || ans === null || ans === "") return false;
     if (q.qtype === "prose_summary") return Array.isArray(ans) && ans.length === 3;
+    if (q.qtype === "writing_build_sentence") return Array.isArray(ans) && ans.every((p) => p !== null);
+    if (q.qtype === "complete_words") return Array.isArray(ans) && ans.some((v) => String(v ?? "").trim());
     return true;
   }
 

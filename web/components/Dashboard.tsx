@@ -224,11 +224,11 @@ export default function Dashboard() {
                   borderRadius: "4px",
                 }}
               >
-                2 Tasks • 30 Min
+                12 Items &middot; 23 Min
               </span>
             </div>
             <div style={{ fontSize: "0.8rem", color: "#e2e8f0", marginTop: "4px" }}>
-              Integrated Writing (20m) + Academic Discussion (10m)
+              10 Build a Sentence + Write an Email + Academic Discussion (2026 format)
             </div>
           </Link>
         </div>

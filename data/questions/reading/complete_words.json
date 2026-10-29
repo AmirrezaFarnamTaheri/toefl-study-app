@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cw_001",
+    "section": "reading",
+    "qtype": "complete_words",
+    "topic": "complete_words",
+    "difficulty": 2,
+    "explanation": "Each gap hides the second half of a word. Use the surrounding sentence to decide which word fits, then type only the missing letters.",
+    "source": "adapted",
+    "tags": [
+      "reading",
+      "complete-the-words",
+      "community-gardens"
+    ],
+    "paragraph": "Community gardens have become popular in many large cities. They give residents a place to grow fresh vegetables and herbs in neighborhoods with little open space. Volunteers usually share tools, water, and advice, which helps newcomers learn quickly. Studies suggest that these gardens also reduce stress and strengthen friendships among neighbors. As a result, several city councils now offer small grants to groups that want to start a new garden."
+  },
+  {
+    "id": "cw_002",
+    "section": "reading",
+    "qtype": "complete_words",
+    "topic": "complete_words",
+    "difficulty": 2,
+    "explanation": "Each gap hides the second half of a word. Use the surrounding sentence to decide which word fits, then type only the missing letters.",
+    "source": "adapted",
+    "tags": [
+      "reading",
+      "complete-the-words",
+      "sleep"
+    ],
+    "paragraph": "Sleep plays an important role in how well students learn. During the night, the brain organizes new information and moves it into long-term memory. Students who stay awake until dawn often struggle to recall details the next day. Researchers therefore recommend a regular bedtime and a quiet room without bright screens. Even a short nap in the afternoon can improve attention for several hours."
+  },
+  {
+    "id": "cw_003",
+    "section": "reading",
+    "qtype": "complete_words",
+    "topic": "complete_words",
+    "difficulty": 2,
+    "explanation": "Each gap hides the second half of a word. Use the surrounding sentence to decide which word fits, then type only the missing letters.",
+    "source": "adapted",
+    "tags": [
+      "reading",
+      "complete-the-words",
+      "bicycles"
+    ],
+    "paragraph": "Bicycles are returning to the center of urban transportation planning. Many cities are building protected lanes that separate riders from heavy traffic. These changes make cycling safer and encourage people who were previously afraid to ride. Commuters also save money on fuel, parking, and public transit fares. In addition, fewer cars on the road means cleaner air and quieter streets for everyone."
+  },
+  {
+    "id": "cw_004",
+    "section": "reading",
+    "qtype": "complete_words",
+    "topic": "complete_words",
+    "difficulty": 2,
+    "explanation": "Each gap hides the second half of a word. Use the surrounding sentence to decide which word fits, then type only the missing letters.",
+    "source": "adapted",
+    "tags": [
+      "reading",
+      "complete-the-words",
+      "libraries"
+    ],
+    "paragraph": "Modern libraries offer much more than shelves of books. Many of them lend laptops, host language classes, and provide quiet rooms for group projects. Librarians help visitors search databases and evaluate whether online sources are reliable. Because these services are free, they support students who cannot afford expensive materials. For this reason, communities continue to value libraries even as more reading moves online."
+  }
+]

@@ -3,6 +3,14 @@
 import React, { useEffect, useRef } from "react";
 import Link from "next/link";
 import type { AnyToeflQuestion } from "toefl-adaptive-engine";
+import {
+  buildSentenceAnswer,
+  completeWordsAnswers,
+  gradeBuildSentence,
+  gradeCompleteWords,
+  makeCompleteWords,
+  renderBuildSentence,
+} from "toefl-adaptive-engine";
 import { useAdaptiveState } from "@/lib/useAdaptiveState";
 
 interface ExamResultsProps {
@@ -16,8 +24,16 @@ interface ExamResultsProps {
 
 export function gradeToeflQuestion(q: AnyToeflQuestion, ans: any): boolean {
   if (ans === undefined || ans === null || ans === "") return false;
+  if (q.qtype === "writing_build_sentence") {
+    return Array.isArray(ans) && gradeBuildSentence(q.segments, ans);
+  }
+  if (q.qtype === "complete_words") {
+    if (!Array.isArray(ans)) return false;
+    return gradeCompleteWords(makeCompleteWords(q.paragraph, 10), ans).filter(Boolean).length >= 8;
+  }
   if (q.section === "writing") {
     const words = typeof ans === "string" && ans.trim() ? ans.trim().split(/\s+/).length : 0;
+    if (q.qtype === "writing_email") return words >= 50;
     return q.qtype === "writing_discussion" ? words >= 100 : words >= 150;
   }
   if (q.qtype === "prose_summary") {
@@ -55,7 +71,8 @@ export default function ExamResults({
   const correctCount = results.filter((r) => r.correct).length;
   const accuracy =
     questions.length > 0 ? Math.round((correctCount / questions.length) * 100) : 0;
-  const scaledScore = Math.round((correctCount / Math.max(1, questions.length)) * 30);
+  // Rough 1-6 half-band estimate from raw accuracy (official bands use adaptive scoring).
+  const band = Math.round((1 + 5 * (correctCount / Math.max(1, questions.length))) * 2) / 2;
 
   const mins = Math.floor(timeSpentSec / 60);
   const secs = timeSpentSec % 60;
@@ -64,7 +81,7 @@ export default function ExamResults({
     <main className="container">
       <div className="session-header">
         <Link href="/">&larr; Back to Dashboard</Link>
-        <h1>{sectionTitle} — Official Diagnostic Report</h1>
+        <h1>{sectionTitle} — Diagnostic Report</h1>
       </div>
 
       <section className="section-ratings">
@@ -75,8 +92,8 @@ export default function ExamResults({
           </p>
         </div>
         <div className="rating-card">
-          <h2>Estimated Section Score</h2>
-          <p className="rating-value">{scaledScore} / 30</p>
+          <h2>Estimated Band (rough)</h2>
+          <p className="rating-value">{band.toFixed(1)} / 6</p>
         </div>
         <div className="rating-card">
           <h2>Accuracy</h2>
@@ -114,7 +131,30 @@ export default function ExamResults({
 
             {"question" in question && <p style={{ margin: "0.5rem 0" }}>{question.question}</p>}
 
-            {question.section !== "writing" ? (
+            {question.qtype === "writing_build_sentence" ? (
+              <div style={{ fontSize: "0.92rem" }}>
+                <div>
+                  <strong>Your Reply:</strong>{" "}
+                  {Array.isArray(userAnswer) && userAnswer.every((p: string | null) => p !== null)
+                    ? renderBuildSentence(question.segments, question.punctuation, userAnswer)
+                    : "(Incomplete)"}
+                </div>
+                <div>
+                  <strong>Correct Reply:</strong>{" "}
+                  {renderBuildSentence(question.segments, question.punctuation, buildSentenceAnswer(question.segments))}
+                </div>
+              </div>
+            ) : question.qtype === "complete_words" ? (
+              <div style={{ fontSize: "0.92rem" }}>
+                <div>
+                  <strong>Your Gaps (missing letters):</strong>{" "}
+                  {Array.isArray(userAnswer) ? userAnswer.map((v: string) => v || "_").join(", ") : "(Unanswered)"}
+                </div>
+                <div>
+                  <strong>Correct Words:</strong> {completeWordsAnswers(makeCompleteWords(question.paragraph, 10)).join(", ")}
+                </div>
+              </div>
+            ) : "correct" in question ? (
               <div style={{ fontSize: "0.92rem" }}>
                 <div>
                   <strong>Your Answer:</strong>{" "}
@@ -134,14 +174,16 @@ export default function ExamResults({
                 <div>
                   <strong>Your Response:</strong> {userAnswer || "(No response written)"}
                 </div>
-                <div style={{ marginTop: "0.5rem" }}>
-                  <strong>Rubric Checklist:</strong>
-                  <ul>
-                    {question.rubric_checklist.map((item, i) => (
-                      <li key={i}>{item}</li>
-                    ))}
-                  </ul>
-                </div>
+                {"rubric_checklist" in question && (
+                  <div style={{ marginTop: "0.5rem" }}>
+                    <strong>Rubric Checklist:</strong>
+                    <ul>
+                      {question.rubric_checklist.map((item: string, i: number) => (
+                        <li key={i}>{item}</li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
               </div>
             )}
 

@@ -11,6 +11,9 @@ import ProseSummaryQuestionView from "./ProseSummaryQuestionView";
 import ListeningQuestionView from "./ListeningQuestionView";
 import WritingDiscussionView from "./WritingDiscussionView";
 import WritingIntegratedView from "./WritingIntegratedView";
+import WritingBuildSentenceView from "./WritingBuildSentenceView";
+import WritingEmailView from "./WritingEmailView";
+import CompleteWordsView from "./CompleteWordsView";
 
 export default function QuestionRenderer({
   question,
@@ -46,5 +49,11 @@ export default function QuestionRenderer({
       return <WritingDiscussionView question={question} onAnswered={onAnswered} />;
     case "writing_integrated":
       return <WritingIntegratedView question={question} onAnswered={onAnswered} />;
+    case "writing_build_sentence":
+      return <WritingBuildSentenceView question={question} onAnswered={onAnswered} />;
+    case "writing_email":
+      return <WritingEmailView question={question} onAnswered={onAnswered} />;
+    case "complete_words":
+      return <CompleteWordsView question={question} onAnswered={onAnswered} />;
   }
 }
