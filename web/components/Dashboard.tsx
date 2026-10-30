@@ -250,6 +250,9 @@ export default function Dashboard() {
         <Link href="/study/mixed" className="button">
           Study Mixed
         </Link>
+        <Link href="/vocab" className="button" style={{ backgroundColor: "#0f766e", borderColor: "#0f766e" }}>
+          Academic Word List (SRS)
+        </Link>
         <a
           href="http://localhost:5173"
           target="_blank"

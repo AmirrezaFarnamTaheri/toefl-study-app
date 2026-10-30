@@ -5,3 +5,4 @@ export * from "./storage";
 export * from "./questionBank";
 
 export * from "./writingTasks";
+export * from "./srs";
