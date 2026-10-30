@@ -382,5 +382,383 @@
       "My response is free of major grammatical errors.",
       "I did not merely summarize what Kelly and Omar said without adding my own perspective."
     ]
+  },
+  {
+    "id": "wd_013",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "internet",
+      "digital"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Do you agree or disagree with the following statement: The Internet has made people more isolated from one another, despite connecting them digitally. Use specific reasons and examples to support your opinion.",
+    "student_a": {
+      "name": "Sofia",
+      "post": "I think the internet actually increases isolation. Even when people are 'connected' online, they miss the depth of face-to-face interaction. Research shows higher rates of loneliness in heavy social media users."
+    },
+    "student_b": {
+      "name": "David",
+      "post": "I disagree. The internet connects people across huge distances who would never meet otherwise. For introverts, online communities provide real social bonds. The isolation comes from misuse, not the technology itself."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_014",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "government"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Some people believe that a government's first responsibility is to the well-being of its own citizens, even if this means providing less help to people in other countries. Do you agree or disagree with this view? Use specific reasons and examples to support your answer.",
+    "student_a": {
+      "name": "Amara",
+      "post": "A government's primary obligation is to its own citizens first. If domestic needs go unmet — healthcare, poverty, infrastructure — prioritizing foreign aid seems difficult to justify politically or ethically."
+    },
+    "student_b": {
+      "name": "James",
+      "post": "But in a globalized world, crises abroad affect everyone. Pandemics, climate change, and conflict don't respect borders. Helping other countries is also helping ourselves long-term."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_015",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "opinion"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Do you agree or disagree with the following statement: Children who spend a great deal of time watching television and playing video games suffer negative consequences in their development. Support your response with specific reasons and examples.",
+    "student_a": {
+      "name": "Yuki",
+      "post": "Excessive screen time clearly harms children's development — reduced attention spans, less physical activity, and social skill deficits are all documented. Moderation is key, and many families don't enforce it."
+    },
+    "student_b": {
+      "name": "Carlos",
+      "post": "Not all screen time is equal. Educational programs and age-appropriate games can build problem-solving skills. The issue is content quality and parental guidance, not hours alone."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_016",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "environment",
+      "government"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Some people argue that individuals can do very little to address major environmental problems without government intervention and legislation. Others believe that individual actions, collectively, can make a significant difference. Do you agree or disagree? Support your position with specific reasons.",
+    "student_a": {
+      "name": "Fatima",
+      "post": "Individual actions like recycling and reducing consumption are necessary but insufficient alone. Only government regulation and corporate accountability can achieve the scale needed to address climate change."
+    },
+    "student_b": {
+      "name": "Ethan",
+      "post": "I believe individuals have real power. Consumer pressure has already shifted industries toward sustainability. Cultural change starts with individual choices, which then drive political and corporate action."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_017",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "AI",
+      "work"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Do you agree or disagree: The ability to work effectively in teams is more important for career success than individual talent and ability. Use specific reasons and examples to explain your position.",
+    "student_a": {
+      "name": "Priya",
+      "post": "In most modern workplaces, collaboration is essential. Even brilliant individuals need to communicate, persuade, and coordinate. I've seen talented people fail because they couldn't work on a team."
+    },
+    "student_b": {
+      "name": "Lucas",
+      "post": "Individual creativity and expertise are the foundation of innovation. Teamwork can dilute bold ideas. The most transformative breakthroughs often come from singular visionaries, even if they later need teams to execute."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_018",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "AI",
+      "school"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Is it more important for students to develop practical life skills (such as financial management, cooking, or communication) in school, or academic knowledge (such as literature, history, and science)? Explain your view with specific reasons.",
+    "student_a": {
+      "name": "Maria",
+      "post": "Academic knowledge builds critical thinking that's applicable anywhere. Practical skills can be learned on the job; the ability to analyze, reason, and write clearly is what school uniquely provides."
+    },
+    "student_b": {
+      "name": "Noah",
+      "post": "Too many graduates can't balance a budget, cook a meal, or manage conflict effectively. Schools should teach both — but if forced to choose, practical life skills prevent real harm to students' futures."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_019",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "technology"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Do you agree or disagree: A country benefits more from encouraging its citizens to study science and technology than the arts and humanities. Use specific reasons and examples to support your position.",
+    "student_a": {
+      "name": "Aisha",
+      "post": "Remote work has dramatically improved work-life balance and opened opportunities for people who couldn't commute. Companies that mandate office return are losing talent to more flexible competitors."
+    },
+    "student_b": {
+      "name": "Tom",
+      "post": "But collaboration, mentorship, and culture suffer remotely. Junior employees especially need in-person environments to learn and grow. The office isn't obsolete — it just needs reinvention."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_020",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "social media",
+      "political"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Some people argue that social media has had a net positive effect on political participation and democracy. Others strongly disagree. Which view do you support? Use specific reasons and examples in your response.",
+    "student_a": {
+      "name": "Elena",
+      "post": "Minimum age requirements for social media are necessary. Adolescent brains are especially vulnerable to social comparison and cyberbullying. Waiting until 16 or 18 could reduce documented mental health harms."
+    },
+    "student_b": {
+      "name": "Marcus",
+      "post": "Age restrictions are nearly unenforceable and push teens to less monitored platforms. Better approaches include digital literacy education and platform design reforms to reduce harmful content."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_021",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "AI",
+      "work"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Do you think the increasing use of artificial intelligence in the workplace is primarily a positive or negative development? Explain your position with specific reasons and examples.",
+    "student_a": {
+      "name": "Layla",
+      "post": "A college degree signals discipline, broad knowledge, and the ability to complete long-term goals — qualities employers value regardless of major. The credential still opens doors vocational training doesn't."
+    },
+    "student_b": {
+      "name": "Ryan",
+      "post": "For many careers, apprenticeships, coding bootcamps, or certification programs provide equivalent or better preparation at a fraction of the cost and time. We've over-credentialed society to everyone's detriment."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_022",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "opinion"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Some argue that preserving traditional cultural practices and customs is more important than adapting them to suit modern circumstances and values. To what extent do you agree with this view?",
+    "student_a": {
+      "name": "Mei",
+      "post": "Cities offer unparalleled opportunities — career diversity, cultural exposure, social networks. The density that makes cities noisy and expensive also makes them innovative and dynamic in ways rural areas can't match."
+    },
+    "student_b": {
+      "name": "Jack",
+      "post": "Rural life provides community, space, lower cost, and a slower pace that many people find more fulfilling. Remote work is making it possible to have career options without urban tradeoffs."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_023",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "opinion"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Do you agree or disagree: It is better to make decisions quickly rather than spending a great deal of time thinking them through. Support your position with specific reasons and examples.",
+    "student_a": {
+      "name": "Alex",
+      "post": "I think the statement has significant merit based on my experience and what I've read about the topic."
+    },
+    "student_b": {
+      "name": "Jordan",
+      "post": "I see it differently. While the point has some validity, there are important counter-examples we should consider."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
+  },
+  {
+    "id": "wd_024",
+    "section": "writing",
+    "qtype": "writing_discussion",
+    "topic": "writing_discussion",
+    "difficulty": 3,
+    "source": "adapted",
+    "tags": [
+      "writing",
+      "discussion",
+      "culture"
+    ],
+    "explanation": "Self-assessed against rubric. No automated grading.",
+    "professor_prompt": "Some people believe that the best way to learn about a different culture is to live in that country for a period of time. Others believe you can learn just as much by reading, watching films, and speaking with people from that culture in your own country. Which view do you support? Use specific reasons and examples.",
+    "student_a": {
+      "name": "Alex",
+      "post": "I think the statement has significant merit based on my experience and what I've read about the topic."
+    },
+    "student_b": {
+      "name": "Jordan",
+      "post": "I see it differently. While the point has some validity, there are important counter-examples we should consider."
+    },
+    "rubric_checklist": [
+      "I stated a clear personal opinion on the professor's question.",
+      "I provided at least one specific reason or example supporting my position.",
+      "I engaged with or responded to at least one point made by a classmate.",
+      "My response is at least 100 words.",
+      "My writing is organized and free of major grammatical errors.",
+      "I added my own perspective rather than merely summarizing others' posts."
+    ]
   }
 ]
