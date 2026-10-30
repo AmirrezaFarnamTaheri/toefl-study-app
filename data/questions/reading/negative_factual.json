@@ -7,7 +7,11 @@
     "difficulty": 3,
     "explanation": "The passage mentions temperature effects, precipitation pattern changes, and effects on marine ecosystems. It does NOT mention changes to atmospheric pressure systems — that effect is not discussed anywhere in the passage.",
     "source": "seed",
-    "tags": ["ocean", "climate", "negative"],
+    "tags": [
+      "ocean",
+      "climate",
+      "negative"
+    ],
     "passage_id": "passage_climate_change",
     "question": "According to the passage, all of the following are mentioned as potential consequences of disrupted thermohaline circulation EXCEPT",
     "choices": [
@@ -26,7 +30,11 @@
     "difficulty": 3,
     "explanation": "The passage mentions overprescription for viral illnesses, use in livestock farming, and patients not completing treatment. It does NOT mention hospitals disposing of antibiotics improperly — that is not stated.",
     "source": "seed",
-    "tags": ["health", "antibiotics", "negative"],
+    "tags": [
+      "health",
+      "antibiotics",
+      "negative"
+    ],
     "passage_id": "passage_antibiotics",
     "question": "According to the passage, all of the following are cited as human behaviors accelerating antibiotic resistance EXCEPT",
     "choices": [
@@ -45,7 +53,11 @@
     "difficulty": 4,
     "explanation": "The passage mentions stabilized language and spelling, acceleration of the Scientific Revolution, and enabling the Protestant Reformation. It does NOT mention expansion of universities — this detail is absent from the passage.",
     "source": "seed",
-    "tags": ["history", "printing", "negative"],
+    "tags": [
+      "history",
+      "printing",
+      "negative"
+    ],
     "passage_id": "passage_printing_press",
     "question": "According to the passage, all of the following are mentioned as effects of the printing press EXCEPT",
     "choices": [
@@ -64,7 +76,11 @@
     "difficulty": 3,
     "explanation": "Cognitive load theory mentions intrinsic load (inherent complexity), extraneous load (poor design), and germane load (schema building). 'Motivational load' is not a category defined by Sweller — it is not mentioned in the passage.",
     "source": "seed",
-    "tags": ["education", "cognitive", "negative"],
+    "tags": [
+      "education",
+      "cognitive",
+      "negative"
+    ],
     "passage_id": "passage_cognitive_load",
     "question": "According to the passage, which of the following is NOT one of the three types of cognitive load identified by Sweller?",
     "choices": [
@@ -74,5 +90,65 @@
       "Motivational load"
     ],
     "correct": "Motivational load"
+  },
+  {
+    "id": "toefl_app_the_domestication_of_the_horse_q03",
+    "section": "reading",
+    "qtype": "negative_factual",
+    "topic": "negative_factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_domestication_of_the_horse",
+    "source": "adapted",
+    "question": "According to the passage, which of the following was NOT mentioned as an effect of horse domestication?",
+    "choices": [
+      "Changes in warfare tactics",
+      "Expansion of trade networks",
+      "Development of written language",
+      "Social stratification based on horse ownership"
+    ],
+    "correct": "Development of written language",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_printing_press_and_its_consequences_q09",
+    "section": "reading",
+    "qtype": "negative_factual",
+    "topic": "negative_factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_printing_press_and_its_consequences",
+    "source": "adapted",
+    "question": "Which of the following is NOT mentioned as a consequence of the printing press?",
+    "choices": [
+      "The spread of scientific findings",
+      "The democratization of religious texts",
+      "The founding of universities across Europe",
+      "The facilitation of intellectual debate across borders"
+    ],
+    "correct": "The founding of universities across Europe",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_rise_of_cities_in_the_ancient_world_q09",
+    "section": "reading",
+    "qtype": "negative_factual",
+    "topic": "negative_factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_rise_of_cities_in_the_ancient_world",
+    "source": "adapted",
+    "question": "Which of the following is NOT mentioned as a factor in the decline of ancient cities?",
+    "choices": [
+      "Environmental change",
+      "Military conquest",
+      "Spread of epidemic disease",
+      "Trade disruptions"
+    ],
+    "correct": "Spread of epidemic disease",
+    "tags": [
+      "the"
+    ]
   }
 ]

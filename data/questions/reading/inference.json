@@ -158,5 +158,105 @@
       "The concept of artificial intelligence"
     ],
     "correct": "The ability to understand that others have thoughts and feelings"
+  },
+  {
+    "id": "toefl_app_the_domestication_of_the_horse_q02",
+    "section": "reading",
+    "qtype": "inference",
+    "topic": "inference",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_domestication_of_the_horse",
+    "source": "adapted",
+    "question": "What does the passage suggest about early domesticated horses compared to wild horses?",
+    "choices": [
+      "They were smaller and faster",
+      "They were used exclusively for warfare",
+      "They had broader bodies and calmer temperaments",
+      "They were bred primarily for racing"
+    ],
+    "correct": "They had broader bodies and calmer temperaments",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_domestication_of_the_horse_q06",
+    "section": "reading",
+    "qtype": "inference",
+    "topic": "inference",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_domestication_of_the_horse",
+    "source": "adapted",
+    "question": "Which of the following can be inferred about the relationship between horse ownership and social status in ancient societies?",
+    "choices": [
+      "All ancient societies treated horses as sacred animals",
+      "Horses were accessible to most members of early societies",
+      "Owning horses was associated with wealth and power",
+      "Horse ownership helped reduce social inequality"
+    ],
+    "correct": "Owning horses was associated with wealth and power",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_thermohaline_circulation_q06",
+    "section": "reading",
+    "qtype": "inference",
+    "topic": "inference",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_thermohaline_circulation",
+    "source": "adapted",
+    "question": "What does the passage imply about Western Europe if AMOC weakens significantly?",
+    "choices": [
+      "It would become warmer due to increased greenhouse gases",
+      "It could experience regional cooling despite global warming",
+      "Rainfall patterns would remain unchanged",
+      "Carbon dioxide absorption would increase substantially"
+    ],
+    "correct": "It could experience regional cooling despite global warming",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_printing_press_and_its_consequences_q07",
+    "section": "reading",
+    "qtype": "inference",
+    "topic": "inference",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_printing_press_and_its_consequences",
+    "source": "adapted",
+    "question": "What does the passage suggest about authorities' reactions to the printing press?",
+    "choices": [
+      "Most authorities were enthusiastic supporters of printed materials",
+      "They successfully controlled the spread of dangerous ideas",
+      "They struggled to censor ideas that now spread far faster than before",
+      "They immediately recognized the press's potential for public education"
+    ],
+    "correct": "They struggled to censor ideas that now spread far faster than before",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_symbiosis_in_nature_q08",
+    "section": "reading",
+    "qtype": "inference",
+    "topic": "inference",
+    "difficulty": 3,
+    "passage_id": "toefl_app_symbiosis_in_nature",
+    "source": "adapted",
+    "question": "What does the passage suggest about the boundaries between symbiotic categories?",
+    "choices": [
+      "They are fixed and clearly defined in all environments",
+      "They can shift depending on environmental conditions",
+      "They were definitively established by genomic research",
+      "They apply only to relationships involving microorganisms"
+    ],
+    "correct": "They can shift depending on environmental conditions",
+    "tags": [
+      "symbiosis"
+    ]
   }
 ]

@@ -148,5 +148,105 @@
       "identifies"
     ],
     "correct": "worsens"
+  },
+  {
+    "id": "toefl_app_the_domestication_of_the_horse_q04",
+    "section": "reading",
+    "qtype": "vocabulary",
+    "topic": "vocabulary",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_domestication_of_the_horse",
+    "source": "adapted",
+    "question": "The word \"traverse\" as used in paragraph 4 is closest in meaning to:",
+    "choices": [
+      "Survey",
+      "Cross",
+      "Guard",
+      "Map"
+    ],
+    "correct": "Cross",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_thermohaline_circulation_q01",
+    "section": "reading",
+    "qtype": "vocabulary",
+    "topic": "vocabulary",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_thermohaline_circulation",
+    "source": "adapted",
+    "question": "What does the term \"thermohaline\" refer to?",
+    "choices": [
+      "The depth and pressure of ocean currents",
+      "The temperature and salinity properties of ocean water",
+      "The biological organisms that live in the deep ocean",
+      "The carbon-absorbing capacity of the ocean"
+    ],
+    "correct": "The temperature and salinity properties of ocean water",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_printing_press_and_its_consequences_q03",
+    "section": "reading",
+    "qtype": "vocabulary",
+    "topic": "vocabulary",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_printing_press_and_its_consequences",
+    "source": "adapted",
+    "question": "The word \"precipitously\" in paragraph 3 most nearly means:",
+    "choices": [
+      "Gradually",
+      "Consistently",
+      "Sharply and steeply",
+      "Predictably"
+    ],
+    "correct": "Sharply and steeply",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_symbiosis_in_nature_q04",
+    "section": "reading",
+    "qtype": "vocabulary",
+    "topic": "vocabulary",
+    "difficulty": 3,
+    "passage_id": "toefl_app_symbiosis_in_nature",
+    "source": "adapted",
+    "question": "The word \"cryptic\" in paragraph 4 is closest in meaning to:",
+    "choices": [
+      "Ancient or traditional",
+      "Hidden or difficult to detect",
+      "Dangerous or harmful",
+      "Well-documented and understood"
+    ],
+    "correct": "Hidden or difficult to detect",
+    "tags": [
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "toefl_app_the_rise_of_cities_in_the_ancient_world_q04",
+    "section": "reading",
+    "qtype": "vocabulary",
+    "topic": "vocabulary",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_rise_of_cities_in_the_ancient_world",
+    "source": "adapted",
+    "question": "The word \"diffusion\" as used in paragraph 3 most nearly means:",
+    "choices": [
+      "Conflict",
+      "Restriction",
+      "Spread",
+      "Isolation"
+    ],
+    "correct": "Spread",
+    "tags": [
+      "the"
+    ]
   }
 ]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "toefl_app_student_discusses_thesis_proposal_with_advisor_q01",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "conversation",
+    "difficulty": 3,
+    "script_id": "toefl_app_student_discusses_thesis_proposal_with_advisor",
+    "source": "adapted",
+    "question": "Why did the student meet with the advisor?",
+    "choices": [
+      "To discuss a problem with her GPS tracking equipment",
+      "To get feedback on her thesis proposal",
+      "To request funding for her research",
+      "To change her thesis topic"
+    ],
+    "correct": "To get feedback on her thesis proposal",
+    "tags": [
+      "conversation",
+      "student"
+    ]
+  },
+  {
+    "id": "toefl_app_student_discusses_thesis_proposal_with_advisor_q02",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "conversation",
+    "difficulty": 3,
+    "script_id": "toefl_app_student_discusses_thesis_proposal_with_advisor",
+    "source": "adapted",
+    "question": "What is the advisor's main concern about the student's proposal?",
+    "choices": [
+      "The topic is not original enough",
+      "The combination of field methods is inappropriate",
+      "The sample size is too small for the planned analysis",
+      "The research will take too long to complete"
+    ],
+    "correct": "The sample size is too small for the planned analysis",
+    "tags": [
+      "conversation",
+      "student"
+    ]
+  },
+  {
+    "id": "toefl_app_student_discusses_thesis_proposal_with_advisor_q04",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "conversation",
+    "difficulty": 3,
+    "script_id": "toefl_app_student_discusses_thesis_proposal_with_advisor",
+    "source": "adapted",
+    "question": "What additional element does the advisor ask the student to include in the methodology section?",
+    "choices": [
+      "A discussion of GPS tracking limitations",
+      "A paragraph addressing potential confounding variables",
+      "A comparison with previous bird migration studies",
+      "A section on ethical considerations"
+    ],
+    "correct": "A paragraph addressing potential confounding variables",
+    "tags": [
+      "conversation",
+      "student"
+    ]
+  },
+  {
+    "id": "toefl_app_student_discusses_thesis_proposal_with_advisor_q05",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "conversation",
+    "difficulty": 3,
+    "script_id": "toefl_app_student_discusses_thesis_proposal_with_advisor",
+    "source": "adapted",
+    "question": "What does the advisor mean by mentioning the \"urban heat island effect\"?",
+    "choices": [
+      "A specific location where the student plans to conduct fieldwork",
+      "An environmental factor that could independently affect the research results",
+      "A phenomenon that makes GPS tracking unreliable in cities",
+      "A topic that has already been thoroughly studied in bird migration research"
+    ],
+    "correct": "An environmental factor that could independently affect the research results",
+    "tags": [
+      "conversation",
+      "student"
+    ]
+  },
+  {
+    "id": "toefl_app_cellular_respiration_from_glucose_to_atp_q01",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_cellular_respiration_from_glucose_to_atp",
+    "source": "adapted",
+    "question": "What is the main topic of this lecture?",
+    "choices": [
+      "The chemical reactions of photosynthesis",
+      "How cells convert glucose to energy through cellular respiration",
+      "Why aerobic respiration differs between plants and animals",
+      "The discovery of ATP by Peter Mitchell"
+    ],
+    "correct": "How cells convert glucose to energy through cellular respiration",
+    "tags": [
+      "lecture",
+      "cellular"
+    ]
+  },
+  {
+    "id": "toefl_app_cellular_respiration_from_glucose_to_atp_q02",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_cellular_respiration_from_glucose_to_atp",
+    "source": "adapted",
+    "question": "Where does glycolysis occur in the cell?",
+    "choices": [
+      "In the mitochondria",
+      "In the nucleus",
+      "In the cytoplasm",
+      "On the cell membrane"
+    ],
+    "correct": "In the cytoplasm",
+    "tags": [
+      "lecture",
+      "cellular"
+    ]
+  },
+  {
+    "id": "toefl_app_cellular_respiration_from_glucose_to_atp_q03",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_cellular_respiration_from_glucose_to_atp",
+    "source": "adapted",
+    "question": "Why does the professor say glycolysis is especially important for organisms in low-oxygen environments?",
+    "choices": [
+      "It produces more ATP than aerobic respiration",
+      "It does not require oxygen to occur",
+      "It converts NADH into usable oxygen",
+      "It directly removes carbon dioxide from cells"
+    ],
+    "correct": "It does not require oxygen to occur",
+    "tags": [
+      "lecture",
+      "cellular"
+    ]
+  },
+  {
+    "id": "toefl_app_cellular_respiration_from_glucose_to_atp_q04",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_cellular_respiration_from_glucose_to_atp",
+    "source": "adapted",
+    "question": "According to the lecture, what is the primary function of the Krebs cycle?",
+    "choices": [
+      "To directly produce most of the cell's ATP",
+      "To break glucose into pyruvate molecules",
+      "To load electrons onto carrier molecules like NADH and FADH2",
+      "To pump hydrogen ions across the mitochondrial membrane"
+    ],
+    "correct": "To load electrons onto carrier molecules like NADH and FADH2",
+    "tags": [
+      "lecture",
+      "cellular"
+    ]
+  },
+  {
+    "id": "toefl_app_cellular_respiration_from_glucose_to_atp_q05",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_cellular_respiration_from_glucose_to_atp",
+    "source": "adapted",
+    "question": "What is chemiosmosis, as described in the lecture?",
+    "choices": [
+      "The conversion of pyruvate to acetyl-CoA",
+      "The process by which electron carriers transport glucose",
+      "The mechanism by which a hydrogen ion gradient drives ATP synthesis",
+      "A method for extracting electrons from FADH2"
+    ],
+    "correct": "The mechanism by which a hydrogen ion gradient drives ATP synthesis",
+    "tags": [
+      "lecture",
+      "cellular"
+    ]
+  },
+  {
+    "id": "toefl_app_cellular_respiration_from_glucose_to_atp_q06",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_cellular_respiration_from_glucose_to_atp",
+    "source": "adapted",
+    "question": "How does the professor describe Peter Mitchell's chemiosmosis proposal?",
+    "choices": [
+      "It was immediately accepted by the scientific community",
+      "It was developed in collaboration with the Nobel committee",
+      "It was initially controversial but eventually recognized with a Nobel Prize",
+      "It is still debated among scientists today"
+    ],
+    "correct": "It was initially controversial but eventually recognized with a Nobel Prize",
+    "tags": [
+      "lecture",
+      "cellular"
+    ]
+  },
+  {
+    "id": "toefl_app_the_silk_road_trade_culture_and_ideas_q01",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_the_silk_road_trade_culture_and_ideas",
+    "source": "adapted",
+    "question": "What misconception does the professor address at the beginning of the lecture?",
+    "choices": [
+      "That the Silk Road was primarily about trading silk",
+      "That the Silk Road was a single, unified physical road",
+      "That the Silk Road was invented by Chinese merchants",
+      "That Ferdinand von Richthofen was the first to travel the Silk Road"
+    ],
+    "correct": "That the Silk Road was a single, unified physical road",
+    "tags": [
+      "lecture",
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_silk_road_trade_culture_and_ideas_q02",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_the_silk_road_trade_culture_and_ideas",
+    "source": "adapted",
+    "question": "According to the professor, which of the following traveled along Silk Road routes?",
+    "choices": [
+      "Only luxury goods such as silk and spices",
+      "Primarily military supplies for conquering armies",
+      "Physical goods, religions, ideas, and disease",
+      "Only goods traded between China and Europe"
+    ],
+    "correct": "Physical goods, religions, ideas, and disease",
+    "tags": [
+      "lecture",
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_silk_road_trade_culture_and_ideas_q04",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_the_silk_road_trade_culture_and_ideas",
+    "source": "adapted",
+    "question": "According to the lecture, how did the Black Death reach Europe?",
+    "choices": [
+      "Through maritime trade routes from Southeast Asia",
+      "Via Mongol-controlled trade networks along the Silk Road",
+      "By traveling overland from the Middle East through the Ottoman Empire",
+      "From Islamic merchants operating in North Africa"
+    ],
+    "correct": "Via Mongol-controlled trade networks along the Silk Road",
+    "tags": [
+      "lecture",
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_silk_road_trade_culture_and_ideas_q05",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_the_silk_road_trade_culture_and_ideas",
+    "source": "adapted",
+    "question": "Why does the professor say that the spread of paper-making technology was significant?",
+    "choices": [
+      "It replaced silk as the primary commodity on the Silk Road",
+      "It enabled China to dominate trade routes for centuries",
+      "It had major consequences for literacy and knowledge preservation",
+      "It caused the decline of Islamic scholarship in the region"
+    ],
+    "correct": "It had major consequences for literacy and knowledge preservation",
+    "tags": [
+      "lecture",
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_silk_road_trade_culture_and_ideas_q06",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_the_silk_road_trade_culture_and_ideas",
+    "source": "adapted",
+    "question": "What primarily caused the decline of Silk Road overland trade, according to the lecture?",
+    "choices": [
+      "The devastating effects of the Black Death on trade cities",
+      "The collapse of Mongol political control over trade routes",
+      "The establishment of direct sea routes to Asia by European sailors",
+      "The depletion of Central Asian natural resources"
+    ],
+    "correct": "The establishment of direct sea routes to Asia by European sailors",
+    "tags": [
+      "lecture",
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_student_asks_about_research_database_access_q01",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "conversation",
+    "difficulty": 3,
+    "script_id": "toefl_app_student_asks_about_research_database_access",
+    "source": "adapted",
+    "question": "What is the student's main reason for visiting the library?",
+    "choices": [
+      "To borrow books on architecture",
+      "To find out how to access a research database",
+      "To submit an interlibrary loan request",
+      "To get help with her paper outline"
+    ],
+    "correct": "To find out how to access a research database",
+    "tags": [
+      "conversation",
+      "student"
+    ]
+  },
+  {
+    "id": "toefl_app_student_asks_about_research_database_access_q02",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "conversation",
+    "difficulty": 3,
+    "script_id": "toefl_app_student_asks_about_research_database_access",
+    "source": "adapted",
+    "question": "Why does the librarian recommend the Avery Index in addition to JSTOR?",
+    "choices": [
+      "It has no embargo restrictions on recent articles",
+      "It is specifically designed for architecture and design literature",
+      "It provides free access to all journals since the 1970s",
+      "It is easier to use than JSTOR"
+    ],
+    "correct": "It is specifically designed for architecture and design literature",
+    "tags": [
+      "conversation",
+      "student"
+    ]
+  },
+  {
+    "id": "toefl_app_student_asks_about_research_database_access_q03",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "conversation",
+    "difficulty": 3,
+    "script_id": "toefl_app_student_asks_about_research_database_access",
+    "source": "adapted",
+    "question": "What limitation does the librarian mention about JSTOR?",
+    "choices": [
+      "It only covers journals published before 1990",
+      "It requires a special password to access off campus",
+      "The most recent three to five years of most journals are embargoed",
+      "It cannot be used for architecture research"
+    ],
+    "correct": "The most recent three to five years of most journals are embargoed",
+    "tags": [
+      "conversation",
+      "student"
+    ]
+  },
+  {
+    "id": "toefl_app_student_asks_about_research_database_access_q05",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "conversation",
+    "difficulty": 3,
+    "script_id": "toefl_app_student_asks_about_research_database_access",
+    "source": "adapted",
+    "question": "How can the student access library databases from home?",
+    "choices": [
+      "By using her personal email address to log in",
+      "By connecting through the campus VPN using her student ID",
+      "By downloading the library's mobile application",
+      "By requesting a guest access code from the librarian"
+    ],
+    "correct": "By connecting through the campus VPN using her student ID",
+    "tags": [
+      "conversation",
+      "student"
+    ]
+  },
+  {
+    "id": "toefl_app_ocean_acidification_and_marine_ecosystems_q01",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_ocean_acidification_and_marine_ecosystems",
+    "source": "adapted",
+    "question": "Why does the professor call ocean acidification climate change's \"evil twin\"?",
+    "choices": [
+      "Because it causes the same damage to land ecosystems as climate change does",
+      "Because it is driven by the same cause but works through a different mechanism",
+      "Because it is more dangerous than climate change",
+      "Because it was discovered at the same time as climate change"
+    ],
+    "correct": "Because it is driven by the same cause but works through a different mechanism",
+    "tags": [
+      "lecture",
+      "ocean"
+    ]
+  },
+  {
+    "id": "toefl_app_ocean_acidification_and_marine_ecosystems_q02",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_ocean_acidification_and_marine_ecosystems",
+    "source": "adapted",
+    "question": "According to the lecture, what does a 0.1 drop in ocean pH actually represent?",
+    "choices": [
+      "A 0.1 percent increase in acidity",
+      "A 10 percent increase in acidity",
+      "A 26 percent increase in acidity",
+      "A doubling of ocean acidity"
+    ],
+    "correct": "A 26 percent increase in acidity",
+    "tags": [
+      "lecture",
+      "ocean"
+    ]
+  },
+  {
+    "id": "toefl_app_ocean_acidification_and_marine_ecosystems_q03",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_ocean_acidification_and_marine_ecosystems",
+    "source": "adapted",
+    "question": "Which organisms does the professor identify as most immediately affected by ocean acidification?",
+    "choices": [
+      "Large marine mammals such as whales and dolphins",
+      "Deep-sea fish that live near hydrothermal vents",
+      "Calcifying organisms that build shells from calcium carbonate",
+      "Photosynthetic algae on the ocean surface"
+    ],
+    "correct": "Calcifying organisms that build shells from calcium carbonate",
+    "tags": [
+      "lecture",
+      "ocean"
+    ]
+  },
+  {
+    "id": "toefl_app_ocean_acidification_and_marine_ecosystems_q04",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_ocean_acidification_and_marine_ecosystems",
+    "source": "adapted",
+    "question": "According to the lecture, what is the combined threat to coral reefs?",
+    "choices": [
+      "Overfishing and pollution from coastal development",
+      "Ocean acidification and thermal stress from rising temperatures",
+      "Increased storm intensity and freshwater runoff",
+      "Invasive species and declining plankton populations"
+    ],
+    "correct": "Ocean acidification and thermal stress from rising temperatures",
+    "tags": [
+      "lecture",
+      "ocean"
+    ]
+  },
+  {
+    "id": "toefl_app_ocean_acidification_and_marine_ecosystems_q06",
+    "section": "listening",
+    "qtype": "listening_factual",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_ocean_acidification_and_marine_ecosystems",
+    "source": "adapted",
+    "question": "Why does the professor mention pteropods and foraminifera?",
+    "choices": [
+      "As examples of species that are resistant to ocean acidification",
+      "As calcifying plankton foundational to marine food webs",
+      "As organisms that produce large amounts of calcium carbonate",
+      "As species that have already gone extinct due to acidification"
+    ],
+    "correct": "As calcifying plankton foundational to marine food webs",
+    "tags": [
+      "lecture",
+      "ocean"
+    ]
+  }
+]

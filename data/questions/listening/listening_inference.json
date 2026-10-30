@@ -1,0 +1,86 @@
+[
+  {
+    "id": "toefl_app_student_discusses_thesis_proposal_with_advisor_q03",
+    "section": "listening",
+    "qtype": "listening_inference",
+    "topic": "conversation",
+    "difficulty": 3,
+    "script_id": "toefl_app_student_discusses_thesis_proposal_with_advisor",
+    "source": "adapted",
+    "question": "What does the advisor suggest the student do about additional funding?",
+    "choices": [
+      "Apply to a national research foundation",
+      "Request additional hours as a teaching assistant",
+      "Talk to Dr. Patel about a departmental grants program",
+      "Reduce the project scope to fit current funding"
+    ],
+    "correct": "Talk to Dr. Patel about a departmental grants program",
+    "tags": [
+      "conversation",
+      "student"
+    ]
+  },
+  {
+    "id": "toefl_app_the_silk_road_trade_culture_and_ideas_q03",
+    "section": "listening",
+    "qtype": "listening_inference",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_the_silk_road_trade_culture_and_ideas",
+    "source": "adapted",
+    "question": "What does the professor suggest about Samarkand?",
+    "choices": [
+      "It was primarily a military outpost",
+      "It was the origin point of Islamic scholarship",
+      "It was a cosmopolitan city where multiple cultures interacted",
+      "It declined before the rise of maritime trade routes"
+    ],
+    "correct": "It was a cosmopolitan city where multiple cultures interacted",
+    "tags": [
+      "lecture",
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_student_asks_about_research_database_access_q04",
+    "section": "listening",
+    "qtype": "listening_inference",
+    "topic": "conversation",
+    "difficulty": 3,
+    "script_id": "toefl_app_student_asks_about_research_database_access",
+    "source": "adapted",
+    "question": "What solution does the librarian suggest for articles the student cannot access?",
+    "choices": [
+      "Download them from an open-access website",
+      "Visit another university's library",
+      "Submit an interlibrary loan request",
+      "Ask her professor to provide copies"
+    ],
+    "correct": "Submit an interlibrary loan request",
+    "tags": [
+      "conversation",
+      "student"
+    ]
+  },
+  {
+    "id": "toefl_app_ocean_acidification_and_marine_ecosystems_q05",
+    "section": "listening",
+    "qtype": "listening_inference",
+    "topic": "lecture",
+    "difficulty": 3,
+    "script_id": "toefl_app_ocean_acidification_and_marine_ecosystems",
+    "source": "adapted",
+    "question": "What does the professor suggest about the rate of current ocean acidification?",
+    "choices": [
+      "It is slower than any previous acidification event in geological history",
+      "It is consistent with natural cycles observed over the past million years",
+      "It is faster than anything in the geological record over the past 300 million years",
+      "It has been stable since the Industrial Revolution"
+    ],
+    "correct": "It is faster than anything in the geological record over the past 300 million years",
+    "tags": [
+      "lecture",
+      "ocean"
+    ]
+  }
+]

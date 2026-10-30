@@ -74,7 +74,7 @@
     "qtype": "factual",
     "topic": "factual",
     "difficulty": 2,
-    "explanation": "The passage states: 'Resistance arises through natural selection — when a population of bacteria is exposed to an antibiotic, susceptible organisms die while rare mutants with resistance-conferring genes survive and reproduce.'",
+    "explanation": "The passage states: 'Resistance arises through natural selection â€” when a population of bacteria is exposed to an antibiotic, susceptible organisms die while rare mutants with resistance-conferring genes survive and reproduce.'",
     "source": "seed",
     "tags": [
       "biology",
@@ -488,5 +488,745 @@
       "Every 20 minutes"
     ],
     "correct": "Every 10 minutes"
+  },
+  {
+    "id": "toefl_app_the_domestication_of_the_horse_q01",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_domestication_of_the_horse",
+    "source": "adapted",
+    "question": "According to the passage, where were horses first domesticated?",
+    "choices": [
+      "The Pontic-Caspian steppe",
+      "Northern Kazakhstan",
+      "Central Asian trade settlements",
+      "The Indo-European heartland"
+    ],
+    "correct": "Northern Kazakhstan",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_domestication_of_the_horse_q05",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_domestication_of_the_horse",
+    "source": "adapted",
+    "question": "According to recent genetic research, modern domestic horses are believed to have originated from:",
+    "choices": [
+      "The Botai people's horses in Kazakhstan",
+      "Wild horses in Central Asia",
+      "The Pontic-Caspian steppe region",
+      "Multiple independent domestication events"
+    ],
+    "correct": "The Pontic-Caspian steppe region",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_domestication_of_the_horse_q07",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_domestication_of_the_horse",
+    "source": "adapted",
+    "question": "The passage mentions the Scythians and Mongols as examples of:",
+    "choices": [
+      "Ancient horse breeders who created new genetic lineages",
+      "Nomadic peoples whose military power was connected to horse riding",
+      "Cultures that first domesticated horses",
+      "Groups that resisted the spread of horse-based cultures"
+    ],
+    "correct": "Nomadic peoples whose military power was connected to horse riding",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_domestication_of_the_horse_q08",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_domestication_of_the_horse",
+    "source": "adapted",
+    "question": "According to the passage, what distinguishes the Botai horses from the ancestors of modern domestic horses?",
+    "choices": [
+      "The Botai bred horses for agriculture rather than warfare",
+      "Modern horses did not descend directly from Botai-domesticated horses",
+      "The Botai were the most successful horse breeders in history",
+      "Botai horses were genetically superior to later breeds"
+    ],
+    "correct": "Modern horses did not descend directly from Botai-domesticated horses",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_domestication_of_the_horse_q09",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_domestication_of_the_horse",
+    "source": "adapted",
+    "question": "What does the passage indicate about the genetic changes that occurred during horse domestication?",
+    "choices": [
+      "They primarily affected horses' physical strength",
+      "They were related to coat color and appearance",
+      "They included genes linked to behavior, social bonding, and learning",
+      "They made horses resistant to disease"
+    ],
+    "correct": "They included genes linked to behavior, social bonding, and learning",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_thermohaline_circulation_q02",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_thermohaline_circulation",
+    "source": "adapted",
+    "question": "According to the passage, which of the following causes ocean water to sink in the North Atlantic?",
+    "choices": [
+      "Wind patterns from the Arctic",
+      "The presence of freshwater from rivers",
+      "Increased density due to cooling and higher salinity",
+      "Volcanic activity on the ocean floor"
+    ],
+    "correct": "Increased density due to cooling and higher salinity",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_thermohaline_circulation_q03",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_thermohaline_circulation",
+    "source": "adapted",
+    "question": "The phrase \"linchpin\" in paragraph 3 most likely means:",
+    "choices": [
+      "A small but unnecessary component",
+      "An element that is essential for holding a system together",
+      "A barrier preventing water flow",
+      "A beginning or starting point"
+    ],
+    "correct": "An element that is essential for holding a system together",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_thermohaline_circulation_q04",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_thermohaline_circulation",
+    "source": "adapted",
+    "question": "According to the passage, how does thermohaline circulation affect atmospheric COâ‚‚?",
+    "choices": [
+      "It releases stored COâ‚‚ from the ocean floor",
+      "It transports COâ‚‚ from polar regions to the tropics",
+      "It carries surface COâ‚‚ to the deep ocean, reducing atmospheric levels",
+      "It increases biological activity that produces COâ‚‚"
+    ],
+    "correct": "It carries surface COâ‚‚ to the deep ocean, reducing atmospheric levels",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_thermohaline_circulation_q05",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_thermohaline_circulation",
+    "source": "adapted",
+    "question": "What is the main reason scientists believe AMOC has been slowing?",
+    "choices": [
+      "Increased volcanic activity near Iceland",
+      "Rising sea levels reducing circulation depth",
+      "Freshwater from melting Greenland ice diluting North Atlantic salt water",
+      "Warmer ocean temperatures in the deep Pacific"
+    ],
+    "correct": "Freshwater from melting Greenland ice diluting North Atlantic salt water",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_thermohaline_circulation_q07",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_thermohaline_circulation",
+    "source": "adapted",
+    "question": "According to the passage, what happened to thermohaline circulation during past ice ages?",
+    "choices": [
+      "It completely stopped",
+      "It reversed direction",
+      "It was substantially weaker",
+      "It was stronger than it is today"
+    ],
+    "correct": "It was substantially weaker",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_thermohaline_circulation_q08",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_thermohaline_circulation",
+    "source": "adapted",
+    "question": "The author mentions London and Oslo in paragraph 1 in order to:",
+    "choices": [
+      "Argue that European cities should build flood defenses",
+      "Illustrate how ocean circulation moderates otherwise extreme temperatures",
+      "Show that Northern Europe is the coldest inhabited region",
+      "Provide examples of cities most threatened by AMOC weakening"
+    ],
+    "correct": "Illustrate how ocean circulation moderates otherwise extreme temperatures",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_thermohaline_circulation_q09",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_thermohaline_circulation",
+    "source": "adapted",
+    "question": "According to the passage, how long can carbon be stored in the deep ocean after being carried down by thermohaline circulation?",
+    "choices": [
+      "Decades",
+      "Hundreds to thousands of years",
+      "Millions of years",
+      "Only a few years"
+    ],
+    "correct": "Hundreds to thousands of years",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_thermohaline_circulation_q10",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_thermohaline_circulation",
+    "source": "adapted",
+    "question": "What is the author's primary concern in the final two paragraphs?",
+    "choices": [
+      "Explaining why thermohaline circulation was weaker in the past",
+      "Describing the potential climate consequences of a slowing AMOC",
+      "Arguing that climate models are unreliable",
+      "Comparing ocean heat transport to atmospheric warming"
+    ],
+    "correct": "Describing the potential climate consequences of a slowing AMOC",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_printing_press_and_its_consequences_q01",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_printing_press_and_its_consequences",
+    "source": "adapted",
+    "question": "What was the main limitation of book production before Gutenberg's press?",
+    "choices": [
+      "The high cost of paper and parchment",
+      "The slow, labor-intensive process of hand copying",
+      "Lack of demand for written materials",
+      "The absence of suitable inks"
+    ],
+    "correct": "The slow, labor-intensive process of hand copying",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_printing_press_and_its_consequences_q02",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_printing_press_and_its_consequences",
+    "source": "adapted",
+    "question": "According to the passage, what was technically innovative about Gutenberg's press?",
+    "choices": [
+      "It was the first printing system ever invented",
+      "It combined movable type, a screw-press mechanism, and oil-based ink",
+      "It used wooden blocks to print large images",
+      "It automated the sorting of letter blocks"
+    ],
+    "correct": "It combined movable type, a screw-press mechanism, and oil-based ink",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_printing_press_and_its_consequences_q04",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_printing_press_and_its_consequences",
+    "source": "adapted",
+    "question": "According to the passage, which of the following was an immediate result of Gutenberg's press?",
+    "choices": [
+      "Books became freely available to all social classes",
+      "The number of scribes significantly increased",
+      "Printing became a capital-intensive business",
+      "The Gutenberg Bible was distributed to all monasteries"
+    ],
+    "correct": "Printing became a capital-intensive business",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_printing_press_and_its_consequences_q05",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_printing_press_and_its_consequences",
+    "source": "adapted",
+    "question": "How did the printing press affect the Renaissance?",
+    "choices": [
+      "It directly caused the Renaissance to begin in Italian city-states",
+      "It gave new momentum to the Renaissance by spreading humanist ideas",
+      "It replaced the visual arts as the main form of Renaissance expression",
+      "It had little effect since the Renaissance had already ended"
+    ],
+    "correct": "It gave new momentum to the Renaissance by spreading humanist ideas",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_printing_press_and_its_consequences_q06",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_printing_press_and_its_consequences",
+    "source": "adapted",
+    "question": "What role did the printing press play in the Protestant Reformation?",
+    "choices": [
+      "It helped Catholic authorities distribute religious texts more widely",
+      "It enabled rapid distribution of Luther's Theses and vernacular Bibles",
+      "It was invented specifically to support religious reform",
+      "It was rejected by Protestant reformers who preferred handwritten texts"
+    ],
+    "correct": "It enabled rapid distribution of Luther's Theses and vernacular Bibles",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_printing_press_and_its_consequences_q08",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_printing_press_and_its_consequences",
+    "source": "adapted",
+    "question": "The passage implies that printing vernacular Bibles was significant because it:",
+    "choices": [
+      "Made scriptures more accurate by reducing scribal errors",
+      "Allowed ordinary people to read scripture without Church mediation",
+      "Reduced the cost of producing Bibles for monasteries",
+      "Encouraged more people to learn Latin"
+    ],
+    "correct": "Allowed ordinary people to read scripture without Church mediation",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_printing_press_and_its_consequences_q10",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_printing_press_and_its_consequences",
+    "source": "adapted",
+    "question": "The author's main purpose in this passage is to:",
+    "choices": [
+      "Argue that the printing press was more important than any other Renaissance invention",
+      "Explain in detail how Gutenberg's press worked mechanically",
+      "Describe the broad historical significance and consequences of the printing press",
+      "Criticize authorities who attempted to censor printed materials"
+    ],
+    "correct": "Describe the broad historical significance and consequences of the printing press",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_symbiosis_in_nature_q01",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_symbiosis_in_nature",
+    "source": "adapted",
+    "question": "According to the passage, which type of symbiosis benefits both species involved?",
+    "choices": [
+      "Parasitism",
+      "Commensalism",
+      "Mutualism",
+      "Predation"
+    ],
+    "correct": "Mutualism",
+    "tags": [
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "toefl_app_symbiosis_in_nature_q02",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_symbiosis_in_nature",
+    "source": "adapted",
+    "question": "What does the passage say clownfish provide to sea anemones in their mutualistic relationship?",
+    "choices": [
+      "Protection from larger predators",
+      "Aeration and nutrient-rich waste",
+      "Immunity compounds that protect the anemone",
+      "Sunlight by clearing debris from the tentacles"
+    ],
+    "correct": "Aeration and nutrient-rich waste",
+    "tags": [
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "toefl_app_symbiosis_in_nature_q03",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_symbiosis_in_nature",
+    "source": "adapted",
+    "question": "According to the passage, what are some functions of the human gut microbiome?",
+    "choices": [
+      "Regulating body temperature and blood pressure",
+      "Producing red blood cells and hormones",
+      "Digesting carbohydrates, synthesizing vitamins, and modulating immunity",
+      "Filtering toxins from the bloodstream"
+    ],
+    "correct": "Digesting carbohydrates, synthesizing vitamins, and modulating immunity",
+    "tags": [
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "toefl_app_symbiosis_in_nature_q05",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_symbiosis_in_nature",
+    "source": "adapted",
+    "question": "What distinguishes parasitism from predation according to the passage?",
+    "choices": [
+      "Parasites infect only insects, while predators target mammals",
+      "Parasites typically do not kill their hosts immediately",
+      "Predators share resources with their prey",
+      "Parasites are always microscopic organisms"
+    ],
+    "correct": "Parasites typically do not kill their hosts immediately",
+    "tags": [
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "toefl_app_symbiosis_in_nature_q06",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_symbiosis_in_nature",
+    "source": "adapted",
+    "question": "What makes the behavior of the Ophiocordyceps fungus notable according to the passage?",
+    "choices": [
+      "It can infect multiple species simultaneously",
+      "It manipulates the ant's behavior to optimize spore dispersal",
+      "It is the only parasite known to kill its host",
+      "It transfers genes directly to the ant's cells"
+    ],
+    "correct": "It manipulates the ant's behavior to optimize spore dispersal",
+    "tags": [
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "toefl_app_symbiosis_in_nature_q07",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_symbiosis_in_nature",
+    "source": "adapted",
+    "question": "Which of the following is mentioned as an example of commensalism?",
+    "choices": [
+      "Bees and flowering plants",
+      "Clownfish and sea anemones",
+      "Remora fish and sharks",
+      "Gut bacteria and humans"
+    ],
+    "correct": "Remora fish and sharks",
+    "tags": [
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "toefl_app_symbiosis_in_nature_q09",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_symbiosis_in_nature",
+    "source": "adapted",
+    "question": "Why is distinguishing commensalism from cryptic mutualism challenging?",
+    "choices": [
+      "Because commensalism does not exist in marine environments",
+      "Because the benefit to the supposedly neutral partner may be subtle",
+      "Because both organisms in commensalism always gain some advantage",
+      "Because field observation cannot determine symbiotic relationships"
+    ],
+    "correct": "Because the benefit to the supposedly neutral partner may be subtle",
+    "tags": [
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "toefl_app_symbiosis_in_nature_q10",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_symbiosis_in_nature",
+    "source": "adapted",
+    "question": "What recent development has expanded the study of symbiosis, according to the final paragraph?",
+    "choices": [
+      "The discovery of new species of parasitic plants",
+      "Advances in genomics revealing horizontal gene transfer",
+      "The development of antibiotics that target symbiotic bacteria",
+      "New field observation methods in tropical ecosystems"
+    ],
+    "correct": "Advances in genomics revealing horizontal gene transfer",
+    "tags": [
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "toefl_app_the_rise_of_cities_in_the_ancient_world_q01",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_rise_of_cities_in_the_ancient_world",
+    "source": "adapted",
+    "question": "According to the passage, what distinguishes cities from earlier settlements?",
+    "choices": [
+      "Cities relied exclusively on trade rather than farming",
+      "Cities had larger populations, social complexity, and administrative institutions",
+      "Cities were built only in river valleys",
+      "Cities appeared simultaneously in all regions of the world"
+    ],
+    "correct": "Cities had larger populations, social complexity, and administrative institutions",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_rise_of_cities_in_the_ancient_world_q02",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_rise_of_cities_in_the_ancient_world",
+    "source": "adapted",
+    "question": "According to the passage, what role did agricultural surplus play in the development of cities?",
+    "choices": [
+      "It eliminated the need for trade between settlements",
+      "It allowed populations to support non-farming specialists",
+      "It directly caused the development of writing systems",
+      "It reduced the need for administrative organization"
+    ],
+    "correct": "It allowed populations to support non-farming specialists",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_rise_of_cities_in_the_ancient_world_q03",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_rise_of_cities_in_the_ancient_world",
+    "source": "adapted",
+    "question": "What is the significance of proto-cuneiform script found at Uruk?",
+    "choices": [
+      "It was the first form of religious writing ever discovered",
+      "It represents some of the earliest known writing, used to record transactions",
+      "It was used to communicate with other cities across Mesopotamia",
+      "It proves that writing was invented by priests rather than administrators"
+    ],
+    "correct": "It represents some of the earliest known writing, used to record transactions",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_rise_of_cities_in_the_ancient_world_q05",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_rise_of_cities_in_the_ancient_world",
+    "source": "adapted",
+    "question": "According to the passage, what evidence reveals social inequality in ancient cities?",
+    "choices": [
+      "Written records of laws and punishments",
+      "Differences in graves and residential structures",
+      "The presence of slave markets near city centers",
+      "Unequal distribution of agricultural land"
+    ],
+    "correct": "Differences in graves and residential structures",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_rise_of_cities_in_the_ancient_world_q06",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_rise_of_cities_in_the_ancient_world",
+    "source": "adapted",
+    "question": "How does the passage describe the Indus Valley cities of Mohenjo-Daro and Harappa?",
+    "choices": [
+      "As militaristic societies that dominated trade routes",
+      "As sophisticated urban centers with planned streets and drainage systems",
+      "As religious cities centered on large temple complexes",
+      "As small settlements that never reached true urban scale"
+    ],
+    "correct": "As sophisticated urban centers with planned streets and drainage systems",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_rise_of_cities_in_the_ancient_world_q07",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_rise_of_cities_in_the_ancient_world",
+    "source": "adapted",
+    "question": "What does the passage say about the decline of the Indus Valley cities?",
+    "choices": [
+      "They were conquered by Mesopotamian armies",
+      "Their collapse was caused solely by a major drought",
+      "Scholars still debate the causes, which may include climate and river changes",
+      "They declined due to overpopulation and resource exhaustion"
+    ],
+    "correct": "Scholars still debate the causes, which may include climate and river changes",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_rise_of_cities_in_the_ancient_world_q08",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_rise_of_cities_in_the_ancient_world",
+    "source": "adapted",
+    "question": "According to some archaeologists mentioned in paragraph 2, what was the key driver of urban growth?",
+    "choices": [
+      "The existence of surplus food alone",
+      "The ability to control and administer surplus resources",
+      "The development of military forces to protect surplus",
+      "The construction of monumental religious architecture"
+    ],
+    "correct": "The ability to control and administer surplus resources",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_rise_of_cities_in_the_ancient_world_q10",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_rise_of_cities_in_the_ancient_world",
+    "source": "adapted",
+    "question": "What is the main point the author makes in the final paragraph?",
+    "choices": [
+      "Ancient cities were too unstable to have a lasting influence",
+      "Modern governments have failed to learn from ancient administrative practices",
+      "Key institutions of modern governance originated in ancient urban centers",
+      "Writing was the most important legacy of early urbanization"
+    ],
+    "correct": "Key institutions of modern governance originated in ancient urban centers",
+    "tags": [
+      "the"
+    ]
+  },
+  {
+    "id": "toefl_app_the_domestication_of_the_horse_q10",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "passage_id": "toefl_app_the_domestication_of_the_horse",
+    "source": "adapted",
+    "question": "The author's primary purpose in this passage is to:",
+    "choices": [
+      "Compare different methods of animal domestication",
+      "Argue that horse domestication was more important than agriculture",
+      "Describe the historical and scientific understanding of horse domestication",
+      "Explain why modern horses differ physically from ancient wild horses"
+    ],
+    "correct": "Describe the historical and scientific understanding of horse domestication",
+    "tags": [
+      "the"
+    ]
   }
 ]
