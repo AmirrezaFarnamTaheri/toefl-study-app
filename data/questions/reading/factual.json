@@ -312,5 +312,181 @@
       "Comparison of two competing theories"
     ],
     "correct": "Discovery, expansion, criticism"
+  },
+  {
+    "id": "factual_201",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 1,
+    "explanation": "The notice lists 'Student ID (required)' under what to bring.",
+    "source": "adapted",
+    "tags": [
+      "daily-life",
+      "notice"
+    ],
+    "passage_id": "passage_daily_movein",
+    "question": "What document is required at check-in?",
+    "choices": [
+      "Passport",
+      "Student ID",
+      "Driver's license",
+      "Birth certificate"
+    ],
+    "correct": "Student ID"
+  },
+  {
+    "id": "factual_202",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 1,
+    "explanation": "The notice says vehicles must be moved within 30 minutes.",
+    "source": "adapted",
+    "tags": [
+      "daily-life",
+      "notice"
+    ],
+    "passage_id": "passage_daily_movein",
+    "question": "How long can vehicles stay in the unloading zone?",
+    "choices": [
+      "15 minutes",
+      "30 minutes",
+      "1 hour",
+      "No limit"
+    ],
+    "correct": "30 minutes"
+  },
+  {
+    "id": "factual_203",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 2,
+    "explanation": "Two of the three ordered books are ready.",
+    "source": "adapted",
+    "tags": [
+      "daily-life",
+      "email"
+    ],
+    "passage_id": "passage_daily_bookstore",
+    "question": "How many textbooks are ready for pickup?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+    ],
+    "correct": "Two"
+  },
+  {
+    "id": "factual_204",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 2,
+    "explanation": "The professor placed a copy on reserve at the library for 2-hour loans.",
+    "source": "adapted",
+    "tags": [
+      "daily-life",
+      "email"
+    ],
+    "passage_id": "passage_daily_bookstore",
+    "question": "What can Jordan do while waiting for the backordered book?",
+    "choices": [
+      "Download a digital version",
+      "Buy it from another store",
+      "Borrow a library reserve copy",
+      "Ask for a refund"
+    ],
+    "correct": "Borrow a library reserve copy"
+  },
+  {
+    "id": "factual_205",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 2,
+    "explanation": "Pickup hours list Sat 10 AM - 2 PM.",
+    "source": "adapted",
+    "tags": [
+      "daily-life",
+      "email"
+    ],
+    "passage_id": "passage_daily_bookstore",
+    "question": "When is the bookstore open on Saturday?",
+    "choices": [
+      "9 AM - 6 PM",
+      "10 AM - 2 PM",
+      "10 AM - 6 PM",
+      "Closed"
+    ],
+    "correct": "10 AM - 2 PM"
+  },
+  {
+    "id": "factual_206",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "explanation": "The message opens with 'Due to the homecoming parade on Oct 12'.",
+    "source": "adapted",
+    "tags": [
+      "daily-life",
+      "text-message"
+    ],
+    "passage_id": "passage_daily_shuttle",
+    "question": "What is causing the service disruption?",
+    "choices": [
+      "Construction",
+      "A homecoming parade",
+      "A weather event",
+      "A driver shortage"
+    ],
+    "correct": "A homecoming parade"
+  },
+  {
+    "id": "factual_207",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "explanation": "The Red Line is suspended from 10 AM to 3 PM and the Blue Line is the suggested alternative.",
+    "source": "adapted",
+    "tags": [
+      "daily-life",
+      "text-message"
+    ],
+    "passage_id": "passage_daily_shuttle",
+    "question": "If you normally take the Red Line at noon, what should you do?",
+    "choices": [
+      "Wait for it to resume",
+      "Take the Blue Line instead",
+      "Take the Green Line",
+      "Walk"
+    ],
+    "correct": "Take the Blue Line instead"
+  },
+  {
+    "id": "factual_208",
+    "section": "reading",
+    "qtype": "factual",
+    "topic": "factual",
+    "difficulty": 3,
+    "explanation": "The Blue Line runs every 10 minutes instead of 15.",
+    "source": "adapted",
+    "tags": [
+      "daily-life",
+      "text-message"
+    ],
+    "passage_id": "passage_daily_shuttle",
+    "question": "How often will the Blue Line run during the disruption?",
+    "choices": [
+      "Every 5 minutes",
+      "Every 10 minutes",
+      "Every 15 minutes",
+      "Every 20 minutes"
+    ],
+    "correct": "Every 10 minutes"
   }
 ]

@@ -604,5 +604,269 @@
       "An exam on neuroplasticity"
     ],
     "correct": "Case studies of successful late language acquisition"
+  },
+  {
+    "id": "listening_cr_001",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 1,
+    "explanation": "The question asks for a location. Only A provides directions.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_001",
+    "question": "Choose the best response.",
+    "choices": [
+      "Yes, it's on the second floor of the administration building.",
+      "I registered for three courses this semester.",
+      "The office opens at nine o'clock.",
+      "You're excused from today's class."
+    ],
+    "correct": "Yes, it's on the second floor of the administration building."
+  },
+  {
+    "id": "listening_cr_002",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 1,
+    "explanation": "B is the only response that acknowledges the invitation and continues the conversation naturally.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_002",
+    "question": "Choose the best response.",
+    "choices": [
+      "The midterm covers chapters four through eight.",
+      "That sounds great. When do you usually meet?",
+      "I already joined the soccer club.",
+      "The group project is due next week."
+    ],
+    "correct": "That sounds great. When do you usually meet?"
+  },
+  {
+    "id": "listening_cr_003",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 2,
+    "explanation": "The speaker expresses uncertainty about credit transfer — advising them to see an advisor is the most helpful response.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_003",
+    "question": "Choose the best response.",
+    "choices": [
+      "Chemistry has a lot of lab requirements.",
+      "You should talk to your academic advisor about that.",
+      "Biology is a more popular major.",
+      "I switched my schedule last week too."
+    ],
+    "correct": "You should talk to your academic advisor about that."
+  },
+  {
+    "id": "listening_cr_004",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 2,
+    "explanation": "A acknowledges the issue and provides a resolution — this is the natural response from a professor.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_004",
+    "question": "Choose the best response.",
+    "choices": [
+      "Thanks for pointing that out. I'll upload it this afternoon.",
+      "The website was redesigned over the summer.",
+      "You should read at least thirty pages per week.",
+      "Next week's class is cancelled."
+    ],
+    "correct": "Thanks for pointing that out. I'll upload it this afternoon."
+  },
+  {
+    "id": "listening_cr_005",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 3,
+    "explanation": "The speaker is expressing frustration (not just stating a fact). B acknowledges the frustration and offers actionable advice.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_005",
+    "question": "Choose the best response.",
+    "choices": [
+      "The shuttle runs every fifteen minutes.",
+      "Maybe you should file a complaint with campus transportation.",
+      "I usually walk to class.",
+      "Twenty minutes isn't that long."
+    ],
+    "correct": "Maybe you should file a complaint with campus transportation."
+  },
+  {
+    "id": "listening_cr_006",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 3,
+    "explanation": "The speaker's tone implies frustration and need for alternatives. B validates the feeling and offers a practical solution.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_006",
+    "question": "Choose the best response.",
+    "choices": [
+      "The renovations should be finished by next semester.",
+      "I know, the timing is terrible. Have you tried the study rooms in the student center?",
+      "The library has a great collection of journals.",
+      "Finals week starts on December tenth."
+    ],
+    "correct": "I know, the timing is terrible. Have you tried the study rooms in the student center?"
+  },
+  {
+    "id": "listening_cr_007",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 1,
+    "explanation": "The speaker asks whether a seat is free. Only the reply that invites them to sit answers that question.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_007",
+    "question": "Choose the best response.",
+    "choices": [
+      "I took the bus here.",
+      "No, please go ahead.",
+      "The seat is blue.",
+      "I don't have a pen."
+    ],
+    "correct": "No, please go ahead."
+  },
+  {
+    "id": "listening_cr_008",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 1,
+    "explanation": "The question asks for a description of the weekend; only the second option gives one.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_008",
+    "question": "Choose the best response.",
+    "choices": [
+      "It starts at nine.",
+      "It was great. I visited my cousins in the city.",
+      "Yes, I have finished my homework.",
+      "The classroom is on the left."
+    ],
+    "correct": "It was great. I visited my cousins in the city."
+  },
+  {
+    "id": "listening_cr_009",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 2,
+    "explanation": "A problem is reported, so the helpful reply is a suggestion about who can fix it.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_009",
+    "question": "Choose the best response.",
+    "choices": [
+      "The portal opens in September.",
+      "I logged my hours yesterday.",
+      "You should contact the IT help desk.",
+      "Student housing is across campus."
+    ],
+    "correct": "You should contact the IT help desk."
+  },
+  {
+    "id": "listening_cr_010",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 2,
+    "explanation": "This is a polite request for permission; the natural answer grants it.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_010",
+    "question": "Choose the best response.",
+    "choices": [
+      "It was warm last summer.",
+      "The window is made of glass.",
+      "Warm clothes are on sale.",
+      "Not at all, go ahead."
+    ],
+    "correct": "Not at all, go ahead."
+  },
+  {
+    "id": "listening_cr_011",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 3,
+    "explanation": "Two sources disagree, so the sensible reply proposes a way to settle the confusion.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_011",
+    "question": "Choose the best response.",
+    "choices": [
+      "Let's check with the professor so we know for sure.",
+      "Friday is my favorite day of the week.",
+      "The syllabus has twelve pages.",
+      "I finished the report last night."
+    ],
+    "correct": "Let's check with the professor so we know for sure."
+  },
+  {
+    "id": "listening_cr_012",
+    "section": "listening",
+    "qtype": "listening_choose_response",
+    "topic": "listening_choose_response",
+    "difficulty": 3,
+    "explanation": "The question is about a late-work penalty; only one option addresses it.",
+    "source": "adapted",
+    "tags": [
+      "listening",
+      "choose-response"
+    ],
+    "script_id": "listening_script_cr_012",
+    "question": "Choose the best response.",
+    "choices": [
+      "The lab is in Room 204.",
+      "I think late work loses ten percent, but check the syllabus.",
+      "I finished the experiment yesterday.",
+      "Reports are printed on white paper."
+    ],
+    "correct": "I think late work loses ten percent, but check the syllabus."
   }
 ]

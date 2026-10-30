@@ -40,5 +40,77 @@
     "title": "Lecture: Neuroplasticity and Language Acquisition",
     "type": "lecture",
     "transcript": "Professor: So, last time we discussed the critical period hypothesis, the idea that there's a window during childhood when language acquisition happens most naturally.\n\nToday I want to complicate that picture a bit by talking about neuroplasticity. Neuroplasticity refers to the brain's ability to reorganize itself by forming new neural connections throughout life.\n\nNow, the traditional view, championed by Lenneberg in the nineteen sixties, held that after puberty, the brain loses much of its capacity to acquire language natively. And there's evidence for this - think of the difficulty most adults have achieving native-like pronunciation in a second language.\n\nBut recent research has challenged the absoluteness of this view. A twenty twenty-two study by Hartshorne and colleagues analyzed data from nearly seven hundred thousand English learners and found that while the critical period for achieving native-level grammar does end around seventeen or eighteen, the decline is gradual, not a cliff.\n\nMoreover, neuroimaging studies show that adult language learners can develop neural pathways that closely resemble those of native speakers, especially with intensive immersion. The key factor isn't age per se - it's the quantity and quality of input.\n\nThis has practical implications for language education. Programs that emphasize immersive, contextual learning tend to produce better outcomes than grammar-translation methods, even for adult learners. In our next class, we'll look at specific case studies of successful late language acquisition and what they tell us about optimal learning strategies."
+  },
+  {
+    "id": "listening_script_cr_001",
+    "title": "Short Utterance 1",
+    "type": "utterance",
+    "transcript": "Excuse me, do you know where the registrar's office is?"
+  },
+  {
+    "id": "listening_script_cr_002",
+    "title": "Short Utterance 2",
+    "type": "utterance",
+    "transcript": "Would you like to join our study group for the midterm?"
+  },
+  {
+    "id": "listening_script_cr_003",
+    "title": "Short Utterance 3",
+    "type": "utterance",
+    "transcript": "I was thinking about switching my major from biology to chemistry, but I'm not sure if my credits would transfer."
+  },
+  {
+    "id": "listening_script_cr_004",
+    "title": "Short Utterance 4",
+    "type": "utterance",
+    "transcript": "Professor, I noticed the reading assignment for next week isn't posted on the course website yet."
+  },
+  {
+    "id": "listening_script_cr_005",
+    "title": "Short Utterance 5",
+    "type": "utterance",
+    "transcript": "I've been waiting for the shuttle for twenty minutes. This is the third time this week it's been late."
+  },
+  {
+    "id": "listening_script_cr_006",
+    "title": "Short Utterance 6",
+    "type": "utterance",
+    "transcript": "I can't believe the library is closing for renovations right before finals week."
+  },
+  {
+    "id": "listening_script_cr_007",
+    "title": "Short Utterance 7",
+    "type": "utterance",
+    "transcript": "Excuse me, is this seat taken?"
+  },
+  {
+    "id": "listening_script_cr_008",
+    "title": "Short Utterance 8",
+    "type": "utterance",
+    "transcript": "How was your weekend?"
+  },
+  {
+    "id": "listening_script_cr_009",
+    "title": "Short Utterance 9",
+    "type": "utterance",
+    "transcript": "I'm having trouble logging into the student portal."
+  },
+  {
+    "id": "listening_script_cr_010",
+    "title": "Short Utterance 10",
+    "type": "utterance",
+    "transcript": "Do you mind if I open the window? It's getting a little warm in here."
+  },
+  {
+    "id": "listening_script_cr_011",
+    "title": "Short Utterance 11",
+    "type": "utterance",
+    "transcript": "I thought the deadline was Friday, but the syllabus says Wednesday."
+  },
+  {
+    "id": "listening_script_cr_012",
+    "title": "Short Utterance 12",
+    "type": "utterance",
+    "transcript": "If the lab report isn't finished by tomorrow, will there be a penalty?"
   }
 ]

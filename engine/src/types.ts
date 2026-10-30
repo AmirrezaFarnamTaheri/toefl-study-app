@@ -5,7 +5,8 @@
  *   vocabulary | reference | sentence_simplification | insert_text |
  *   prose_summary | listening_detail | listening_main_idea | listening_function |
  *   listening_attitude | listening_inference | writing_discussion | writing_integrated |
- *   writing_build_sentence | writing_email | complete_words
+ *   writing_build_sentence | writing_email | complete_words |
+ *   listening_choose_response
  */
 
 export type ToeflSection = "reading" | "listening" | "writing";
@@ -119,7 +120,8 @@ export interface ListeningQuestion extends QuestionBase {
     | "listening_main_idea"
     | "listening_function"
     | "listening_attitude"
-    | "listening_inference";
+    | "listening_inference"
+    | "listening_choose_response";
   script_id: string;
   question: string;
   choices: string[];

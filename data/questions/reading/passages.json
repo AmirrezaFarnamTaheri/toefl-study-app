@@ -40,5 +40,23 @@
     "title": "Mirror Neurons and Social Cognition",
     "text": "In the early 1990s, a team of Italian neuroscientists led by Giacomo Rizzolatti made an unexpected discovery while studying motor neurons in macaque monkeys. They found that certain neurons fired not only when a monkey performed an action, such as grasping food, but also when it observed another individual performing the same action. These cells, termed mirror neurons, appeared to create an internal simulation of observed behaviors.\n\nThe discovery sparked intense interest in whether humans possess a similar system. Subsequent neuroimaging studies have identified regions in the human brain, particularly the premotor cortex and inferior parietal lobule, that show mirror-like activity during both action execution and observation. Some researchers have proposed that this mirror system underlies our capacity for empathy, imitation learning, and theory of mind - the ability to attribute mental states to others.\n\nHowever, the mirror neuron hypothesis has also attracted criticism. Skeptics argue that the evidence for a discrete mirror neuron system in humans remains indirect, as single-neuron recordings in healthy humans are rare. Others caution against attributing complex social abilities to a single neural mechanism, noting that social cognition likely involves distributed networks rather than one specialized system.",
     "source": "toefl-skill"
+  },
+  {
+    "id": "passage_daily_movein",
+    "title": "Dormitory Move-In Notice (notice)",
+    "text": "MOVE-IN DAY - Fall 2026\n\nDate: August 25 (Sunday)\nCheck-in time: 8:00 AM - 4:00 PM\nLocation: Front desk of your assigned building\n\nWhat to bring:\n- Student ID (required)\n- Housing agreement (signed)\n- Bedding and personal items\n\nParking: Temporary unloading zone available in Lot C. Vehicles must be moved within 30 minutes.\n\nQuestions? Contact Housing Services at housing@university.edu",
+    "source": "original"
+  },
+  {
+    "id": "passage_daily_bookstore",
+    "title": "Email from Campus Bookstore (email)",
+    "text": "Subject: Your textbook order - partial shipment\n\nHi Jordan,\n\nTwo of the three textbooks you ordered are ready for pickup at the campus bookstore (Building D, first floor). Your order number is #BK-20261045.\n\nUnfortunately, \"Introduction to Environmental Science\" (3rd edition) is currently backordered and is expected to arrive by September 8. We'll send you another email when it's available.\n\nIn the meantime, your professor has placed a copy on reserve at the library, which you can borrow for 2-hour periods.\n\nPickup hours: Mon-Fri 9 AM - 6 PM, Sat 10 AM - 2 PM\n\nBest,\nCampus Bookstore Team",
+    "source": "original"
+  },
+  {
+    "id": "passage_daily_shuttle",
+    "title": "Shuttle Service Update (text message)",
+    "text": "From: Campus Transit\nTo: All registered riders\n\nDue to the homecoming parade on Oct 12, the following routes will be affected:\n\nRed Line: Suspended 10 AM - 3 PM. Use Blue Line as alternative (adds about 8 min).\nBlue Line: Running on extended schedule (every 10 min instead of 15).\nGreen Line: Detour via Oak St. Normal frequency.\n\nThe North Campus stop will be temporarily relocated to the corner of Elm and 5th (approx. 200m from usual location).\n\nRegular service resumes at 4 PM. Plan ahead.",
+    "source": "original"
   }
 ]

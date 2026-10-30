@@ -5,6 +5,7 @@ import type { AnyToeflQuestion } from "toefl-adaptive-engine";
 import { getPassageById, getScriptById } from "@/lib/questionBank";
 import BuildSentenceBoard, { emptyPlaced } from "@/components/questions/BuildSentenceBoard";
 import CompleteWordsBoard from "@/components/questions/CompleteWordsBoard";
+import ScriptPlayer from "@/components/questions/ScriptPlayer";
 
 interface ExamQuestionRendererProps {
   question: AnyToeflQuestion;
@@ -170,7 +171,7 @@ export default function ExamQuestionRenderer({
           <div className="passage-title">
             🎧 {script.title} ({script.type.toUpperCase()})
           </div>
-          <div>{script.transcript}</div>
+          <ScriptPlayer transcript={script.transcript} singlePlay />
         </div>
         <p className="prompt">{question.question}</p>
         <ul className="choice-list">

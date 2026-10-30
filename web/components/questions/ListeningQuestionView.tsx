@@ -3,6 +3,16 @@
 import { useState } from "react";
 import type { ListeningQuestion } from "toefl-adaptive-engine";
 import { getScriptById } from "@/lib/questionBank";
+import ScriptPlayer from "./ScriptPlayer";
+
+const labelMap: Record<ListeningQuestion["qtype"], string> = {
+  listening_main_idea: "Listening \u2022 Gist-Content / Main Idea",
+  listening_detail: "Listening \u2022 Detail",
+  listening_function: "Listening \u2022 Pragmatic Function",
+  listening_attitude: "Listening \u2022 Speaker Attitude",
+  listening_inference: "Listening \u2022 Inference",
+  listening_choose_response: "Listening \u2022 Listen and Choose a Response",
+};
 
 export default function ListeningQuestionView({
   question,
@@ -14,6 +24,7 @@ export default function ListeningQuestionView({
   const script = getScriptById(question.script_id);
   const [selected, setSelected] = useState<string | null>(null);
   const [submitted, setSubmitted] = useState(false);
+  const [showTranscript, setShowTranscript] = useState(false);
 
   const isCorrect = selected === question.correct;
 
@@ -23,22 +34,25 @@ export default function ListeningQuestionView({
     onAnswered(selected === question.correct);
   }
 
-  const labelMap: Record<ListeningQuestion["qtype"], string> = {
-    listening_main_idea: "Listening • Gist-Content / Main Idea",
-    listening_detail: "Listening • Detail",
-    listening_function: "Listening • Pragmatic Function",
-    listening_attitude: "Listening • Speaker Attitude",
-    listening_inference: "Listening • Inference",
-  };
-
   return (
     <div className="question">
       <span className="qtype-badge">{labelMap[question.qtype]}</span>
       <div className="passage-box">
         <div className="passage-title">
-          🎧 {script.title} ({script.type.toUpperCase()})
+          {script.title} ({script.type.toUpperCase()})
         </div>
-        <div>{script.transcript}</div>
+        <ScriptPlayer transcript={script.transcript} />
+        {submitted || showTranscript ? (
+          <div>{script.transcript}</div>
+        ) : (
+          <button
+            type="button"
+            onClick={() => setShowTranscript(true)}
+            style={{ background: "transparent", color: "var(--fg)", borderColor: "var(--border)" }}
+          >
+            Show transcript
+          </button>
+        )}
       </div>
 
       <p className="prompt">{question.question}</p>
